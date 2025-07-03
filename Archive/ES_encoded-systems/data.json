@@ -4,5 +4,13 @@
   "code": "ES",
   "description": "Post full encoded systems here!",
   "currentCodeId": 1,
-  "entries": []
+  "entries": [
+    {
+      "id": "1390385824486391979",
+      "name": "First encoded storage ever",
+      "code": "ES001",
+      "timestamp": 1751564400036,
+      "path": "ES001_First_encoded_storage_ever"
+    }
+  ]
 }
