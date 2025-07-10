@@ -48,24 +48,17 @@
       "path": "attachments/ES001_YouTube_Video_IyyteZwHlMQ.url"
     }
   ],
-  "description": "The first encoded storage in Minecraft.",
-  "features": [
-    "255 item types",
-    "automatic sorting",
-    "encoded player call"
-  ],
-  "considerations": [
-    "Lots of cart entities"
-  ],
-  "notes": "",
-  "timestamp": 1751564761363,
-  "post": {
-    "threadId": "1390386614211182754",
-    "forumId": "1325016702731423744",
-    "continuingMessageIds": [
-      "1390386616639553607"
+  "records": {
+    "description": "The first encoded storage in Minecraft.",
+    "features": [
+      "255 item types",
+      "automatic sorting",
+      "encoded player call"
     ],
-    "threadURL": "https://discord.com/channels/1325008017015701504/1390386614211182754",
-    "uploadMessageId": "1390386611899994126"
-  }
+    "considerations": [
+      "Lots of cart entities"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1751564761363
 }
