@@ -4,6 +4,7 @@
       "id": "1325016001623883886",
       "name": "data-storage",
       "code": "DS",
+      "category": "Archives",
       "path": "Archive/DS_data-storage",
       "description": "Post data storage components here! (EG: Redstone RAMs)"
     },
@@ -11,6 +12,7 @@
       "id": "1325016041042214983",
       "name": "chest-halls",
       "code": "CH",
+      "category": "Archives",
       "path": "Archive/CH_chest-halls",
       "description": "Post encoded chest hall designs here. Not filter based chest halls."
     },
@@ -18,6 +20,7 @@
       "id": "1325016085459636234",
       "name": "item-memory",
       "code": "IM",
+      "category": "Archives",
       "path": "Archive/IM_item-memory",
       "description": "Post item memories here! (EG: Item RAM, disk drives)"
     },
@@ -25,6 +28,7 @@
       "id": "1325016191416274984",
       "name": "autocrafting",
       "code": "AC",
+      "category": "Archives",
       "path": "Archive/AC_autocrafting",
       "description": "Post autocrafting related components here!"
     },
@@ -32,6 +36,7 @@
       "id": "1325016247515086928",
       "name": "display-halls",
       "code": "DH",
+      "category": "Archives",
       "path": "Archive/DH_display-halls",
       "description": "Post encoded shulker box display halls here."
     },
@@ -39,6 +44,7 @@
       "id": "1325016282629804053",
       "name": "encoders",
       "code": "EC",
+      "category": "Archives",
       "path": "Archive/EC_encoders",
       "description": "Post encoder designs here"
     },
@@ -46,6 +52,7 @@
       "id": "1325016379031814195",
       "name": "external-bulk",
       "code": "EB",
+      "category": "Archives",
       "path": "Archive/EB_external-bulk",
       "description": "Post external bulk related components here!"
     },
@@ -53,6 +60,7 @@
       "id": "1325016435092881438",
       "name": "item-variable",
       "code": "IV",
+      "category": "Archives",
       "path": "Archive/IV_item-variable",
       "description": "Post item variable components here! (EG: Variable filters, stack sep)"
     },
@@ -60,6 +68,7 @@
       "id": "1325016513660321802",
       "name": "logic-and-computation",
       "code": "LC",
+      "category": "Archives",
       "path": "Archive/LC_logic-and-computation",
       "description": "Post logical circuits here!"
     },
@@ -67,6 +76,7 @@
       "id": "1325016556026990613",
       "name": "merging",
       "code": "MG",
+      "category": "Archives",
       "path": "Archive/MG_merging",
       "description": "Post merging related components here!"
     },
@@ -74,6 +84,7 @@
       "id": "1325016579687059478",
       "name": "splitting",
       "code": "SG",
+      "category": "Archives",
       "path": "Archive/SG_splitting",
       "description": "Post designs related to splitting here! EG: Box splitters"
     },
@@ -81,6 +92,7 @@
       "id": "1325016626747146270",
       "name": "transport",
       "code": "TP",
+      "category": "Archives",
       "path": "Archive/TP_transport",
       "description": "Post encoded transport related things here! (EG: item transport)"
     },
@@ -88,6 +100,7 @@
       "id": "1325016645244157982",
       "name": "wiring",
       "code": "WI",
+      "category": "Archives",
       "path": "Archive/WI_wiring",
       "description": "Post wires and cool tricks here! (EG: instant lines)"
     },
@@ -95,6 +108,7 @@
       "id": "1325016702731423744",
       "name": "encoded-systems",
       "code": "ES",
+      "category": "Archives",
       "path": "Archive/ES_encoded-systems",
       "description": "Post full encoded systems here!"
     },
@@ -102,6 +116,7 @@
       "id": "1325016775049351241",
       "name": "box-variable",
       "code": "BV",
+      "category": "Archives",
       "path": "Archive/BV_box-variable",
       "description": "Post shulker box variable components here!"
     },
@@ -109,6 +124,7 @@
       "id": "1325016961775702067",
       "name": "everything-bagel",
       "code": "MX",
+      "category": "Archives",
       "path": "Archive/MX_everything-bagel",
       "description": "Post everything else that relates to encoded tech!"
     },
@@ -116,6 +132,7 @@
       "id": "1325018609788911719",
       "name": "decoders",
       "code": "DC",
+      "category": "Archives",
       "path": "Archive/DC_decoders",
       "description": "Post decoder designs here!"
     },
@@ -123,6 +140,7 @@
       "id": "1361851282381602996",
       "name": "helpful-std-bookmarks",
       "code": "ST",
+      "category": "Archives",
       "path": "Archive/ST_helpful-std-bookmarks",
       "description": "Links to useful resources in other discord servers, specifically, storage tech discord"
     }
