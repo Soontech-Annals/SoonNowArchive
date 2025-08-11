@@ -10,7 +10,10 @@
       "name": "First encoded storage ever",
       "code": "ES001",
       "timestamp": 1751564761363,
-      "path": "ES001_First_encoded_storage_ever"
+      "path": "ES001_First_encoded_storage_ever",
+      "tags": [
+        "Old/Outdated"
+      ]
     }
   ],
   "category": "Archives"

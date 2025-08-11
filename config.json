@@ -6,7 +6,16 @@
       "code": "DS",
       "category": "Archives",
       "path": "Archive/DS_data-storage",
-      "description": "Post data storage components here! (EG: Redstone RAMs)"
+      "description": "Post data storage components here! (EG: Redstone RAMs)",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016041042214983",
@@ -14,7 +23,16 @@
       "code": "CH",
       "category": "Archives",
       "path": "Archive/CH_chest-halls",
-      "description": "Post encoded chest hall designs here. Not filter based chest halls."
+      "description": "Post encoded chest hall designs here. Not filter based chest halls.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016085459636234",
@@ -22,7 +40,16 @@
       "code": "IM",
       "category": "Archives",
       "path": "Archive/IM_item-memory",
-      "description": "Post item memories here! (EG: Item RAM, disk drives)"
+      "description": "Post item memories here! (EG: Item RAM, disk drives)",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016191416274984",
@@ -30,7 +57,16 @@
       "code": "AC",
       "category": "Archives",
       "path": "Archive/AC_autocrafting",
-      "description": "Post autocrafting related components here!"
+      "description": "Post autocrafting related components here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016247515086928",
@@ -38,7 +74,16 @@
       "code": "DH",
       "category": "Archives",
       "path": "Archive/DH_display-halls",
-      "description": "Post encoded shulker box display halls here."
+      "description": "Post encoded shulker box display halls here.",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016282629804053",
@@ -46,7 +91,15 @@
       "code": "EC",
       "category": "Archives",
       "path": "Archive/EC_encoders",
-      "description": "Post encoder designs here"
+      "description": "Post encoder designs here",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016379031814195",
@@ -54,7 +107,16 @@
       "code": "EB",
       "category": "Archives",
       "path": "Archive/EB_external-bulk",
-      "description": "Post external bulk related components here!"
+      "description": "Post external bulk related components here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016435092881438",
@@ -62,7 +124,16 @@
       "code": "IV",
       "category": "Archives",
       "path": "Archive/IV_item-variable",
-      "description": "Post item variable components here! (EG: Variable filters, stack sep)"
+      "description": "Post item variable components here! (EG: Variable filters, stack sep)",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016513660321802",
@@ -70,7 +141,16 @@
       "code": "LC",
       "category": "Archives",
       "path": "Archive/LC_logic-and-computation",
-      "description": "Post logical circuits here!"
+      "description": "Post logical circuits here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016556026990613",
@@ -78,7 +158,16 @@
       "code": "MG",
       "category": "Archives",
       "path": "Archive/MG_merging",
-      "description": "Post merging related components here!"
+      "description": "Post merging related components here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016579687059478",
@@ -86,7 +175,16 @@
       "code": "SG",
       "category": "Archives",
       "path": "Archive/SG_splitting",
-      "description": "Post designs related to splitting here! EG: Box splitters"
+      "description": "Post designs related to splitting here! EG: Box splitters",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016626747146270",
@@ -94,7 +192,16 @@
       "code": "TP",
       "category": "Archives",
       "path": "Archive/TP_transport",
-      "description": "Post encoded transport related things here! (EG: item transport)"
+      "description": "Post encoded transport related things here! (EG: item transport)",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016645244157982",
@@ -102,7 +209,16 @@
       "code": "WI",
       "category": "Archives",
       "path": "Archive/WI_wiring",
-      "description": "Post wires and cool tricks here! (EG: instant lines)"
+      "description": "Post wires and cool tricks here! (EG: instant lines)",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016702731423744",
@@ -110,7 +226,16 @@
       "code": "ES",
       "category": "Archives",
       "path": "Archive/ES_encoded-systems",
-      "description": "Post full encoded systems here!"
+      "description": "Post full encoded systems here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016775049351241",
@@ -118,7 +243,16 @@
       "code": "BV",
       "category": "Archives",
       "path": "Archive/BV_box-variable",
-      "description": "Post shulker box variable components here!"
+      "description": "Post shulker box variable components here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325016961775702067",
@@ -126,7 +260,16 @@
       "code": "MX",
       "category": "Archives",
       "path": "Archive/MX_everything-bagel",
-      "description": "Post everything else that relates to encoded tech!"
+      "description": "Post everything else that relates to encoded tech!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1325018609788911719",
@@ -134,7 +277,16 @@
       "code": "DC",
       "category": "Archives",
       "path": "Archive/DC_decoders",
-      "description": "Post decoder designs here!"
+      "description": "Post decoder designs here!",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     },
     {
       "id": "1361851282381602996",
@@ -142,7 +294,16 @@
       "code": "ST",
       "category": "Archives",
       "path": "Archive/ST_helpful-std-bookmarks",
-      "description": "Links to useful resources in other discord servers, specifically, storage tech discord"
+      "description": "Links to useful resources in other discord servers, specifically, storage tech discord",
+      "availableTags": [
+        "Untested",
+        "Broken",
+        "Tested & Functional",
+        "Recommended",
+        "Old/Outdated",
+        "A+ Excellent!",
+        "Quite Novel!"
+      ]
     }
   ]
 }
