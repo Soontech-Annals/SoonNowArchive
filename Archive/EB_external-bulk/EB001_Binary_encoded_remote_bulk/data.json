@@ -1,0 +1,98 @@
+{
+  "id": "1414708030137958560",
+  "name": "Binary encoded remote bulk",
+  "code": "EB001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "654777405411557396",
+      "displayName": "ʟᴜ",
+      "username": "lucas.aaa123",
+      "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142050068500530",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1414708030515187793",
+      "name": "mini_bulk_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1414708030137958560/1414708030515187793/mini_bulk_1.png?ex=68c08d06&is=68bf3b86&hm=1afd21749890d69613c0f4579ed251f26c1d01e34b0e755078b44c9cc18f3543&",
+      "description": "Sent by lucas.aaa123 at 9/8/2025, 4:24:38 PM",
+      "canDownload": true,
+      "width": 694,
+      "height": 475,
+      "path": "images/mini_bulk_1.png"
+    },
+    {
+      "id": "1414708031127552031",
+      "name": "mini_bulk_3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1414708030137958560/1414708031127552031/mini_bulk_3.png?ex=68c08d06&is=68bf3b86&hm=26849d1de0a419b22573754d22aff0064c45faedd8baab4a62d2108b9bb141df&",
+      "description": "Sent by lucas.aaa123 at 9/8/2025, 4:24:38 PM",
+      "canDownload": true,
+      "width": 459,
+      "height": 800,
+      "path": "images/mini_bulk_3.png"
+    },
+    {
+      "id": "1414708031748444291",
+      "name": "mini_bulk_shaders_3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1414708030137958560/1414708031748444291/mini_bulk_shaders_3.png?ex=68c08d06&is=68bf3b86&hm=125c2b4f95254115334bbb2b03c7f82d430ba6720be378769f077e5c873072a8&",
+      "description": "Sent by lucas.aaa123 at 9/8/2025, 4:24:38 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/mini_bulk_shaders_3.png"
+    },
+    {
+      "id": "1414708032448761888",
+      "name": "mini_bulk_shaders_2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1414708030137958560/1414708032448761888/mini_bulk_shaders_2.png?ex=68c08d06&is=68bf3b86&hm=b9737944c498b6d3d47ec07950b00f3f6a3e8b06c085732c848d4659dcae28d8&",
+      "description": "Sent by lucas.aaa123 at 9/8/2025, 4:24:38 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 450,
+      "path": "images/mini_bulk_shaders_2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1414708032822317127",
+      "name": "EB001_Lu_mini_bulk.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1414708030137958560/1414708032822317127/Lu_mini_bulk.litematic?ex=68c08d07&is=68bf3b87&hm=5f68fc6b7c21f61c860d4de70fdae9521e22f6ac8b924fe4199d7be5a39786d9&",
+      "description": "Sent by lucas.aaa123 at 9/8/2025, 4:24:38 PM",
+      "canDownload": true,
+      "path": "attachments/EB001_Lu_mini_bulk.litematic",
+      "litematic": {
+        "size": "68x29x39",
+        "version": "1.19.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "A mini bulk made with the decoder's heads for crain decoder that are 2w front and no space in between the decoders.",
+    "features": [],
+    "considerations": [],
+    "notes": "Can restock n54 boxed continually, can do multi slicing, bulk slice by floppy, FHL (classic), dropper lines are optimised (detection based)"
+  },
+  "timestamp": 1757363551543,
+  "post": {
+    "threadId": "1414710018812412065",
+    "forumId": "1325016379031814195",
+    "continuingMessageIds": [
+      "1414710022105071688"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1414710018812412065",
+    "uploadMessageId": "1414710015876399228"
+  }
+}
