@@ -3,7 +3,18 @@
   "name": "encoders",
   "code": "EC",
   "description": "Post encoder designs here",
-  "currentCodeId": 0,
-  "entries": [],
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1444407242689351852",
+      "name": "[1.19 - 1.20 and 1.21+] 10 bits + 8 bits encoder (Ferrari encoder)",
+      "code": "EC001",
+      "timestamp": 1764444531359,
+      "path": "EC001_1.19_-_1.20_and_1.21_10_bits__8_bits_encoder_Ferrari_encoder",
+      "tags": [
+        "Tested & Functional"
+      ]
+    }
+  ],
   "category": "Archives"
 }
