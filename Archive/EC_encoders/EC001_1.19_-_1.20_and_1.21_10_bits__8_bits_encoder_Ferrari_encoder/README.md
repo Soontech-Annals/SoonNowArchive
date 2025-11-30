@@ -19,3 +19,8 @@ To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace t
 
 ## Other Images
 <img src="images/2025-11-29_20.19.59.png?raw=1" height="300px">
+
+## Resources
+- [EC001_1.21_Ferrari_Encoder.litematic](attachments/EC001_1.21_Ferrari_Encoder.litematic): MC 1.21.5, Size 48x15x15 blocks
+- [EC001_2025-11-29_20.20.04.png](attachments/EC001_2025-11-29_20.20.04.png): image/png
+- [EC001_2025-11-29_20.19.59.png](attachments/EC001_2025-11-29_20.19.59.png): image/png

@@ -42,7 +42,39 @@
       "path": "images/2025-11-29_20.19.59.png"
     }
   ],
-  "attachments": [],
+  "attachments": [
+    {
+      "id": "1444408512498237600",
+      "name": "EC001_1.21_Ferrari_Encoder.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444408512498237600/1.21_Ferrari_Encoder.litematic?ex=692c99c1&is=692b4841&hm=a1ba75801d0db99bb4544479dc52f3b6664f1234ba290ae73b6c2ac8e1a7b02b&",
+      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:23:45 PM",
+      "canDownload": true,
+      "path": "attachments/EC001_1.21_Ferrari_Encoder.litematic",
+      "litematic": {
+        "size": "48x15x15",
+        "version": "1.21.5"
+      }
+    },
+    {
+      "id": "1444407738296959057",
+      "name": "EC001_2025-11-29_20.20.04.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444407738296959057/2025-11-29_20.20.04.png?ex=692c9908&is=692b4788&hm=2249528791285e0e07d45b5a30d8f202de086bf34e9bbf1080adbf4e26e98bed&",
+      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:20:40 PM",
+      "canDownload": true,
+      "path": "attachments/EC001_2025-11-29_20.20.04.png"
+    },
+    {
+      "id": "1444407738909200424",
+      "name": "EC001_2025-11-29_20.19.59.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444407738909200424/2025-11-29_20.19.59.png?ex=692c9908&is=692b4788&hm=1c419692ee2981345ec56b8faffbc84ba1a7eeb1a2a815c61d74cf676caacaff&",
+      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:20:40 PM",
+      "canDownload": true,
+      "path": "attachments/EC001_2025-11-29_20.19.59.png"
+    }
+  ],
   "records": {
     "description": "A device that allows for encoding items in a secure manner.",
     "features": [
@@ -55,12 +87,14 @@
     ],
     "notes": "To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block."
   },
-  "timestamp": 1764444531359,
+  "timestamp": 1764486663959,
   "post": {
     "threadId": "1444409798509596858",
     "forumId": "1325016282629804053",
-    "continuingMessageIds": [],
+    "continuingMessageIds": [
+      "1444586522803179581"
+    ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1444409798509596858",
-    "uploadMessageId": ""
+    "uploadMessageId": "1444586520316088380"
   }
 }
