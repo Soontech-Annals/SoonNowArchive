@@ -8,7 +8,7 @@
       "id": "1238721489260253219",
       "displayName": "AugmentMendo",
       "username": "augmentmendo",
-      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/cee631a38108b7f34a581dcaca24c022.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/ab2ce15dc9e67f31afb0bd6abbd814dd.webp"
     }
   ],
   "endorsers": [],
@@ -18,8 +18,34 @@
       "name": "Tested & Functional"
     }
   ],
-  "images": [],
-  "attachments": [],
+  "images": [
+    {
+      "id": "1446387684011675698",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1446387683101380650/1446387684011675698/area_render.png?ex=6933cd00&is=69327b80&hm=4663ab717aa7848f651840814a2f72f0996487a1859265a3171267ec0d553a7e&",
+      "description": "Sent by augmentmendo at 12/5/2025, 1:28:16 AM",
+      "canDownload": true,
+      "width": 800,
+      "height": 467,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1446387684577640569",
+      "name": "DC001_Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1446387683101380650/1446387684577640569/Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic?ex=6933cd00&is=69327b80&hm=00c9fc7c9df5d8d0aaca6e822ce45c4ef557efe94d10745574cf483631e570ae&",
+      "description": "Sent by augmentmendo at 12/5/2025, 1:28:16 AM",
+      "canDownload": true,
+      "path": "attachments/DC001_Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic",
+      "litematic": {
+        "size": "90x11x16",
+        "version": "1.21.4"
+      }
+    }
+  ],
   "records": {
     "description": "Augment's latch-based demuxers",
     "features": [
@@ -34,12 +60,14 @@
     ],
     "notes": ""
   },
-  "timestamp": 1764916198455,
+  "timestamp": 1764948686642,
   "post": {
-    "threadId": "1446388112589852733",
+    "threadId": "1446524380988313710",
     "forumId": "1325018609788911719",
-    "continuingMessageIds": [],
-    "threadURL": "https://discord.com/channels/1325008017015701504/1446388112589852733",
-    "uploadMessageId": ""
+    "continuingMessageIds": [
+      "1446524383463084042"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1446524380988313710",
+    "uploadMessageId": "1446524379210190933"
   }
 }

@@ -1,9 +1,11 @@
 # Crain Decoder Heads with 3-bit pre demuxing
+<img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
+
 **Authors:** *AugmentMendo*
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1446388112589852733)
+**Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1446524380988313710)
 
 Augment's latch-based demuxers
 ## Features
@@ -14,3 +16,6 @@ Augment's latch-based demuxers
 - Can add an extra'restock' bit to restock
 ## Instructions
 - After pasting the schem, please `//update `once
+
+## Resources
+- [DC001_Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic](attachments/DC001_Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic): MC 1.21.4, Size 90x11x16 blocks
