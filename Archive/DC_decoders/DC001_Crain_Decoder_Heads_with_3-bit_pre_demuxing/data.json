@@ -1,0 +1,45 @@
+{
+  "id": "1446387683101380650",
+  "name": "Crain Decoder Heads with 3-bit pre demuxing",
+  "code": "DC001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1238721489260253219",
+      "displayName": "AugmentMendo",
+      "username": "augmentmendo",
+      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/cee631a38108b7f34a581dcaca24c022.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019270521819156",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "records": {
+    "description": "Augment's latch-based demuxers",
+    "features": [
+      "Works by shifting a CUD sequence to enable deserialising",
+      "Uses dropper latches for 0 code and piston latches for 1 code",
+      "Can have 3 block gap between your decoders/silos",
+      "Requires resetting latches after pre-demuxing",
+      "Can add an extra'restock' bit to restock"
+    ],
+    "instructions": [
+      "After pasting the schem, please `//update `once"
+    ],
+    "notes": ""
+  },
+  "timestamp": 1764916198455,
+  "post": {
+    "threadId": "1446388112589852733",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1446388112589852733",
+    "uploadMessageId": ""
+  }
+}
