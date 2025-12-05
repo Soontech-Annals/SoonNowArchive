@@ -3,7 +3,18 @@
   "name": "decoders",
   "code": "DC",
   "description": "Post decoder designs here!",
-  "currentCodeId": 0,
-  "entries": [],
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1446387683101380650",
+      "name": "Crain Decoder Heads with 3-bit pre demuxing",
+      "code": "DC001",
+      "timestamp": 1764916198455,
+      "path": "DC001_Crain_Decoder_Heads_with_3-bit_pre_demuxing",
+      "tags": [
+        "Tested & Functional"
+      ]
+    }
+  ],
   "category": "Archives"
 }
