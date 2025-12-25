@@ -15,7 +15,7 @@ Augment's latch-based demuxers
 - Requires resetting latches after pre-demuxing
 - Can add an extra'restock' bit to restock
 ## Instructions
-- After pasting the schem, please `//update `once
+1. After pasting the schem, please `//update `once
 
 ## Resources
 - [DC001_Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic](attachments/DC001_Augment_Crain_Decoder_Heads_with_3-bit_latch_demuxers.litematic): MC 1.21.4, Size 90x11x16 blocks
