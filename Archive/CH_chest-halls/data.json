@@ -3,7 +3,18 @@
   "name": "chest-halls",
   "code": "CH",
   "description": "Post encoded chest hall designs here. Not filter based chest halls.",
-  "currentCodeId": 0,
-  "entries": [],
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1454537445625303060",
+      "name": "[1.19+] Encoded Chest Hall",
+      "code": "CH001",
+      "timestamp": 1766859596990,
+      "path": "CH001_1.19_Encoded_Chest_Hall",
+      "tags": [
+        "Tested & Functional"
+      ]
+    }
+  ],
   "category": "Archives"
 }
