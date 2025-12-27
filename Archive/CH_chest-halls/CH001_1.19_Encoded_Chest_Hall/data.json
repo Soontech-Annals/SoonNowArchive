@@ -1,0 +1,92 @@
+{
+  "id": "1454537445625303060",
+  "name": "[1.19+] Encoded Chest Hall",
+  "code": "CH001",
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "670693115887091722",
+      "displayName": "Kurisu",
+      "username": "kurisu_techmc_user",
+      "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1238721489260253219",
+      "displayName": "AugmentMendo",
+      "username": "augmentmendo",
+      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/ab2ce15dc9e67f31afb0bd6abbd814dd.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "999238176029806652",
+      "displayName": "DNator",
+      "username": "dnator1195",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141128441364500",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454537840313765919",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1454537445625303060/1454537840313765919/area_render.png?ex=6951736d&is=695021ed&hm=f94330ad8929f88bf4a86302b6af459a097d8f7e7b9c5c5285c7ddb728c5642e&",
+      "description": "Sent by kurisu_techmc_user at 12/27/2025, 1:14:05 PM",
+      "canDownload": true,
+      "width": 800,
+      "height": 672,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1454538122019733596",
+      "name": "CH001_CH11.litematic",
+      "url": "https://cdn.discordapp.com/ephemeral-attachments/1454537956500181155/1454538122019733596/CH11.litematic?ex=695173b0&is=69502230&hm=5270cad0d7951fc702db0772a33c1ec991e40085d3b7be27966b7e6096b20e3b&",
+      "description": "Added by kurisu_techmc_user at 12/27/2025, 1:15:12 PM",
+      "contentType": "unknown",
+      "canDownload": true,
+      "path": "attachments/CH001_CH11.litematic",
+      "litematic": {
+        "size": "72x27x25",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "- Feel free to DM Kurisu for questions.",
+    "features": [
+      "FHL front",
+      "Read codeboxes",
+      "Handle partials and full pure boxes",
+      "Overflow protections (IsFull during filling && IsFull before inputting)"
+    ],
+    "instructions": [
+      "throw the code box",
+      "throw the item box"
+    ]
+  },
+  "styles": {
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    }
+  },
+  "timestamp": 1766859596990,
+  "post": {
+    "threadId": "1454539320001302538",
+    "forumId": "1325016041042214983",
+    "continuingMessageIds": [
+      "1454539322685390991"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1454539320001302538",
+    "uploadMessageId": "1454539317686046854"
+  }
+}
