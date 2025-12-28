@@ -11,7 +11,7 @@ A device that allows for encoding items in a secure manner.
 ## Features
 - Pausable
 - Security features (Chests have been reset && Has item to encode && IsBox && Carts checking)
-- Include 2 [encoders](https://discord.com/channels/1325008017015701504/1454687127769055283) in 1
+- Include 2 encoders in 1
 ## Instructions
 1. Input your box in the input hopper.
 ## Notes
