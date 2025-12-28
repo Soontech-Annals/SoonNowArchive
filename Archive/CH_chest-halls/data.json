@@ -9,7 +9,8 @@
       "id": "1454537445625303060",
       "name": "[1.19+] Encoded Chest Hall",
       "code": "CH001",
-      "timestamp": 1766859596990,
+      "archivedAt": 1766859596990,
+      "updatedAt": 1766859596990,
       "path": "CH001_1.19_Encoded_Chest_Hall",
       "tags": [
         "Tested & Functional"

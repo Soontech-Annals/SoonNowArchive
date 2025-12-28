@@ -9,7 +9,8 @@
       "id": "1414708030137958560",
       "name": "Binary encoded remote bulk",
       "code": "EB001",
-      "timestamp": 1757363551543,
+      "archivedAt": 1757363551543,
+      "updatedAt": 1757363551543,
       "path": "EB001_Binary_encoded_remote_bulk",
       "tags": [
         "Untested"
