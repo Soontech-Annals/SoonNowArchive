@@ -92,9 +92,23 @@
     "threadId": "1444409798509596858",
     "forumId": "1325016282629804053",
     "continuingMessageIds": [
-      "1444586522803179581"
+      "1444586522803179581",
+      "1454687379074977944"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1444409798509596858",
     "uploadMessageId": "1444586520316088380"
-  }
+  },
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "encoders",
+      "id": "1454687127769055283",
+      "url": "https://discord.com/channels/1325008017015701504/1454687127769055283",
+      "matches": [
+        "encoders",
+        "encoder"
+      ]
+    }
+  ],
+  "author_references": []
 }
