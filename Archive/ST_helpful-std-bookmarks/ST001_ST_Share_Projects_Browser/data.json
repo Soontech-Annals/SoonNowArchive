@@ -37,14 +37,39 @@
   ],
   "attachments": [],
   "records": {
-    "description": "A web app that allows users to easily find and access schematics shared in the Storage Tech Discord's share-projects channel, which contains many encoded tech projects like matrix halls that are buried and unsorted.",
+    "description": "A web app that allows users to easily find and access schematics shared in the Storage Tech Discord's [share-projects](https://discord.com/channels/748542142347083868/748547221338849330) channel, which contains many encoded tech projects like matrix halls that are buried and unsorted.",
+    "features": [
+      "Search and filtering capabilities"
+    ],
+    "instructions": [
+      "Visit the [website](https://andrews54757.github.io/st-shared-projects-browser)",
+      "Enjoy!"
+    ],
     "notes": "The link to the web application is https://andrews54757.github.io/st-shared-projects-browser."
   },
-  "timestamp": 1766254242183,
+  "styles": {},
+  "references": [
+    {
+      "type": "discordLink",
+      "url": "https://discord.com/channels/748542142347083868/748547221338849330",
+      "server": "748542142347083868",
+      "channel": "748547221338849330",
+      "matches": [
+        "https://discord.com/channels/748542142347083868/748547221338849330"
+      ],
+      "serverName": "Storage Tech",
+      "serverJoinURL": "https://discord.gg/JufJ6uf"
+    }
+  ],
+  "author_references": [],
+  "updatedAt": 1766896696221,
+  "archivedAt": 1766896696221,
   "post": {
     "threadId": "1452000274997711012",
     "forumId": "1361851282381602996",
-    "continuingMessageIds": [],
+    "continuingMessageIds": [
+      "1454694925940691054"
+    ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1452000274997711012",
     "uploadMessageId": ""
   }
