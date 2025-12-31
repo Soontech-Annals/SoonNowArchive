@@ -1,7 +1,7 @@
 # Crain Decoder Heads with 3-bit pre demuxing
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *Augment*
+**Authors:** *AugmentMendo*
 
 **Tags:** *Tested & Functional*
 
