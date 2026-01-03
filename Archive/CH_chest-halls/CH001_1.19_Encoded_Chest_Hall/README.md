@@ -1,7 +1,7 @@
 # [1.19+] Encoded Chest Hall
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *Kurisu, AugmentMendo, DNator*
+**Authors:** *kurisu_techmc_user, augmentmendo, dnator1195*
 
 **Tags:** *Tested & Functional*
 
