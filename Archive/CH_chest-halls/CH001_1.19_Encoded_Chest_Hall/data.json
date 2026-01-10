@@ -15,7 +15,7 @@
       "id": "1238721489260253219",
       "displayName": "AugmentMendo",
       "username": "augmentmendo",
-      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/79fa7f158bd558529dd84b493c5d4373.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/b5bd850f6f155a554b404a24f7bb4ced.webp"
     },
     {
       "type": "discord-in-guild",
@@ -92,5 +92,11 @@
   "references": [],
   "author_references": [],
   "archivedAt": 1766859596990,
-  "updatedAt": 1766859596990
+  "updatedAt": 1766859596990,
+  "reservedCodes": [
+    "CH001"
+  ],
+  "pastPostThreadIds": [
+    "1454539320001302538"
+  ]
 }
