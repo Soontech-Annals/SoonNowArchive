@@ -2,20 +2,14 @@
   "id": "1325016702731423744",
   "name": "encoded-systems",
   "code": "ES",
+  "category": "Archives",
   "description": "Post full encoded systems here!",
   "currentCodeId": 1,
   "entries": [
     {
       "id": "1390385824486391979",
-      "name": "First encoded storage ever",
       "code": "ES001",
-      "archivedAt": 1751564761363,
-      "updatedAt": 1751564761363,
-      "path": "ES001_First_encoded_storage_ever",
-      "tags": [
-        "Old/Outdated"
-      ]
+      "path": "ES001_First_encoded_storage_ever"
     }
-  ],
-  "category": "Archives"
+  ]
 }

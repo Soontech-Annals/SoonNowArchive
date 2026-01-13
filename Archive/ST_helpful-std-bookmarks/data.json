@@ -2,21 +2,14 @@
   "id": "1361851282381602996",
   "name": "helpful-std-bookmarks",
   "code": "ST",
+  "category": "Archives",
   "description": "Links to useful resources in other discord servers, specifically, storage tech discord",
   "currentCodeId": 1,
   "entries": [
     {
       "id": "1451999983568945243",
-      "name": "ST Share Projects Browser",
       "code": "ST001",
-      "archivedAt": 1766904842404,
-      "updatedAt": 1766896785188,
-      "path": "ST001_ST_Share_Projects_Browser",
-      "tags": [
-        "Recommended",
-        "Tested & Functional"
-      ]
+      "path": "ST001_ST_Share_Projects_Browser"
     }
-  ],
-  "category": "Archives"
+  ]
 }

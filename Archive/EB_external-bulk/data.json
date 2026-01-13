@@ -2,20 +2,14 @@
   "id": "1325016379031814195",
   "name": "external-bulk",
   "code": "EB",
+  "category": "Archives",
   "description": "Post external bulk related components here!",
   "currentCodeId": 1,
   "entries": [
     {
       "id": "1414708030137958560",
-      "name": "Binary encoded remote bulk",
       "code": "EB001",
-      "archivedAt": 1757363551543,
-      "updatedAt": 1757363551543,
-      "path": "EB001_Binary_encoded_remote_bulk",
-      "tags": [
-        "Untested"
-      ]
+      "path": "EB001_Binary_encoded_remote_bulk"
     }
-  ],
-  "category": "Archives"
+  ]
 }
