@@ -2,6 +2,12 @@
   "id": "1446387683101380650",
   "name": "Crain Decoder Heads with 3-bit pre demuxing",
   "code": "DC001",
+  "reservedCodes": [
+    "DC001"
+  ],
+  "pastPostThreadIds": [
+    "1446524380988313710"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -60,7 +66,8 @@
     ],
     "notes": ""
   },
-  "timestamp": 1764948686642,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1446524380988313710",
     "forumId": "1325018609788911719",
@@ -70,14 +77,6 @@
     "threadURL": "https://discord.com/channels/1325008017015701504/1446524380988313710",
     "uploadMessageId": "1446524379210190933"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1764948686642,
-  "updatedAt": 1764948686642,
-  "reservedCodes": [
-    "DC001"
-  ],
-  "pastPostThreadIds": [
-    "1446524380988313710"
-  ]
+  "updatedAt": 1764948686642
 }

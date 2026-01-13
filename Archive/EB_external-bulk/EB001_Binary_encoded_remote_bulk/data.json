@@ -2,6 +2,12 @@
   "id": "1414708030137958560",
   "name": "Binary encoded remote bulk",
   "code": "EB001",
+  "reservedCodes": [
+    "EB001"
+  ],
+  "pastPostThreadIds": [
+    "1414710018812412065"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -85,7 +91,8 @@
     "considerations": [],
     "notes": "Can restock n54 boxed continually, can do multi slicing, bulk slice by floppy, FHL (classic), dropper lines are optimised (detection based)"
   },
-  "timestamp": 1757363551543,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1414710018812412065",
     "forumId": "1325016379031814195",
@@ -95,8 +102,6 @@
     "threadURL": "https://discord.com/channels/1325008017015701504/1414710018812412065",
     "uploadMessageId": "1414710015876399228"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1757363551543,
   "updatedAt": 1757363551543
 }

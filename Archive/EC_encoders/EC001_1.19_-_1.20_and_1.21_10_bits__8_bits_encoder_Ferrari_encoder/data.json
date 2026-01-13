@@ -2,6 +2,12 @@
   "id": "1444407242689351852",
   "name": "[1.19 - 1.20 and 1.21+] 10 bits + 8 bits encoder (Ferrari encoder)",
   "code": "EC001",
+  "reservedCodes": [
+    "EC001"
+  ],
+  "pastPostThreadIds": [
+    "1444409798509596858"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -87,7 +93,8 @@
     ],
     "notes": "To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block."
   },
-  "timestamp": 1764486663959,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1444409798509596858",
     "forumId": "1325016282629804053",
@@ -98,8 +105,6 @@
     "threadURL": "https://discord.com/channels/1325008017015701504/1444409798509596858",
     "uploadMessageId": "1444586520316088380"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1766903504306,
   "updatedAt": 1764486663959
 }

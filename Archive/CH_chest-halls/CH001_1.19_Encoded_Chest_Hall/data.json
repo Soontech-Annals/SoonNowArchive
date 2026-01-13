@@ -2,6 +2,12 @@
   "id": "1454537445625303060",
   "name": "[1.19+] Encoded Chest Hall",
   "code": "CH001",
+  "reservedCodes": [
+    "CH001"
+  ],
+  "pastPostThreadIds": [
+    "1454539320001302538"
+  ],
   "authors": [
     {
       "type": "discord-in-guild",
@@ -79,7 +85,8 @@
       "headerText": "Description"
     }
   },
-  "timestamp": 1766859596990,
+  "references": [],
+  "author_references": [],
   "post": {
     "threadId": "1454539320001302538",
     "forumId": "1325016041042214983",
@@ -89,14 +96,6 @@
     "threadURL": "https://discord.com/channels/1325008017015701504/1454539320001302538",
     "uploadMessageId": "1454539317686046854"
   },
-  "references": [],
-  "author_references": [],
   "archivedAt": 1766859596990,
-  "updatedAt": 1766859596990,
-  "reservedCodes": [
-    "CH001"
-  ],
-  "pastPostThreadIds": [
-    "1454539320001302538"
-  ]
+  "updatedAt": 1766859596990
 }
