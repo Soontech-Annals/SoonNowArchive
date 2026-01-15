@@ -14,12 +14,13 @@ A 6 bit encoded quad display with 2w frontend that uses dropper list making for 
 - Global box placement for ceiling displays
 - Front end noteblocks: First box placement , Request restock
 - Collectionless
-## Instructions
-1. Code pattern: X-XXXXXX-X 
-[ Left/Right - Slice bits - Top/Bottom ]
+- Lever: Disables an address from being added to the list
 ## Display Credits
 Floor Display: Data
 Ceiling Display: Hampter, Mingyu
+## Instructions
+1. Code pattern: X-XXXXXX-X 
+[ Left/Right - Slice bits - Top/Bottom ]
 
 ## Resources
 - [DH001_Phoenix_Quad_Display.litematic](attachments/DH001_Phoenix_Quad_Display.litematic): MC 1.20.4, Size 74x29x23 blocks

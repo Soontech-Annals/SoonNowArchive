@@ -59,12 +59,13 @@
       "Local box placement and default extended floor displays",
       "Global box placement for ceiling displays",
       "Front end noteblocks: First box placement , Request restock",
-      "Collectionless"
+      "Collectionless",
+      "Lever: Disables an address from being added to the list"
     ],
+    "display-credits": "Floor Display: Data\nCeiling Display: Hampter, Mingyu",
     "instructions": [
       "Code pattern: X-XXXXXX-X \n[ Left/Right - Slice bits - Top/Bottom ]"
-    ],
-    "display-credits": "Floor Display: Data\nCeiling Display: Hampter, Mingyu"
+    ]
   },
   "styles": {
     "display-credits": {
@@ -84,5 +85,5 @@
     "uploadMessageId": "1461467925524386026"
   },
   "archivedAt": 1768511505513,
-  "updatedAt": 1768511505513
+  "updatedAt": 1768512121730
 }
