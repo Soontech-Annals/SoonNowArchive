@@ -2,8 +2,14 @@
   "id": "1325016247515086928",
   "name": "display-halls",
   "code": "DH",
+  "category": "Archives",
   "description": "Post encoded shulker box display halls here.",
-  "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1461465445465985144",
+      "code": "DH001",
+      "path": "DH001_Phoenix_Quad_Display"
+    }
+  ]
 }
