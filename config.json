@@ -1,309 +1,184 @@
 {
   "archiveChannels": [
     {
-      "id": "1325016001623883886",
-      "name": "data-storage",
-      "code": "DS",
-      "category": "Archives",
-      "path": "Archive/DS_data-storage",
-      "description": "Post data storage components here! (EG: Redstone RAMs)",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016041042214983",
-      "name": "chest-halls",
-      "code": "CH",
-      "category": "Archives",
-      "path": "Archive/CH_chest-halls",
-      "description": "Post encoded chest hall designs here. Not filter based chest halls.",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016085459636234",
-      "name": "item-memory",
-      "code": "IM",
-      "category": "Archives",
-      "path": "Archive/IM_item-memory",
-      "description": "Post item memories here! (EG: Item RAM, disk drives)",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016191416274984",
-      "name": "autocrafting",
-      "code": "AC",
-      "category": "Archives",
-      "path": "Archive/AC_autocrafting",
-      "description": "Post autocrafting related components here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016247515086928",
-      "name": "display-halls",
-      "code": "DH",
-      "category": "Archives",
-      "path": "Archive/DH_display-halls",
-      "description": "Post encoded shulker box display halls here.",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
       "id": "1325016282629804053",
       "name": "encoders",
       "code": "EC",
+      "embedding": "KwonAiIZBAzw3uT8/gT4DwHtE//s8iP2CAD2BN8P9PsN/PoCzwr57fD7+hP19Z8u/PXlF/wSAAsO8AT+KfAABxQJ7QsA9/UABvca3AEAHyoL/y0wCgQcAPkZ5Mz8Bv7sCQIGB/X6EOMC/Pfa6AYFEg4D4Av97fYMAhUZBgcNBwji+gQSFgT67Pfv/QD1DxAcAPn1GwkJ7QkF8/QaBf7i7wb9BgUG6QP89u7xAhAK9e8YJgH49/z4AO79B/z8CdnlHP0G4fE0FiMSFCTy6QoOBBr+AuIH1QX7Be8B8Tv+/B7wOiIINe30+QAh/v4G9x30BQQB+efzIgLtC+8e/+Um+w==",
       "category": "Archives",
       "path": "Archive/EC_encoders",
       "description": "Post encoder designs here",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016379031814195",
-      "name": "external-bulk",
-      "code": "EB",
-      "category": "Archives",
-      "path": "Archive/EB_external-bulk",
-      "description": "Post external bulk related components here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016435092881438",
-      "name": "item-variable",
-      "code": "IV",
-      "category": "Archives",
-      "path": "Archive/IV_item-variable",
-      "description": "Post item variable components here! (EG: Variable filters, stack sep)",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016513660321802",
-      "name": "logic-and-computation",
-      "code": "LC",
-      "category": "Archives",
-      "path": "Archive/LC_logic-and-computation",
-      "description": "Post logical circuits here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016556026990613",
-      "name": "merging",
-      "code": "MG",
-      "category": "Archives",
-      "path": "Archive/MG_merging",
-      "description": "Post merging related components here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016579687059478",
-      "name": "splitting",
-      "code": "SG",
-      "category": "Archives",
-      "path": "Archive/SG_splitting",
-      "description": "Post designs related to splitting here! EG: Box splitters",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016626747146270",
-      "name": "transport",
-      "code": "TP",
-      "category": "Archives",
-      "path": "Archive/TP_transport",
-      "description": "Post encoded transport related things here! (EG: item transport)",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016645244157982",
-      "name": "wiring",
-      "code": "WI",
-      "category": "Archives",
-      "path": "Archive/WI_wiring",
-      "description": "Post wires and cool tricks here! (EG: instant lines)",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016702731423744",
-      "name": "encoded-systems",
-      "code": "ES",
-      "category": "Archives",
-      "path": "Archive/ES_encoded-systems",
-      "description": "Post full encoded systems here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016775049351241",
-      "name": "box-variable",
-      "code": "BV",
-      "category": "Archives",
-      "path": "Archive/BV_box-variable",
-      "description": "Post shulker box variable components here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
-    },
-    {
-      "id": "1325016961775702067",
-      "name": "everything-bagel",
-      "code": "MX",
-      "category": "Archives",
-      "path": "Archive/MX_everything-bagel",
-      "description": "Post everything else that relates to encoded tech!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
+      "position": 24
     },
     {
       "id": "1325018609788911719",
       "name": "decoders",
       "code": "DC",
+      "embedding": "KwId/ykUDBnk3fH/9w4BE/z2Ewb77xXwBQHzAOgV9f4R9PkL0QP3+PXwBx35/Zor8ezyDv4VCAAH6QvzKvYG8wwN+hYE/AAA+PIb6vcLFBkL/S8qBvshAfEV4sMIAAbuBQ0QAv3+FugA9/Tj3AMADxn65BIJ+vsPAhwPABcHCA/o7gEIEf/y2vr7+wPrCAAt/PXoFAIF7wUR4/QLCfri+//7Bg4C8wEC8eXwACIN4/odGvny7voBAAAICAP/HN7nJAYA3+wXGyAfER714wkQBBj5+8kE2A39APQA6yIA7xruLSwBIuzv+/4d9v0R/B3xAPgIAObiFwrmCPAl/Oou/g==",
       "category": "Archives",
       "path": "Archive/DC_decoders",
       "description": "Post decoder designs here!",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
+      "position": 25
+    },
+    {
+      "id": "1325016041042214983",
+      "name": "chest-halls",
+      "code": "CH",
+      "embedding": "HwUeAA8CEBDi7Nbk/gryDgf6GQP96xzyGgEKBNoX+/YR9/sH2AAE+Ov3DCP6/rkd7v3kCvsNA/b5AQ8PIQ4AAwj69BT8+/8ID/Ip+PEAFAkc9Bwm9QAHA/8f68sA/gvyEQABDtv0AO32BfXo+fz7CBEEAxED6Pj/ECQLBRECFRTm7REMCAf46vDrFvz0+gEg8PLz/voT6gAS2vASANv5AAALAAcY/gwJ+9zq+RUg+PcgJgAK+/v/DwcA/QADHdr0Fw4H+uocGBISECD03gn1ARrnDOMM2A/1/fcM7T8UEhvtIQ7wQeHgC+0i9vYbAS37A+oUBwX3IQLvAOYIAeFHBg==",
+      "category": "Archives",
+      "path": "Archive/CH_chest-halls",
+      "description": "Post encoded chest hall designs here. Not filter based chest halls.",
+      "position": 26
+    },
+    {
+      "id": "1325016247515086928",
+      "name": "display-halls",
+      "code": "DH",
+      "embedding": "IxUS/hcEDCHh+OHu+QXsBAH7DP716CD4EAUK+dIX/vEX6/oV3AkA+vTwIRvuCLgb+gPnB/YI+/EA9QcHIfj6CP32AwEBAu8XBfg77PEOCBMIBhsk/QgJ7fcB4N39AAT1DfoFDNUBGt7+8uzs8Pz//w/59xMB5fsODBUEBw//BQvn9AQODBHx6/HrDfnw/PoO+gDrAO8W8gUM2PsDEOrf/QAA9AYG/QP2C9bw+xQi8fAqIxHz9vfuIff9/QAED8/1DRIB6uQNIQwdCRz16xkB/A3z/9AP5RAABQIH7zEZ/w3iIxX8KO3m/Pkm7ugSDSflBu4RD/HsIAbw9vMNAM1M/w==",
+      "category": "Archives",
+      "path": "Archive/DH_display-halls",
+      "description": "Post encoded shulker box display halls here.",
+      "position": 27
+    },
+    {
+      "id": "1325016379031814195",
+      "name": "external-bulk",
+      "code": "EB",
+      "embedding": "IggZCTYAAST939sLCAAGCv36Cvz7/i0OCfv8AOoF5QMMBA0PzAsA9/8H6xMBA6Ea9A3jEALzGQ326/TpHALvAR0V/xTq+gX68fIe9usBGyAOBRgI//sT7fYc9OMN/gzlBfUIEuv7BvL5/PHq4hwICQAE9Br4CgEJCC4UCRQJIP7o6AALEAPz0v39FgIADO8lAPzs+/YZ5Bfy3f8VFwPa7gIPHPD+7QDy+fYA7/sG5v8kHgf65wUA+PLvCfcDF97wIfcN5fwnFCcSIQT57wsP9xQA+dMHzv8A/fMG9TkPARvmIyn5HN8LB+whAAv9AxEA/gMFBAr3Ggj+4+kXFtMk5A==",
+      "category": "Archives",
+      "path": "Archive/EB_external-bulk",
+      "description": "Post external bulk related components here!",
+      "position": 28
+    },
+    {
+      "id": "1325016579687059478",
+      "name": "splitting",
+      "code": "SG",
+      "embedding": "MgAd/zUW/xTq2vAGAA7sGAD2FADy6yn8Dwzz8fEd9vsN/Qjn4gAD7/n0/gXyA6Et7P/qE/UKBQEE6P/5J/b/AAgW+Avv9Qz99/4y8Ob6FBsBEx8gCfII+/wa7M0GCA3sBgkdC/vzCPkD/fXt4QkCFCEQ7Q4CCgMMBx0aEwr1FAnn5P0MFf/v2RQDDvXzDwYc9/3rDwAL8xH88fwUDffr+gkAAAv2+gQH8e38AQn+4v0XJAj+9AYGAQAAGfHzGNXcGgsH3uMRIRkcGBL56REVBhYF89sa0gkA+foI7TP88x7zMDYGH9fpEQAoAAcAACbr+gAHIvjyEwn5/+cSCuYo8w==",
+      "category": "Archives",
+      "path": "Archive/SG_splitting",
+      "description": "Post designs related to splitting here! EG: Box splitters",
+      "position": 29
+    },
+    {
+      "id": "1325016556026990613",
+      "name": "merging",
+      "code": "MG",
+      "embedding": "Jv4eAjEM+iTx1+4FABUAEAz2GQ3y8xwHEfr/+vok+u0TAA0c3AP+8/z05g3//qEr+/3lB/0DBwT/4/0DK/8DBQsPCxDpBxMI9gMl6+0JDhENCBkdBP4f6+sU79QBCg/pCgAWCvMI9wMA6/Ld6hD6GikV+xb79wAMCxcaDxYMGvzi4/0JDw7p6BDvEQX2CPIg9/TrEAAL7wv24vIaFADmBxECBf0B+vAE++jx9AgF7f8rM/n/9QT7/ff0EfYJF+XxJf4F4+wpEyUZAx0G+BMP+gABCdoM1A7s+esM8Szz+Sn7JDsMEN/8DO4WCgv3+hn1//kMDAT2HgfvA/UVFtwu5Q==",
+      "category": "Archives",
+      "path": "Archive/MG_merging",
+      "description": "Post merging related components here!",
+      "position": 30
+    },
+    {
+      "id": "1325016001623883886",
+      "name": "data-storage",
+      "code": "DS",
+      "embedding": "HBoiDiwABSDp5fQSEwD1Hv39/xz+/RsAFf757OoX2AIPAgwE5A7/4eL24SL7BrIi5gLkD/kNERUN9wsJMgz29gXoE/rs6AUC+fAL4PcGGB4A+SMS/gkk7fEiBMoS/f7lEgUSIvr7DPgD/vjh8fz/BQ0F/x/yA/YNDhwNDxMGFwnn2wgBCA7z7uvxCQb1+gAVCffkCPEP+gsI3/cE/wnXBPgHCxYK/goAD+Lo7RAb6AgpHA7z9+oACgD4Le0TAenpHP8N3fQgJCYGDQTs7wMTAxfy9uID3wD55vAA5yIE+Rz2MCYAJd3oC/0yAw8KCAbzAgUM7fwAHgbu+9cJDd4l+g==",
+      "category": "Archives",
+      "path": "Archive/DS_data-storage",
+      "description": "Post data storage components here! (EG: Redstone RAMs)",
+      "position": 31
+    },
+    {
+      "id": "1325016085459636234",
+      "name": "item-memory",
+      "code": "IM",
+      "embedding": "FRQq/iQE6yTh8fELFAf2IQL8/x0H/yD8Ggj62erwxgsg+Q0B5Rj13ujs6xj5DbIP6fvwFvABBxAF9AgEIw/49hT5DAv1/f/+AuQM4v36BBQIAjAY/wcA+/Ua7dkK/vnSC/AYIOzxHvX68/7n7vvuFA4C+Aj5+/AVHBIQBxP1Ffrr7ggKFwbt4Pr/Awfw//IE//vqFPIV9wcP2QQGAwje6O8A9hn+9u0GEN794goZ4xAlDgvr9+/1DP7yHfkICNfWGPgM6voaFB8RBRAB6xMODA8BC+EK2BYAAOcO5B4H9hLnJTX+GOb9/es9DRn7Ewbx+QQNEAXvF/7o8dkCHOsZ+w==",
+      "category": "Archives",
+      "path": "Archive/IM_item-memory",
+      "description": "Post item memories here! (EG: Item RAM, disk drives)",
+      "position": 32
+    },
+    {
+      "id": "1325016191416274984",
+      "name": "autocrafting",
+      "code": "AC",
+      "embedding": "MQcsBykIDB3h0ecLBAf+IAL7/RPx6DEPDvv8A9kU+fgS6wH61Qv98Pf8+RABCJcy/ATgDP7/FBAE7fzvK/32BAUF9RPmAQX/BO8i8e4RCRMKAywn+vQH9wYG49IBBgXYCgkUDf7yAAUD9vDp5BYAFCER9xf19gQCByMRCw4NFxLi2w0M+QD38Qb3CxLp//cU+fbtGOcT9wzx9v4XBvnl+AoFBfkL/gMEB+P1/A8F/QAaHvoC6fz7BQL2DwHyD+3wLQL87uYqKC4ZCQX5+BMWBQrwEtsA2f/87fT56iD79RnoIiz8JOvr//co+wcQ/RzvBAECD+8BEwjp+NUUF+0i7Q==",
+      "category": "Archives",
+      "path": "Archive/AC_autocrafting",
+      "description": "Post autocrafting related components here!",
+      "position": 33
+    },
+    {
+      "id": "1325016435092881438",
+      "name": "item-variable",
+      "code": "IV",
+      "embedding": "MfMTDSUVDSDjAOYHCxjrBwUKBhr9+y/vDAL56Ogh1wEO9QEK3Qr++O/c7xsF+Ksa9QLgHPkGBwAC8fsFDBb8+gwD+wv89AAMB+cbAOcIBSIOAyoj+wsi8O4Y89sSABTdB/gEEff6Cvn3CAHX8AcFHBoM/hYAAf0PGgwMGgkEGP3v3xAC/Q7szAX5HwgA8/0D9gr7Av0QAAEc7PEH/wPz9hQTAxMF+e/9C+UA9gAK/PAWJQD07PzyDPXlFfQCFOjsGgD82fUTICMOEwD67iUKGhUPAen/4Az2D+kO8yfs+QvwEDgDNd7wBO0c/Q3zERbvDQ4fC/wLF/v6AfIDI90c9w==",
+      "category": "Archives",
+      "path": "Archive/IV_item-variable",
+      "description": "Post item variable components here! (EG: Variable filters, stack sep)",
+      "position": 34
+    },
+    {
+      "id": "1325016775049351241",
+      "name": "box-variable",
+      "code": "BV",
+      "embedding": "NvQIACELGCLo5O8C/QXmAgcABBL15TL/DAf6898t9v8O4wUH7A0K9e3yAA3//LEu+QDhGfwACPkA5vj8H/n8BwwLDQDv/v8YBfsp89MQCyMCChokAQAd9fES+tgGAQHgDv8PDO8AFOT7+/zf3RUTFBwTARD28w0P/hgGFQj+AQvv3hEDDgjp3PrsDwzy9vYYAQP+BOwVCRMG7vIEBPzo+QcS+gr+9Qb8B+r7+AUR+v0eLgz76AXtFADqBvr+CPDxHyED2twUKxQiEP3zAicTCBAIAOQB4QgGDfgE9yX99RnrHCX9HNjj6+wt+QL9DSHpCf8PCegDEwPxBfUWB9A0/A==",
+      "category": "Archives",
+      "path": "Archive/BV_box-variable",
+      "description": "Post shulker box variable components here!",
+      "position": 35
+    },
+    {
+      "id": "1325016513660321802",
+      "name": "logic-and-computation",
+      "code": "LC",
+      "embedding": "Mv0oBTUJAhHs5fsFAP39EBfgIxEDACP9Cfvx6ucT8wMHDP4AyfcA6/PqABX4Dasm5PXtEPgaBgr+AA3uLAAE/xn7EwTcEf8L8QAU6vAECh8G+TIpCfoJ/vUp8NEEAAHoBAEAB/kLHPEECPfq2Qz1ESH97xUAEPwQFBAjEgrwDBDd4AD6If3w2w328gz3/AwXB/P1Gf8L8gjw5+wLEgHU9P4ACPwRAAwK/fXv1h/95gALGwgA7/X1Bfz5AuwMGujuHf4S2tkjGx8eCyMG9BUNBBIA/dwS1AL87fkZ6SDq9CLoFC8aDev2/gkfFQYB+gns///7GPD4DwD5/uwEDOkf7A==",
+      "category": "Archives",
+      "path": "Archive/LC_logic-and-computation",
+      "description": "Post logical circuits here!",
+      "position": 36
+    },
+    {
+      "id": "1325016626747146270",
+      "name": "transport",
+      "code": "TP",
+      "embedding": "JBIRACUB+jvp99TkBQ7xFgrrDA30BRz4Ffrk+d0A9voU+wgG4Anu3vX/AyL0BK0a+v/hB/gnCAns5wgBLAkA9hH6ABMP9vICAPQZ8fr+CCoGDxQsBgUhDPkh+tz3/BHtAvL2DebzGAH5//rf5AEJFRHw8Q714+4GE/4LARf6Hfvs/fsRFiTb7vv7Efv4+gUT9PvyAAAF3gUQ8/YHDwPq9fT2B/QLAegLDd3z7QwY/AUMJvzq+P7x+/n1EfX8FNnWIPIK1fQcDxkdCQz89ykeCPwGCN3+yRHtAesE7TQF+BXxFi0HKeb6CPAiBPgDBA7vAwQXEfj1HfrrAO8PFuUo8A==",
+      "category": "Archives",
+      "path": "Archive/TP_transport",
+      "description": "Post encoded transport related things here! (EG: item transport)",
+      "position": 37
+    },
+    {
+      "id": "1325016645244157982",
+      "name": "wiring",
+      "code": "WI",
+      "embedding": "N/0pBUEFAirt6vEPAvrlHP38BA//6yr6B/318PIMAPgW7gL86vv36/f9DRf4Ca4t+vDdCOsJ+QgFAvzqLQv2AA8E+gj0EAgLAOoj9PMFHiAK/R8uBfIpFQAd5MsDCwLrAwcV//XsHPIC+vDv2wfrFDP53wcFAP4MDhMWIhATDxjs+AEWHfby3wYICQP0BAYN+ffmBvYD9Qr94vYQDALp8hX+Bf0F+/74COQE9woD8QkbHv349wT8AQD3BQL4AOjsJfkA2u8MFh8oExXr5RgbBBXo/coI0gf1B+sP8CQI5hzkGyoPEvLzCfsa+ggP8BLn/goPDfHzGAXtB+EJCeAh+A==",
+      "category": "Archives",
+      "path": "Archive/WI_wiring",
+      "description": "Post wires and cool tricks here! (EG: instant lines)",
+      "position": 38
+    },
+    {
+      "id": "1325016702731423744",
+      "name": "encoded-systems",
+      "code": "ES",
+      "embedding": "KBwgCyYFEB3i5+v5+v73CwXvCAv1+iAAAw4A+toH+/oLAP0OwQ/66vXnCx74B58u9fHs/AAJCQf55gf8KPfu9hUCAxUJ9vcC+u8e4egNHyEBAxIl//ce9fsO8dUHBQDoCQoGCO35Cu/99fjt3/sBEBz06hL1+A4OBQsZCB38DQPw7fgXFBjq6/v6AP7w/voa//fyFf0F6QMJ3vQRBPzg7/v8Bf/58fsE9dnx8iAK5/0cKQHt+Pz6DPryEOYTJdDxHv0D3uckFx8aAyT27RoL8hMBC9EByQjx/+cN8Sz2+Qn0HyD8Jub+Afsi/P8D+xPpBwACAu7rFQrvBtwc/t8v8w==",
+      "category": "Archives",
+      "path": "Archive/ES_encoded-systems",
+      "description": "Post full encoded systems here!",
+      "position": 39
+    },
+    {
+      "id": "1325016961775702067",
+      "name": "everything-bagel",
+      "code": "MX",
+      "embedding": "KSEg8x/49xzuB9z29AbzFf/+Bgn6ARIDDf/t7doM9AAT+/z82wXq9dsF8xn7FqM16/X6CQQeAwrr3Ab7Kf/96hX6AAH9+gLlAeEa9AESGRD0/CA08vkhAf0c9NYJAQ7WAfEC/+fjHfr9B/jq7QkO+wPo8R/y7wATABMN9h79CQL/6gkMEwDz9/z1//b2+/gMAf73DwD95wf95PUY8wLg8AD2A/8E//cC8O3s5xn87BkfI/n6/PQIEwTsFQD/GM/2J/IMyvMzGxcMBygI9xERCwr8IMsDzxf9+v0G9Crn/AECHC4HLvkG//gJCw0M+xX3+xAM/vXrFAH2/uIk9OorAA==",
+      "category": "Archives",
+      "path": "Archive/MX_everything-bagel",
+      "description": "Post everything else that relates to encoded tech!",
+      "position": 40
     },
     {
       "id": "1361851282381602996",
       "name": "helpful-std-bookmarks",
       "code": "ST",
+      "embedding": "PA0LGCPw+C/q7t39EwcEKgX/Aw7zJhr3EgP4AN/xByEP8w739wMD8O7I9xIH/7sN8PLzAP/59gX/AvkKLAT9FCPwBAD07hMR3OcD/PP9Ge8MExgE7gQQ/tQIBeYD9CDiBRkbAfjlK+/2/fj06gj/AvIOASTu/OAJ7BsHDBUKGf8B8QAACgL57PX0AA/14/klBvL+AfQp6PMd//YLDwzzF/Ty5QgH/uwGCur+6g4MBR0mD/bP8AIJE/v7GOweBfLwAwQlBPUYEBAH8f0M2wsIERT4Fuwt8BHw9Ov7+CkHDQjvICETL/ruBeMxDhINHQr09+slFwoDFADmC/UKA+4aDg==",
       "category": "Archives",
       "path": "Archive/ST_helpful-std-bookmarks",
       "description": "Links to useful resources in other discord servers, specifically, storage tech discord",
-      "availableTags": [
-        "Untested",
-        "Broken",
-        "Tested & Functional",
-        "Recommended",
-        "Old/Outdated",
-        "A+ Excellent!",
-        "Quite Novel!"
-      ]
+      "position": 41
     }
   ],
   "postSchema": {
