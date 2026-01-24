@@ -30,11 +30,17 @@
       "name": "Phoenix_Quad_Display.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1461465445465985144/1461465446493458574/Phoenix_Quad_Display.png?ex=696aa743&is=696955c3&hm=99372255b6caf377c448ff8cac897d6fb6340e8d9bee2cfab487ce6eb8629545&",
-      "description": "Sent by ragdollwilly at 1/15/2026, 4:01:54 PM",
+      "description": "",
       "canDownload": true,
       "width": 672,
       "height": 800,
-      "path": "images/Phoenix_Quad_Display.png"
+      "path": "images/Phoenix_Quad_Display.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1768510914000
     }
   ],
   "attachments": [
@@ -43,13 +49,19 @@
       "name": "DH001_Phoenix_Quad_Display.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1461465445465985144/1461465447349227721/Phoenix_Quad_Display.litematic?ex=696aa743&is=696955c3&hm=45978803199070cd74dcfd00cbfaa8b06d4fa17730f981d7380856aa5f26448a&",
-      "description": "Sent by ragdollwilly at 1/15/2026, 4:01:54 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/DH001_Phoenix_Quad_Display.litematic",
       "litematic": {
         "size": "74x29x23",
         "version": "1.20.4"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "ragdollwilly"
+      },
+      "timestamp": 1768510914000
     }
   ],
   "records": {
@@ -85,5 +97,6 @@
     "uploadMessageId": "1461467925524386026"
   },
   "archivedAt": 1768511505513,
-  "updatedAt": 1768512121730
+  "updatedAt": 1768512121730,
+  "num_comments": 0
 }
