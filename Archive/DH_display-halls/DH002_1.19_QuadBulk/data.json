@@ -1,0 +1,137 @@
+{
+  "id": "1464642783653400671",
+  "name": "[1.19+] QuadBulk",
+  "code": "DH002",
+  "reservedCodes": [
+    "DH002"
+  ],
+  "pastPostThreadIds": [
+    "1464644382803365991"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "670693115887091722",
+      "username": "kurisu_techmc_user",
+      "displayName": "Kurisu",
+      "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "999238176029806652",
+      "username": "dnator1195",
+      "displayName": "DNator",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141511205290066",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1464643044942020861",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1464642783653400671/1464643044942020861/area_render_2_.png?ex=697636a1&is=6974e521&hm=fa7c72271dc2a01fae8f61b3cecba0bc248fef61fc79fb6b5a873d07eddf5c72&",
+      "timestamp": 1769268513741,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "670693115887091722",
+        "username": "kurisu_techmc_user",
+        "displayName": "Kurisu",
+        "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 870941,
+      "canDownload": true,
+      "width": 800,
+      "height": 486,
+      "path": "images/area_render_2_.png"
+    },
+    {
+      "id": "1464643044325199952",
+      "name": "area_render_3_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1464642783653400671/1464643044325199952/area_render_3_.png?ex=697636a1&is=6974e521&hm=87f4b107a6b262320666b856c6dbac36312d41f665b4a5aecd4f2ba4054ce92b&",
+      "timestamp": 1769268513741,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "670693115887091722",
+        "username": "kurisu_techmc_user",
+        "displayName": "Kurisu",
+        "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 255657,
+      "canDownload": true,
+      "width": 706,
+      "height": 800,
+      "path": "images/area_render_3_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1464643044593762518",
+      "name": "DH002_QuadBulk.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1464642783653400671/1464643044593762518/QuadBulk.litematic?ex=697636a1&is=6974e521&hm=2590416b7774e74ef0f0602df5301184df06e98aff3bb3efd82dc4b8748efefd&",
+      "timestamp": 1769268513741,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "670693115887091722",
+        "username": "kurisu_techmc_user",
+        "displayName": "Kurisu",
+        "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 20421,
+      "canDownload": true,
+      "path": "attachments/DH002_QuadBulk.litematic",
+      "litematic": {
+        "size": "67x26x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Encoded quad display hall",
+    "features": [
+      "4 pointers",
+      "2w front",
+      "Firstbox placement automatic",
+      "Collectionless",
+      "Not FHL"
+    ],
+    "instructions": [
+      "Have fun :)"
+    ],
+    "notes": "Kurisu is opened for questions"
+  },
+  "styles": {
+    "description": {
+      "depth": 2,
+      "headerText": "description"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1464644382803365991",
+    "forumId": "1325016247515086928",
+    "continuingMessageIds": [
+      "1464644388415082630"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1464644382803365991",
+    "uploadMessageId": "1464644379011453124"
+  },
+  "archivedAt": 1769268830873,
+  "updatedAt": 1769268830873,
+  "num_comments": 0
+}
