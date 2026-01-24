@@ -30,22 +30,34 @@
       "name": "2025-11-29_20.20.04.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444407738296959057/2025-11-29_20.20.04.png?ex=692c9908&is=692b4788&hm=2249528791285e0e07d45b5a30d8f202de086bf34e9bbf1080adbf4e26e98bed&",
-      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:20:40 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 420,
-      "path": "images/2025-11-29_20.20.04.png"
+      "path": "images/2025-11-29_20.20.04.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kurisu_techmc_user"
+      },
+      "timestamp": 1764444040000
     },
     {
       "id": "1444407738909200424",
       "name": "2025-11-29_20.19.59.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444407738909200424/2025-11-29_20.19.59.png?ex=692c9908&is=692b4788&hm=1c419692ee2981345ec56b8faffbc84ba1a7eeb1a2a815c61d74cf676caacaff&",
-      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:20:40 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 420,
-      "path": "images/2025-11-29_20.19.59.png"
+      "path": "images/2025-11-29_20.19.59.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kurisu_techmc_user"
+      },
+      "timestamp": 1764444040000
     }
   ],
   "attachments": [
@@ -54,31 +66,49 @@
       "name": "EC001_1.21_Ferrari_Encoder.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444408512498237600/1.21_Ferrari_Encoder.litematic?ex=692c99c1&is=692b4841&hm=a1ba75801d0db99bb4544479dc52f3b6664f1234ba290ae73b6c2ac8e1a7b02b&",
-      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:23:45 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/EC001_1.21_Ferrari_Encoder.litematic",
       "litematic": {
         "size": "48x15x15",
         "version": "1.21.5"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kurisu_techmc_user"
+      },
+      "timestamp": 1764444225000
     },
     {
       "id": "1444407738296959057",
       "name": "EC001_2025-11-29_20.20.04.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444407738296959057/2025-11-29_20.20.04.png?ex=692c9908&is=692b4788&hm=2249528791285e0e07d45b5a30d8f202de086bf34e9bbf1080adbf4e26e98bed&",
-      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:20:40 PM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/EC001_2025-11-29_20.20.04.png"
+      "path": "attachments/EC001_2025-11-29_20.20.04.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kurisu_techmc_user"
+      },
+      "timestamp": 1764444040000
     },
     {
       "id": "1444407738909200424",
       "name": "EC001_2025-11-29_20.19.59.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1444407242689351852/1444407738909200424/2025-11-29_20.19.59.png?ex=692c9908&is=692b4788&hm=1c419692ee2981345ec56b8faffbc84ba1a7eeb1a2a815c61d74cf676caacaff&",
-      "description": "Sent by kurisu_techmc_user at 11/29/2025, 2:20:40 PM",
+      "description": "",
       "canDownload": true,
-      "path": "attachments/EC001_2025-11-29_20.19.59.png"
+      "path": "attachments/EC001_2025-11-29_20.19.59.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kurisu_techmc_user"
+      },
+      "timestamp": 1764444040000
     }
   ],
   "records": {
@@ -106,5 +136,6 @@
     "uploadMessageId": "1444586520316088380"
   },
   "archivedAt": 1766903504306,
-  "updatedAt": 1764486663959
+  "updatedAt": 1764486663959,
+  "num_comments": 0
 }

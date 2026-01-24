@@ -44,11 +44,17 @@
       "name": "area_render.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1454537445625303060/1454537840313765919/area_render.png?ex=6951736d&is=695021ed&hm=f94330ad8929f88bf4a86302b6af459a097d8f7e7b9c5c5285c7ddb728c5642e&",
-      "description": "Sent by kurisu_techmc_user at 12/27/2025, 1:14:05 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 672,
-      "path": "images/area_render.png"
+      "path": "images/area_render.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "kurisu_techmc_user"
+      },
+      "timestamp": 1766859245000
     }
   ],
   "attachments": [
@@ -63,7 +69,13 @@
       "litematic": {
         "size": "72x27x25",
         "version": "1.21.4"
-      }
+      },
+      "source": "DirectUpload",
+      "author": {
+        "type": "unknown",
+        "username": "Unknown"
+      },
+      "timestamp": 1769242389319
     }
   ],
   "records": {
@@ -97,5 +109,6 @@
     "uploadMessageId": "1454539317686046854"
   },
   "archivedAt": 1766859596990,
-  "updatedAt": 1766859596990
+  "updatedAt": 1766859596990,
+  "num_comments": 0
 }

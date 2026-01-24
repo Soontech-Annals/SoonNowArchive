@@ -27,11 +27,17 @@
       "name": "image.png",
       "contentType": "image/png",
       "url": "https://cdn.discordapp.com/attachments/1390385824486391979/1390385825556205619/image.png?ex=68681134&is=6866bfb4&hm=c3a82746140e1c98d78aa93d913acce9836414bf3b20b530372b422a2a2a28fa&",
-      "description": "Sent by andrews54757 at 7/3/2025, 1:36:52 PM",
+      "description": "",
       "canDownload": true,
       "width": 800,
       "height": 504,
-      "path": "images/image.png"
+      "path": "images/image.png",
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751564212000
     }
   ],
   "attachments": [
@@ -40,19 +46,25 @@
       "name": "ES001_Storage_System_100_by_pg5.zip",
       "contentType": "application/zip",
       "url": "https://cdn.discordapp.com/attachments/1390385824486391979/1390385824910147664/Storage_System_100_by_pg5.zip?ex=68681134&is=6866bfb4&hm=70d3e3e63a29419ae231f54b21be93a436ac07f1be3bd5c6f4d48e01f0dc22e9&",
-      "description": "Sent by andrews54757 at 7/3/2025, 1:36:52 PM",
+      "description": "",
       "canDownload": true,
       "path": "attachments/ES001_Storage_System_100_by_pg5.zip",
       "wdl": {
         "error": "Invalid Level.dat"
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751564212000
     },
     {
       "id": "IyyteZwHlMQ",
       "name": "ES001_YouTube_Video_IyyteZwHlMQ.url",
       "contentType": "youtube",
       "url": "https://www.youtube.com/watch?v=IyyteZwHlMQ",
-      "description": "[YouTube] Sent by andrews54757 at 7/3/2025, 1:36:52 PM",
+      "description": "",
       "canDownload": false,
       "path": "attachments/ES001_YouTube_Video_IyyteZwHlMQ.url",
       "youtube": {
@@ -64,7 +76,13 @@
         "thumbnail_height": 360,
         "width": 200,
         "height": 113
-      }
+      },
+      "source": "MessageAttachment",
+      "author": {
+        "type": "unknown",
+        "username": "andrews54757"
+      },
+      "timestamp": 1751564212000
     }
   ],
   "records": {
@@ -92,5 +110,6 @@
     "uploadMessageId": "1390386611899994126"
   },
   "archivedAt": 1751564761363,
-  "updatedAt": 1751564761363
+  "updatedAt": 1751564761363,
+  "num_comments": 0
 }
