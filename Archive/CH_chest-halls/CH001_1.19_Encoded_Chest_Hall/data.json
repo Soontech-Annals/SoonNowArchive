@@ -19,8 +19,8 @@
     {
       "type": "discord-in-guild",
       "id": "1238721489260253219",
-      "username": "augmentmendo",
       "displayName": "AugmentMendo",
+      "username": "augmentmendo",
       "iconURL": "https://cdn.discordapp.com/avatars/1238721489260253219/79fa7f158bd558529dd84b493c5d4373.webp"
     },
     {
@@ -48,34 +48,37 @@
       "canDownload": true,
       "width": 800,
       "height": 672,
-      "path": "images/area_render.png",
       "source": "MessageAttachment",
-      "author": {
-        "type": "unknown",
-        "username": "kurisu_techmc_user"
-      },
-      "timestamp": 1766859245000
-    }
-  ],
-  "attachments": [
-    {
-      "id": "1454538122019733596",
-      "name": "CH001_CH11.litematic",
-      "url": "https://cdn.discordapp.com/ephemeral-attachments/1454537956500181155/1454538122019733596/CH11.litematic?ex=695173b0&is=69502230&hm=5270cad0d7951fc702db0772a33c1ec991e40085d3b7be27966b7e6096b20e3b&",
-      "description": "Added by kurisu_techmc_user at 12/27/2025, 1:15:12 PM",
-      "contentType": "unknown",
-      "canDownload": true,
-      "path": "attachments/CH001_CH11.litematic",
-      "litematic": {
-        "size": "72x27x25",
-        "version": "1.21.4"
-      },
-      "source": "DirectUpload",
       "author": {
         "type": "unknown",
         "username": "Unknown"
       },
-      "timestamp": 1769242389319
+      "timestamp": 1766859245000,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1464774453627060359",
+      "name": "CH001_CH11.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1454537445625303060/1464774453627060359/CH11.litematic?ex=6976b103&is=69755f83&hm=6b0d2df0e01f57f0a734cd7eb6b89295166d58c6ed2909f4f3db5c51c5f5ddd3&",
+      "timestamp": 1769299843001,
+      "author": {
+        "type": "discord-external",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "path": "attachments/CH001_CH11.litematic",
+      "size": 20093,
+      "litematic": {
+        "size": "72x27x25",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {
@@ -106,9 +109,9 @@
       "1454539322685390991"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1454539320001302538",
-    "uploadMessageId": "1454539317686046854"
+    "uploadMessageId": "1464774531221553406"
   },
   "archivedAt": 1766859596990,
-  "updatedAt": 1766859596990,
+  "updatedAt": 1769299861881,
   "num_comments": 0
 }
