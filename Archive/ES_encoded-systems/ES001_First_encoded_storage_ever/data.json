@@ -50,14 +50,23 @@
       "canDownload": true,
       "path": "attachments/ES001_Storage_System_100_by_pg5.zip",
       "wdl": {
-        "error": "Invalid Level.dat"
+        "error": "Invalid version",
+        "optimized": true
       },
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1751564212000
+      "timestamp": 1751564212000,
+      "size": 728336,
+      "wdls": [
+        {
+          "path": "Storage System 100 by pg5",
+          "error": "Invalid version",
+          "levelName": "Storage System 100 by pg5"
+        }
+      ]
     },
     {
       "id": "IyyteZwHlMQ",
@@ -107,7 +116,7 @@
       "1454729070456733831"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1390386614211182754",
-    "uploadMessageId": "1390386611899994126"
+    "uploadMessageId": "1465131611497562339"
   },
   "archivedAt": 1751564761363,
   "updatedAt": 1751564761363,
