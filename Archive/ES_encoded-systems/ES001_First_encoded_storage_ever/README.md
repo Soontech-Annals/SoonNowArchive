@@ -16,5 +16,5 @@ The first encoded storage in Minecraft.
 - Lots of cart entities
 
 ## Resources
-- [ES001_Storage_System_100_by_pg5.zip](attachments/ES001_Storage_System_100_by_pg5.zip): Invalid Level.dat
+- [ES001_Storage_System_100_by_pg5.zip](attachments/ES001_Storage_System_100_by_pg5.zip): Invalid version
 - [100000 special - Storage System 100 (Amazon style) - Minecraft](https://www.youtube.com/watch?v=IyyteZwHlMQ): by [pg5-Studio](https://www.youtube.com/@minecraftpg5)
