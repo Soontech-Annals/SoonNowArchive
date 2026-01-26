@@ -3,7 +3,7 @@
 
 **Authors:** *Kurisu, DNator*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1464644382803365991)
 

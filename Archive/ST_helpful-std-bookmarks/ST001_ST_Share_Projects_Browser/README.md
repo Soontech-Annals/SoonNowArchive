@@ -3,7 +3,7 @@
 
 **Authors:** *Andrews54757*
 
-**Tags:** *Recommended, Tested & Functional*
+**Tags:** *Recommended, Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1452000274997711012)
 

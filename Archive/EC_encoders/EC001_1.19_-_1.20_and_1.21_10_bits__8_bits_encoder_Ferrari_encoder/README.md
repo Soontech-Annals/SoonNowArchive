@@ -3,7 +3,7 @@
 
 **Authors:** *Kurisu*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1444409798509596858)
 
