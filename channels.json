@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1325016282629804053",
+    "name": "encoders",
+    "code": "EC",
+    "embedding": "KwwlAx4VAALv1vL3+Q/6BPzyDwT18R/xBP7tBdoU7/4I9e8A0Av49vL0+g8A+Jss/P7nD/oS/QIO8Qn+J/gHChML7hID9/v3EO8R4woGIycY/jQ3AwMT+/Mg5cL+/wToBgEDCf35Ed8G+vTa7g8FBhEA2g4K7fgOAhkWBwcTAArr8wETEP4E4ezy+gHoDhQe/e/xGAUI7gP58vUZ/Pra7/8FAg0N6gn+9vTw9xwJ9fUTLP/5+PX6Afj7BP32CNreGfv98vIyHiUPFx708wMS+Bv9BOMG5Q36BvQA7j4MBBjqLyD/Mur2/Qci/QAI+hjwBAD/AOX3HwfwCvcW+O8jBQ==",
+    "category": "Archives",
+    "path": "Archive/EC_encoders",
+    "description": "Post encoder designs here",
+    "position": 24
+  },
+  {
+    "id": "1325018609788911719",
+    "name": "decoders",
+    "code": "DC",
+    "embedding": "KQUWAScXDhTn2vX49BkCBfkAEgL86xHqCQTwA+cX9P8N7O8J0gP0/vPzCBQD95In+en0Df4TBPwD6Ar0J/UP9woM+hYHAAX0/eoU8QAOFhoT+TUvBvwa/+wX67wG+g7vBREKAgL8F+QD9Pbi5gYCARr43RUY+/IRAx8NAhoIBRHx6gEJDP3+3fD9+f/nCQMx+fDlE/8C8wIJ5vINAPra//kEARIG9wkE9u/t/CMJ5/wYIfLw8foC/AMKAwT8FuDhIAX/7e4dGSQhERTx6/0UARz4+ssK6BL+Afv/6CMO8iHuKCj2Ju3u+wka+gAT/Rzz//AAAerlFAruBfwe+vkuBA==",
+    "category": "Archives",
+    "path": "Archive/DC_decoders",
+    "description": "Post decoder designs here!",
+    "position": 25
+  },
+  {
+    "id": "1325016041042214983",
+    "name": "chest-halls",
+    "code": "CH",
+    "embedding": "GgYcARAKEgvk4+biAgr0CAsAHAX87BrxGgIFC90a+fMT7vv/3gQI+PT5Eh37+bId9PzkB/sHBPv8AQ0JJBAHBAcC+RP3AQn/DvAl+fkAGgoh7igt9gAEBP0i7MsA+g3zEQAECeP5AOv1BfPq/AD5/BP+/BUQ6vn8CiYJBhIDFhDq6BIKCgD+7PHzFf/w/P8q8vLy+fsR9/4K2vEWAdv3//4X/A8jAA4H9Nzr8xcg7gEfJf4L+P0EEAgE/AIAGdjsFBEEAOkaGhESEBvz4wD4ARzpBuQV3wv0AfsO7UAgEx/uIQrrP+DbB/gk+/wdAyr5/+QQCgD3HAjz/+8FAOtFBQ==",
+    "category": "Archives",
+    "path": "Archive/CH_chest-halls",
+    "description": "Post encoded chest hall designs here. Not filter based chest halls.",
+    "position": 26
+  },
+  {
+    "id": "1325016247515086928",
+    "name": "display-halls",
+    "code": "DH",
+    "embedding": "JRUN/B0LCBXh6/Hn/g7v+QgBDfv45h70DgMJ/tQeAu0Q5O8E6AoE+/31HxL2CK4a+wzjBPsH+vMO/QQFHgAJDvj2BAL9CPwMCPQy8fkKDRMW/SYo/wX/7/cL398B/Q30D/sGCdkDFuEA9eno9gj78A/57xcV4vgPBhYFCQkABQbk5goECwsA7OzxEfrx+gYV/PPp/PES/Qb92/kLEO3f/PwW+A8Z/gj3A9zs8xkf6vUqKAz+9PP6HP76/QMACc/pCxAC++MPIhAgChX07AAA/RHr+M0Z9hH8AQsJ7jUoBBbfIQ/wK/Hm+gkp+vUSEi7h/uMMF/HpHQf58/sI/uZKAg==",
+    "category": "Archives",
+    "path": "Archive/DH_display-halls",
+    "description": "Post encoded shulker box display halls here.",
+    "position": 27
+  },
+  {
+    "id": "1325016379031814195",
+    "name": "external-bulk",
+    "code": "EB",
+    "embedding": "MgkTAywA+xT52eoBCgX+AvcCBAr8+iYHDPr5AfEM7goF9P4HzQoF/gAM7wUT/KUZ9RTiBP8BGgsC9vjlGgX4ChQY9Brs/gfuAOgYBPkAHxQZAiwe+f8H9PYi8OAQ+w3iAO8DEfLzCO/8/enn6CUI/wAC7xoFCAECBSMFAx0OHgTq3gANCPoAy/j/HfwBB/gk/+7x9O8R5wjt4gAaE/nS6vwdGAEJ8QXv+QAA4/gQ6wgbGwUA4gAN+vvxAfb0C97kIPkO9/koGC0UJPju7v0R/Bf//M0G4gP9CP0A8TcmByPcKCPtHuUIDv8jABH/CR3y8QAGAQPzFwYC7vIRFN8Z6A==",
+    "category": "Archives",
+    "path": "Archive/EB_external-bulk",
+    "description": "Post external bulk related components here!",
+    "position": 28
+  },
+  {
+    "id": "1325016579687059478",
+    "name": "splitting",
+    "code": "SG",
+    "embedding": "NQYQ/S4Q+w/q2P36BhjuF/QDFP/25RzxGBT2+/gd9PUF8frf3wEI9/r0BPf//qQv8ALzEvAM+wAE8wD6If8FAgQT8BDw9hXvBO8s+P/9GhINBiwlAvj+A/sf8M3//xfrAwQQDQDqCfgI/fby8AkCBB4N5xcMCP0UARgVEBQAEwXv3f8VCu8C0gcIEfTsDg4m7/XkDfwN7gX69vwSAeXp+wAN/BoA+AgF8ff4/AgA5QkdJAUB9gAQ/wQIC/XvE9zLFRIF8eMPIiAXEQL47AcPAyMA8eAi5g8DBgMF7jwO+R7rKzL/JN/nGAoiBAwMBCvh7vkGIvX2EQ7+AvoG/fAi+Q==",
+    "category": "Archives",
+    "path": "Archive/SG_splitting",
+    "description": "Post designs related to splitting here! EG: Box splitters",
+    "position": 29
+  },
+  {
+    "id": "1325016556026990613",
+    "name": "merging",
+    "code": "MG",
+    "embedding": "Kv4SBCcK+BrsyAAC/CEHBwr5Dxj36BL7D/b8/P8q+fAT7f4J2QH4/f758gYU/Jwx+QTi+foICAID7gL+KwEJCAIWBBvoBR32BvIZ/QARFAgaACsp/QEN8e8V8dT9BhPkCvwPBvf++wAD6enf9xv3DCgP+RcN+PkNBxQQCiQVFwDg3/sUDP764gT2Ef70CPke7ernDAEF9APx6v4bC/bVAgkMAAoU/vMC/ujq6gUO8wolMPoE8P4H/wHyCvX6DOPmKwAC9uguGC8YAQ4A+gIM+wv6EdkQ5w7tBvUF6zAI9CvyJjf/EN0AEgISCRYC/hvt8/UADPzxFQr1BwIQDe4i7w==",
+    "category": "Archives",
+    "path": "Archive/MG_merging",
+    "description": "Post merging related components here!",
+    "position": 30
+  },
+  {
+    "id": "1325016001623883886",
+    "name": "data-storage",
+    "code": "DS",
+    "embedding": "IxYXEyIA+w/r4f0NEgryE/cAABgA+hH5D/326uwh4AQOCQIA7AoB8un14xoBBbEi3gjoB/kSCxUS+QwULxD/9gPlC/7x6ggAAOwI6gMFHxQN/Cwd+RAl8uks/8cV+f7lDwUYIgD4EvIE+PLe8QYCABEQ+Rn+/PEJDhcJBhQEFxHu0wn8Cw787+b1EgX18xAZBvDnAfYM+goH4fQN+gjUAfQTDhoLAA79CPfs7BIn7gQiHQnv+uMLDgf7K+8O+ObhIwAL8vMiJSsJCwHl9fYL/hr49N8B7QT87fv77CkU+iXzLyf8LubsDgwvCxMCDArr+/8H8/L6GwH2COYMC+siAA==",
+    "category": "Archives",
+    "path": "Archive/DS_data-storage",
+    "description": "Post data storage components here! (EG: Redstone RAMs)",
+    "position": 31
+  },
+  {
+    "id": "1325016085459636234",
+    "name": "item-memory",
+    "code": "IM",
+    "embedding": "IQ4aABL+5Q/j5PoAFRX0EP7+ABwH/R7zIQj33fT4yQsZ+QL+6Rf88vHw8g8DBrQU5gDzEfIHAhEQ+wYNIhEF+w32/Q30+wr3Dd8J5Qz8DQ0f/EMmABH7/+of584I/P7bB/AcJPnqIuv+7v3l9wXzDREN7gQL9O0NFgwMAhP3Ef/v7AsHFP/84fYECAPt9AQQ+e33EvMS+f8J2fcQ+wPf4uoO+B4C+/YECvQA6wYg6wwhFQTp9ev6Df36FPcB/9zQGvcJA/cUHC0PBgv58/4CBxgGCuEN7RL+COsA5iAY+SXmKTH3Ju74+wBCEB4CEw3o9PwEEv3wF/n29uYAF/0bAA==",
+    "category": "Archives",
+    "path": "Archive/IM_item-memory",
+    "description": "Post item memories here! (EG: Item RAM, disk drives)",
+    "position": 32
+  },
+  {
+    "id": "1325016191416274984",
+    "name": "autocrafting",
+    "code": "AC",
+    "embedding": "NQgnCB4KCg/mz/YLBhH6Fv4GARfu5isIEAH4CN0X+PwQ5fj41Ar9+PcA/QcJAZg2AwbpCfsJDxIK8fz1LQH/CQIF7xbmCQ7+Bukg9vQHBw8YADMx+vsG/AYR4tL9/gjVCAUPEAPrBAYG9O3j7xQCCyES7hYA9wABBxwMBxIRExPn4AgK+f0A7v36CxDl/fwd9fXwF+MO9gTq/P0bA/Xf9gUTBf4RAwcABvL28goL/QAYIfb96PoEBQj8CQbtBvLgIQD//ukrKTIWCfzv/QwTBxHxEtgK5v/6+fj26SAJ9yblIivzLe3rBwMnAAgQAhzvAfj/FOj+Fgvw/OANEfQd6w==",
+    "category": "Archives",
+    "path": "Archive/AC_autocrafting",
+    "description": "Post autocrafting related components here!",
+    "position": 33
+  },
+  {
+    "id": "1325016435092881438",
+    "name": "item-variable",
+    "code": "IV",
+    "embedding": "N/IMDhkQBxPf8O8GCxv0/AALBBz/7yztBgH07eUj2QIE9PUD3gUACPbZ/BMN9qsg8w7iE/sKBQAN/wD+DRADAQsE8Q799QgEE+AXDu8IDxUcAjcs+gsX8Ooe8dQW/RfcBwADEv/+D+/8A/jY9RAFDR8O9xQTBgMOEwgKFw8HGQHu3w4A/gb7wfoFGgD78gUI9QH+/AIPBP4P7e0P+ADo5xEcBx4O+PcCCPcA8wMN9+oYJwLz6/r+CfjuEvL4EebjHwD35/UQKCgPF//38xACFxcTAOT98Az4Fe8H7yz9+hjmEzX6N+X0//8eAhP5DSDlCQwQEf4FD/L/AAAAGesV+Q==",
+    "category": "Archives",
+    "path": "Archive/IV_item-variable",
+    "description": "Post item variable components here! (EG: Variable filters, stack sep)",
+    "position": 34
+  },
+  {
+    "id": "1325016775049351241",
+    "name": "box-variable",
+    "code": "BV",
+    "embedding": "OfgEAxsMExfo4f79/w7o+wQBBBT72y/6DAn29OAq9AUI3Pb97AwN/fHyCf8N+qku9gjiEv4HAPwI8QDzHPoDDgYIBAXvBwQPDvQk+uELFRsOBy8u/fwP+vEd+tIE/AHZD/4GDu8AHN36+/Dh5yERAx4T/BAH9w4K/RUADg0AAwr03w0BBgD+0O31EQfy9QIg//n7/+0QEgz88PEL//Te6gAj+RkK8g3/A/r49QcY9f4dNwj+6QD8EgPr/f70Au/iFh0D7twYLhohEfbqBREPBhYG++II8woKEQMD9CUT+R7iHSPuH9zj7gAnAAcAESXjA/sID+UAEQD9BgEP/uYrCQ==",
+    "category": "Archives",
+    "path": "Archive/BV_box-variable",
+    "description": "Post shulker box variable components here!",
+    "position": 35
+  },
+  {
+    "id": "1325016513660321802",
+    "name": "logic-and-computation",
+    "code": "LC",
+    "embedding": "NPgjBygD/wfw3gP8AAAFAxXnKhAF/iH1Bfjy8eUT+AQHDPEAzPUA+vvqABYHC6kr4PrwBvgZ/woE9wn2JAUIABX+BQrcEgYH/PwS8fwKFBsU+D4vBAAK/O8o7tIG+wbpAwQBBgAGG+kIA/Do2Qz8DyAB5xkMBfYLDREiEw34Bw/j3AH4Ju333Qj0+w709g4cCvHvFwAE7Qbu6+UODgHQ9/gGCvwVBBMD/vvz2SQD6gEOHQH87Ov8CAH9AO0IEeTtHf8R7dwsIyYfFRwB9gwD/BUA/9wU4wD+9/8P8ir5/SzeFysTG/P1/hMlGAgD9Anl+vn3FOb6EwT+APUGAvEd9g==",
+    "category": "Archives",
+    "path": "Archive/LC_logic-and-computation",
+    "description": "Post logical circuits here!",
+    "position": 36
+  },
+  {
+    "id": "1325016626747146270",
+    "name": "transport",
+    "code": "TP",
+    "embedding": "KQoNBB8G+DDr2OjmBxb6BAXyABAG+x70FfbxBd8S/wAR8/T57QHt4v4EAxoF9rEf+wvgAfojDg4A8QT1IhENAhMA7yIJ6wPwDe8Q6fsKDSAZ+S42CAwPDfoj7+X1+BDtBfsCCPb7DPX58PXf9AsEAg708AgF5fAGCgUBBBgFGQLl+gMVEBDu5OwFGv7z/hIY9ujm/wH97gAJ9u8O/vzU5+kFCgUZAO8CCdjw4RgV6QcWJPb29PQADAT1DfnvBt/GKvn27vofGR8bDgrq+RES/Pr//tAB4RL0A/j+6Twh9RneGS8CLuL4D/8rDgoYBBfp/PwLF/fuFgLx/PoTAgIt8Q==",
+    "category": "Archives",
+    "path": "Archive/TP_transport",
+    "description": "Post encoded transport related things here! (EG: item transport)",
+    "position": 37
+  },
+  {
+    "id": "1325016645244157982",
+    "name": "wiring",
+    "code": "WI",
+    "embedding": "Pv0hAzj//Bzz4f4KAwDsDPoABAwA6CTzCf748vUPA/kL7Pjz6fv49f35EQsBAKUz+PffB+YO8AkNCP7qJhIABRL+9Q3xGBgABeQg+QIHJBwa+iwxA/gkFvcm5c7+BAfuBAUO/fzlH+oD+PHt4Q7rCTP/2wwQAPgJCQsPIhQSCRz3+AIcGuwB3/4KCgDx/xMY+OrkBP0A9wn25vUVAv3k8gwNCAAMAAb5BPEG9wQC8gwaIvj6+f8B/ggA+Abz/eziJvgE7O8NGSgjDw3l8AUOBR7o/M8S3gT8BvQH8y4R5CffGikJIPXzCwcYAxAV7xLi/wUCFe31EQT7CPQEAPEe+g==",
+    "category": "Archives",
+    "path": "Archive/WI_wiring",
+    "description": "Post wires and cool tricks here! (EG: instant lines)",
+    "position": 38
+  },
+  {
+    "id": "1325016702731423744",
+    "name": "encoded-systems",
+    "code": "ES",
+    "embedding": "MCIbFB0DCgnl5P/v9wn3/gb6BQv49Rj5ChT8AdoOAf388e4KwhP69PDuEA8IAZgq9vPy8gELAQf86wH8JP/7+xAC/xoK/QP0DeIV4/QNJSMO+h8v+PoU/fgZ888AAQPrBAoACfj2B+kC8vHo7wUJAhvy3hcD+BAIBAgRBB/8CgT57PoXCxP85PX+BPjz8gIa+OnzFgAA6fX94O8a+vHT6vgR/w4E8wIA+uXw6B8T7wQeLv7t9/cID/3xCOsNGdLiGfsB8eorHiQXBxvr9wQI6RoBBs0J3g/xBvEJ8DIR+hLrGxnsMO75BQsdAAwGABbm//T5A+bpFg/5B+cY9vcw+g==",
+    "category": "Archives",
+    "path": "Archive/ES_encoded-systems",
+    "description": "Post full encoded systems here!",
+    "position": 39
+  },
+  {
+    "id": "1325016961775702067",
+    "name": "everything-bagel",
+    "code": "MX",
+    "embedding": "Kx8g9xr99xHu9u3x8xDwCPsNBwf+/BL5FQDv7+QR/AIZ9vf14gXn/98G+gsGDJ447/f3AAMh+gnw6QL6LfwH9g8F+QT++QraDNka/QAQGwkB8jA+9AEZ/AAj8tEK/AnYAPIK/vPXF/b9/vTn9BAU9Qnp7RsD9vsN/hYN9SL5AwYC6QYSD/b97v74AvLq/P0dBfX6DQH77Qj65O0Y6P7Q8PwGAQgGB/z/9Pz05hwG7RMZI/n1/PUJDw34CAH1EtbpJvcF3O02IBgDCyP++gUCBg4AGssP3BUAAwEC8S39+Qv9Iyn+NvkA+wERCRAO8h/w+AIG/e7qEgIA+u4b8/gvAQ==",
+    "category": "Archives",
+    "path": "Archive/MX_everything-bagel",
+    "description": "Post everything else that relates to encoded tech!",
+    "position": 40
+  },
+  {
+    "id": "1361851282381602996",
+    "name": "helpful-std-bookmarks",
+    "code": "ST",
+    "embedding": "QQwFHR72+iHt4ur7DQoEIQQA/hP1HBvzEQP0/ej9Dx8L9wTz+/0F9uzI/gYN/rwP7ffw+v8A9wUFB/INLQACFCXy+wH35xIP5+UBBfoAH+YSDygI9QUQ/csEAuUG9BviAhsf9QDhKez/8vT37QkF//QY9yL4/eEH6hoGCA0BGgUF7/oCDP4D7vH0Ag703wAsBOX/A/gl6+8UAfIRBxDqEu/65hUIBPcDCfH/7xEOBxspEvjT7wIMGP8AGu0SAu7yEAUdCfUeGAwG8PsH3/4AFBP5Gews9wvx9/L48yoQDg7rKB4MNvvvAuw2DRIUHBHv8uwcEgwGEP/pDPkR+vwdCQ==",
+    "category": "Archives",
+    "path": "Archive/ST_helpful-std-bookmarks",
+    "description": "Links to useful resources in other discord servers, specifically, storage tech discord",
+    "position": 41
+  }
+]
