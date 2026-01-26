@@ -3,7 +3,7 @@
 
 **Authors:** *Ragdoll Willy*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1461467928632492063)
 
