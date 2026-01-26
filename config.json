@@ -65,5 +65,33 @@
       "depth": 2,
       "headerText": "Notes"
     }
-  }
+  },
+  "globalTags": [
+    {
+      "name": "Untested",
+      "emoji": "⁉️",
+      "colorWeb": "#fcd34d",
+      "colorMod": 4287393280
+    },
+    {
+      "name": "Broken",
+      "emoji": "💔",
+      "colorWeb": "#ff6969",
+      "colorMod": 4287306266
+    },
+    {
+      "name": "Functional",
+      "emoji": "✅",
+      "colorWeb": "#34d399",
+      "colorMod": 4280188702,
+      "moderated": false
+    },
+    {
+      "name": "Recommended",
+      "emoji": "⭐",
+      "colorWeb": "#29b0ff",
+      "colorMod": 4278216396,
+      "moderated": true
+    }
+  ]
 }
