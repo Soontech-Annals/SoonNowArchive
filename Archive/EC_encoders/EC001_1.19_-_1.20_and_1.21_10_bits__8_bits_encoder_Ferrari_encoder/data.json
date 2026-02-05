@@ -12,8 +12,8 @@
     {
       "type": "discord-in-guild",
       "id": "670693115887091722",
-      "displayName": "Kurisu",
       "username": "kurisu_techmc_user",
+      "displayName": "Cartisu",
       "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
     }
   ],
@@ -130,7 +130,8 @@
     "forumId": "1325016282629804053",
     "continuingMessageIds": [
       "1444586522803179581",
-      "1454687379074977944"
+      "1454687379074977944",
+      "1469032419964354562"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1444409798509596858",
     "uploadMessageId": "1444586520316088380"

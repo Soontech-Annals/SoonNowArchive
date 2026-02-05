@@ -1,7 +1,7 @@
 # [1.19 - 1.20 and 1.21+] 10 bits + 8 bits encoder (Ferrari encoder)
 <img alt="2025-11-29_20.20.04.png" src="images/2025-11-29_20.20.04.png?raw=1" height="300px">
 
-**Authors:** *Kurisu*
+**Authors:** *Cartisu*
 
 **Tags:** *Functional*
 
