@@ -3,7 +3,7 @@
 
 **Authors:** *Andrews54757*
 
-**Tags:** *Functional*
+**Tags:** *Functional, Collectionful*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1469546655752781926)
 

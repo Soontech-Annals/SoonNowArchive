@@ -22,6 +22,10 @@
     {
       "id": "1325141511205290066",
       "name": "Functional"
+    },
+    {
+      "id": "1469548293150474412",
+      "name": "Collectionful"
     }
   ],
   "images": [
@@ -113,6 +117,6 @@
     "uploadMessageId": "1469546651390709934"
   },
   "archivedAt": 1770437624021,
-  "updatedAt": 1770437624021,
+  "updatedAt": 1770438165193,
   "num_comments": 0
 }
