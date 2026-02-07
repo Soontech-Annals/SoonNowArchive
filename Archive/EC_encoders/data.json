@@ -4,12 +4,17 @@
   "code": "EC",
   "category": "Archives",
   "description": "Post encoder designs here",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1444407242689351852",
       "code": "EC001",
       "path": "EC001_1.19_-_1.20_and_1.21_10_bits__8_bits_encoder_Ferrari_encoder"
+    },
+    {
+      "id": "1469562036269613147",
+      "code": "EC002",
+      "path": "EC002_Hopperspeed_Encoder_V2"
     }
   ]
 }

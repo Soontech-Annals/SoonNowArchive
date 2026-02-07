@@ -1,0 +1,148 @@
+{
+  "id": "1469562036269613147",
+  "name": "Hopperspeed Encoder V2",
+  "code": "EC002",
+  "reservedCodes": [
+    "EC002"
+  ],
+  "pastPostThreadIds": [
+    "1469562522980843543"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "319513337941721089",
+      "username": "inspectortalon",
+      "displayName": "Inspector Talon",
+      "iconURL": "https://cdn.discordapp.com/avatars/319513337941721089/edec0da88a70e9697b6b43b4a2d740e3.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "612448055026778132",
+      "username": "bread8812",
+      "iconURL": "https://cdn.discordapp.com/avatars/612448055026778132/9879e776bc801b674b59941b03086fc0.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "530550822321520647",
+      "username": "glowsquid_",
+      "iconURL": "https://cdn.discordapp.com/avatars/530550822321520647/c1ac4a5282be7d04a6a77f412ef75684.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469562036730990592",
+      "name": "encoder.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1469562036269613147/1469562036730990592/encoder.png?ex=69881bcc&is=6986ca4c&hm=26fe6c2d53d9759a73a229a68fb78b1f93c447569ca3fb9ae87c2444ab43aaa9&",
+      "timestamp": 1770441292589,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 129863,
+      "canDownload": true,
+      "width": 1024,
+      "height": 410,
+      "path": "images/encoder.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469562037699870740",
+      "name": "EC002_Hopperspeed_Encoder_V2-r1.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1469562036269613147/1469562037699870740/EC01_Hopperspeed_Encoder_V2-r1.zip?ex=69881bcc&is=6986ca4c&hm=4b2e11d4815a26e504a294f141596e48e43ec59f385532ad29b87e2a3dd82457&",
+      "timestamp": 1770441292589,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 157949,
+      "canDownload": true,
+      "path": "attachments/EC002_Hopperspeed_Encoder_V2-r1.zip",
+      "wdls": [
+        {
+          "path": "Hopperspeed Encoder V2",
+          "version": "1.16.5",
+          "levelName": "Hopperspeed Encoder V2"
+        }
+      ],
+      "wdl": {
+        "version": "1.16.5",
+        "optimized": true
+      },
+      "unoptimizedSize": 370877
+    },
+    {
+      "id": "1469562037268123728",
+      "name": "EC002_Hopperspeed_Encoder_V2.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469562036269613147/1469562037268123728/EC01_Hopperspeed_Encoder_V2.pdf?ex=69881bcc&is=6986ca4c&hm=6d1835026695468d0d8ce1c0d79b7fcbc92de62e186155b13647dfd1a689cbfc&",
+      "timestamp": 1770441292589,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 535666,
+      "canDownload": true,
+      "path": "attachments/EC002_Hopperspeed_Encoder_V2.pdf"
+    }
+  ],
+  "records": {
+    "description": "This encoder uses multiple hoppercarts to allow for hopperspeed item to code encoding. The design shown is a 54 double-chest design which allows for up to 1000 item types with a decimal encoding scheme.",
+    "features": [
+      "Hopperspeed (9000 items/hr) encoding.",
+      "Adjustable and expandable to work with any base."
+    ],
+    "considerations": [
+      "Uses 30 carts and floating rail. (designed before cart yeeting)",
+      "Requires 4 items per item type per chest.",
+      "Laggy at full speed"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469562522980843543",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469562527263359081"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469562522980843543",
+    "uploadMessageId": "1469562519294050369"
+  },
+  "archivedAt": 1770441406666,
+  "updatedAt": 1770441406666,
+  "num_comments": 0
+}
