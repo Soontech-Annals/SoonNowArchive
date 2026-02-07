@@ -1,0 +1,131 @@
+{
+  "id": "1469548490794467543",
+  "name": "Quad Display Slice With Slider Top Display",
+  "code": "DH006",
+  "reservedCodes": [
+    "DH006"
+  ],
+  "pastPostThreadIds": [
+    "1469552019923800226"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "displayName": "JayRoi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141511205290066",
+      "name": "Functional"
+    },
+    {
+      "id": "1469548293150474412",
+      "name": "Collectionful"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469548491377479680",
+      "name": "slice2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469548490794467543/1469548491377479680/slice2.png?ex=69880f2f&is=6986bdaf&hm=d70ea93d74477d5565c6716f79d3adbba6199dafa8c061d0aeb72d3328c7985b&",
+      "timestamp": 1770438063096,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 131950,
+      "canDownload": true,
+      "width": 614,
+      "height": 635,
+      "path": "images/slice2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469548492195364937",
+      "name": "DH006_Quad_Display_Slice_With_Slider_Top_Display.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469548490794467543/1469548492195364937/DH04_Quad_Display_Slice_With_Slider_Top_Display.litematic?ex=69880f2f&is=6986bdaf&hm=771083d6a45569ee5dab870fe46807eebce6fb835696cc3d793b4601e842b53d&",
+      "timestamp": 1770438063096,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3113,
+      "canDownload": true,
+      "path": "attachments/DH006_Quad_Display_Slice_With_Slider_Top_Display.litematic",
+      "litematic": {
+        "size": "2x25x23",
+        "version": "1.20.2"
+      }
+    },
+    {
+      "id": "1469548491846975663",
+      "name": "DH006_Quad_Display_Slice_With_Slider_Top_Display.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469548490794467543/1469548491846975663/DH04_Quad_Display_Slice_With_Slider_Top_Display.pdf?ex=69880f2f&is=6986bdaf&hm=2816016eb8d92205b2f36bbc133fd13d08ffe82bf229fd2e45b2e4781db0611f&",
+      "timestamp": 1770438063096,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 612063,
+      "canDownload": true,
+      "path": "attachments/DH006_Quad_Display_Slice_With_Slider_Top_Display.pdf"
+    }
+  ],
+  "records": {
+    "description": "This quad display slice has 4 box displays with passive read ability. It has a fully hopperlocked layout with no visible pistons. The bottom displays has one buffer box with global first box placement. Box collection is not fully reliable. Top display will break if used aggressively by activating with adjacent slices. Two alternative layouts are available.",
+    "features": [
+      "Fully hopperlocked with local top display locking",
+      "Waterstream inputs",
+      "Passive read restock system with in-slice lists",
+      "Global first box placement"
+    ],
+    "considerations": [
+      "Box collection is not fully reliable",
+      "Top display will break if used aggressively by activating with adjacent slices"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469552019923800226",
+    "forumId": "1325016247515086928",
+    "continuingMessageIds": [
+      "1469552023400612043"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469552019923800226",
+    "uploadMessageId": "1469552015058141244"
+  },
+  "archivedAt": 1770438902647,
+  "updatedAt": 1770438902647,
+  "num_comments": 0
+}
