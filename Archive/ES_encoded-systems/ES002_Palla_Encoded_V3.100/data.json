@@ -1,0 +1,92 @@
+{
+  "id": "1469552744514982035",
+  "name": "Palla Encoded V3.100",
+  "code": "ES002",
+  "reservedCodes": [
+    "ES002"
+  ],
+  "pastPostThreadIds": [
+    "1469552992566116456"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "150352322315157505",
+      "username": "pallapalla",
+      "iconURL": "https://cdn.discordapp.com/avatars/150352322315157505/6e4d0ba1f232cee28c84818555a18b68.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325878202760958026",
+      "name": "Broken"
+    },
+    {
+      "id": "1325878217181102231",
+      "name": "Old/Outdated"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469552744883949568",
+      "name": "palla3.1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469552744514982035/1469552744883949568/palla3.1.png?ex=69881325&is=6986c1a5&hm=ca665b605dad5170251edf5867030928437a0567dadb92812524186841ba1fc1&",
+      "timestamp": 1770439077262,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 344898,
+      "canDownload": true,
+      "width": 1024,
+      "height": 640,
+      "path": "images/palla3.1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469552745261433036",
+      "name": "ES002_V3.100.schematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469552744514982035/1469552745261433036/ES01_V3.100.schematic?ex=69881325&is=6986c1a5&hm=feb2b307b7749a581c42fc627bd4287c55c815a04224a5ce8ba62350d23a5669&",
+      "timestamp": 1770439077262,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 170873,
+      "canDownload": true,
+      "path": "attachments/ES002_V3.100.schematic"
+    }
+  ],
+  "records": {
+    "description": "A prototype encoded storage system made by PallaPalla"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469552992566116456",
+    "forumId": "1325016702731423744",
+    "continuingMessageIds": [
+      "1469552996315562017"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469552992566116456",
+    "uploadMessageId": "1469552983640379432"
+  },
+  "archivedAt": 1770439133584,
+  "updatedAt": 1770439133584,
+  "num_comments": 0
+}
