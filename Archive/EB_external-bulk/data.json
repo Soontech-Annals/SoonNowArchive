@@ -3,7 +3,7 @@
   "name": "external-bulk",
   "code": "EB",
   "category": "Archives",
-  "description": "Post external bulk related components here!",
+  "description": "External bulk stores lots of items in a far away location for later retrieval",
   "currentCodeId": 2,
   "entries": [
     {
