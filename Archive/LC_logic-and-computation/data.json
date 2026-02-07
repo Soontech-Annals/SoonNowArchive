@@ -2,8 +2,8 @@
   "id": "1325016513660321802",
   "name": "logic-and-computation",
   "code": "LC",
-  "description": "Post logical circuits here!",
+  "category": "Archives",
+  "description": "Logical circuits go here!",
   "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "entries": []
 }
