@@ -13,6 +13,7 @@ This decoder takes two decimal digits and outputs a pulse at one of 100 slices c
 - Slim profile. 4 blocks wide.
 - Hopperspeed throughput.
 - QC based logic with state auto-fix line.
+- Extremely lag-friendly, produces almost no lag.
 
 ## Other Images
 <img src="images/inv.png?raw=1" height="300px">

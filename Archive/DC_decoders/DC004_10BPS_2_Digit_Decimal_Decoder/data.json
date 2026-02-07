@@ -118,7 +118,8 @@
       "O(n) linear time decoding, 2 gt/block. Signal travels 10 blocks per second.",
       "Slim profile. 4 blocks wide.",
       "Hopperspeed throughput.",
-      "QC based logic with state auto-fix line."
+      "QC based logic with state auto-fix line.",
+      "Extremely lag-friendly, produces almost no lag."
     ]
   },
   "styles": {},
@@ -134,6 +135,6 @@
     "uploadMessageId": "1469544166596935711"
   },
   "archivedAt": 1770437031490,
-  "updatedAt": 1770437031490,
+  "updatedAt": 1770437067964,
   "num_comments": 0
 }
