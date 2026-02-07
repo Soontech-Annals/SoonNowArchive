@@ -4,7 +4,7 @@
   "code": "DH",
   "category": "Archives",
   "description": "Post encoded shulker box display halls here.",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1461465445465985144",
@@ -25,6 +25,11 @@
       "id": "1469546984149876756",
       "code": "DH004",
       "path": "DH004_Quad_Display_Slice_With_Passive_Read"
+    },
+    {
+      "id": "1469547693784305840",
+      "code": "DH005",
+      "path": "DH005_Parallelized_Quad_Display_Slice_With_Passive_Read"
     }
   ]
 }

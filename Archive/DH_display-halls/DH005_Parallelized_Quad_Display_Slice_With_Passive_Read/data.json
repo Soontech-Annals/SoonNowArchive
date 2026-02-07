@@ -1,0 +1,137 @@
+{
+  "id": "1469547693784305840",
+  "name": "Parallelized Quad Display Slice With Passive Read",
+  "code": "DH005",
+  "reservedCodes": [
+    "DH005"
+  ],
+  "pastPostThreadIds": [
+    "1469548036425257125"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "458048759247536128",
+      "username": "51mayday",
+      "displayName": "51mayday",
+      "iconURL": "https://cdn.discordapp.com/avatars/458048759247536128/546bf5b9538dc86c57fb0cbefb98b9af.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "displayName": "Obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "528559320086872064",
+      "username": "hampter42_",
+      "iconURL": "https://cdn.discordapp.com/avatars/528559320086872064/83e4a5181f4b2cbfe68b3fdc14b6aeef.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141511205290066",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469547695797436479",
+      "name": "QuadBulk_V5_3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469547693784305840/1469547695797436479/QuadBulk_V5_3.png?ex=69880e71&is=6986bcf1&hm=6fb879152de7fe0bdc4e914c7e57062f653aaca6a578ee1f64b7566ce91774f0&",
+      "timestamp": 1770437873074,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 271373,
+      "canDownload": true,
+      "width": 976,
+      "height": 1200,
+      "path": "images/QuadBulk_V5_3.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469547696397357228",
+      "name": "DH005_QuadBulk_V5_3.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469547693784305840/1469547696397357228/DH03_QuadBulk_V5_3.litematic?ex=69880e71&is=6986bcf1&hm=e34ade8fa0cf5adbdabd053a2987f0df56e0ed1e9f91399aebf301da4d317639&",
+      "timestamp": 1770437873074,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2333,
+      "canDownload": true,
+      "path": "attachments/DH005_QuadBulk_V5_3.litematic",
+      "litematic": {
+        "size": "1x33x23",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469547696795684952",
+      "name": "DH005_Parallelized_Quad_Display_Slice_With_Passive_Read.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469547693784305840/1469547696795684952/DH03_Parallelized_Quad_Display_Slice_With_Passive_Read.pdf?ex=69880e71&is=6986bcf1&hm=e4b9b6207fbf8b3ee8afec3c2ad093f994fcfcc905d1e1f2549e950a8a451bbb&",
+      "timestamp": 1770437873074,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1532426,
+      "canDownload": true,
+      "path": "attachments/DH005_Parallelized_Quad_Display_Slice_With_Passive_Read.pdf"
+    }
+  ],
+  "records": {
+    "description": "This quad display slice has 4 box displays with passive read ability and parallelized control logic. It has a fully hopperlocked layout with no visible pistons. The bottom displays has one buffer box with global first box placement. For full hopperlocking, the top displays require a gap every 32 blocks. Box collection is not fully reliable. Top display will break if used aggressively.",
+    "features": [
+      "Minimum hoppers & chests for this layout",
+      "Fully hopper locked",
+      "In-slice lists for which chests need to be restocked from empty",
+      "Each quarter-slice can restock and call in parallel",
+      "All inventories easily reachable/visible",
+      "Control logic somewhat simple"
+    ],
+    "considerations": [
+      "Box collection is not fully reliable",
+      "Top display will break if used aggressively"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469548036425257125",
+    "forumId": "1325016247515086928",
+    "continuingMessageIds": [
+      "1469548039654871053"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469548036425257125",
+    "uploadMessageId": "1469548032055050371"
+  },
+  "archivedAt": 1770437951851,
+  "updatedAt": 1770437951851,
+  "num_comments": 0
+}
