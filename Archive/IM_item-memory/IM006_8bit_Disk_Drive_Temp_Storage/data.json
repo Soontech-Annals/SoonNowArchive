@@ -1,0 +1,119 @@
+{
+  "id": "1469582164935835857",
+  "name": "8bit Disk Drive Temp Storage",
+  "code": "IM006",
+  "reservedCodes": [
+    "IM006"
+  ],
+  "pastPostThreadIds": [
+    "1469582412945035355"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "1005958683890548908",
+      "username": "maidofmonica",
+      "iconURL": "https://cdn.discordapp.com/avatars/1005958683890548908/465eeae234d0dbf4abb2630df180adba.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325160898469433445",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469582165640744993",
+      "name": "area_render_35_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469582164935835857/1469582165640744993/area_render_35_.png?ex=69882e8b&is=6986dd0b&hm=db0fbe374bab03d851661a7a971cd2469334bef4d26a769f0f5221d1b216681d&",
+      "timestamp": 1770446091637,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 335961,
+      "canDownload": true,
+      "width": 1200,
+      "height": 956,
+      "path": "images/area_render_35_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469582166567420075",
+      "name": "IM006_8bit_Disk_Drive_Temp_Storage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469582164935835857/1469582166567420075/IM06_8bit_Disk_Drive_Temp_Storage.litematic?ex=69882e8c&is=6986dd0c&hm=f662dc835d8094e24ebf885f702e68918704258888e863170af1fe0c2b89eed9&",
+      "timestamp": 1770446091637,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 33686,
+      "canDownload": true,
+      "path": "attachments/IM006_8bit_Disk_Drive_Temp_Storage.litematic",
+      "litematic": {
+        "size": "9x7x13",
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1469582166215102556",
+      "name": "IM006_8bit_Disk_Drive_Temp_Storage.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469582164935835857/1469582166215102556/IM06_8bit_Disk_Drive_Temp_Storage.pdf?ex=69882e8b&is=6986dd0b&hm=5adf169d8a606d8fa182057ebca128be7f09482495bf15d336e0fae1158984fb&",
+      "timestamp": 1770446091637,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 535279,
+      "canDownload": true,
+      "path": "attachments/IM006_8bit_Disk_Drive_Temp_Storage.pdf"
+    }
+  ],
+  "records": {
+    "description": "The IM06 can temporarily store and retrieve boxes with a binary code. Intended for keeping the leftover partials of bulk items, for future merging operations. 256 different types can be held by this device.",
+    "features": [
+      "Extremely compact, 13x9x7 lwh",
+      "Very accessible inputs, output into waterstream, perfect for plumbing",
+      "Has simple temp logic that gives out both boxes, if another one was in storage already",
+      "Uses water buckets as placeholders, turns them into buckets to store very compact when not needed",
+      "Quick cycle and reset, min.102gt - max.598gt = 17.5 seconds on average per request",
+      "Only uses 21 hoppers, wiring for hopperlocking included"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469582412945035355",
+    "forumId": "1325016085459636234",
+    "continuingMessageIds": [
+      "1469582417311436874"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469582412945035355",
+    "uploadMessageId": "1469582409250111589"
+  },
+  "archivedAt": 1770446149182,
+  "updatedAt": 1770446149182,
+  "num_comments": 0
+}

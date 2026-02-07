@@ -4,7 +4,7 @@
   "code": "IM",
   "category": "Archives",
   "description": "Stores a small amount of items for later use with relatively quick retrieval",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1469578720737104024",
@@ -30,6 +30,11 @@
       "id": "1469581638425120881",
       "code": "IM005",
       "path": "IM005_1000_Non-Box_Item_RAM"
+    },
+    {
+      "id": "1469582164935835857",
+      "code": "IM006",
+      "path": "IM006_8bit_Disk_Drive_Temp_Storage"
     }
   ]
 }
