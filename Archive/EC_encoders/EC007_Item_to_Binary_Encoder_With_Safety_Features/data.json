@@ -1,0 +1,149 @@
+{
+  "id": "1469565569178275913",
+  "name": "Item to Binary Encoder With Safety Features",
+  "code": "EC007",
+  "reservedCodes": [
+    "EC007"
+  ],
+  "pastPostThreadIds": [
+    "1469565814729474260"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "displayName": "Obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469565569849098373",
+      "name": "coderpic.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469565569178275913/1469565569849098373/coderpic.png?ex=69881f17&is=6986cd97&hm=7be44808cde7adfb1c37c48aaf0cbde165abe824462ce24e10103949907d732a&",
+      "timestamp": 1770442134900,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 102430,
+      "canDownload": true,
+      "width": 934,
+      "height": 539,
+      "path": "images/coderpic.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469565570717319341",
+      "name": "EC007_Item_to_Binary_Encoder_With_Safety_Features.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469565569178275913/1469565570717319341/EC06_Item_to_Binary_Encoder_With_Safety_Features.litematic?ex=69881f17&is=6986cd97&hm=bbb349925ac479dac64296a69d1976f6ce51e176ed5f2cbe4158a0c92a978242&",
+      "timestamp": 1770442134900,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8841,
+      "canDownload": true,
+      "path": "attachments/EC007_Item_to_Binary_Encoder_With_Safety_Features.litematic",
+      "litematic": {
+        "size": "12x19x40",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1469565570151223296",
+      "name": "EC007_Item_to_Binary_Encoder_With_Safety_Features.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1469565569178275913/1469565570151223296/EC06_Item_to_Binary_Encoder_With_Safety_Features.zip?ex=69881f17&is=6986cd97&hm=bd62ca9cb54c5619b41e78935ace089ea3e322259503724681bc861fd8b00e89&",
+      "timestamp": 1770442134900,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1751169,
+      "canDownload": true,
+      "path": "attachments/EC007_Item_to_Binary_Encoder_With_Safety_Features.zip",
+      "wdls": [
+        {
+          "path": "Encoder Release",
+          "version": "1.17.1",
+          "levelName": "Encoder Release"
+        }
+      ],
+      "wdl": {
+        "version": "1.17.1",
+        "optimized": true
+      },
+      "unoptimizedSize": 2408226
+    },
+    {
+      "id": "1469565570403008655",
+      "name": "EC007_Item_to_Binary_Encoder_With_Safety_Features.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469565569178275913/1469565570403008655/EC06_Item_to_Binary_Encoder_With_Safety_Features.pdf?ex=69881f17&is=6986cd97&hm=fb63c3c4a3c006a416f1dcade5dc007ca20cce028146f7d70df76e5d438c441b&",
+      "timestamp": 1770442134900,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 378954,
+      "canDownload": true,
+      "path": "attachments/EC007_Item_to_Binary_Encoder_With_Safety_Features.pdf"
+    }
+  ],
+  "records": {
+    "description": "The EC06 Item to Binary Encoder With Safety Features is a 10 bit encoder with up to 1024 codes. It has safety features to prevent errors, namely dry fire protection and detection. It uses bit grouping to reduce the amount of chests needed for encoding.",
+    "features": [
+      "10 bit encoding with up to 1024 codes",
+      "Easily accessible coding chests",
+      "Safety features to prevent errors",
+      "Dry fire protection and detection"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469565814729474260",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469565818646823078"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469565814729474260",
+    "uploadMessageId": "1469565808827961394"
+  },
+  "archivedAt": 1770442189796,
+  "updatedAt": 1770442189796,
+  "num_comments": 0
+}
