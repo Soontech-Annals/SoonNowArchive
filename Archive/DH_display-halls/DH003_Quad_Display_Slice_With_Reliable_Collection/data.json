@@ -1,0 +1,118 @@
+{
+  "id": "1469546369906774299",
+  "name": "Quad Display Slice With Reliable Collection",
+  "code": "DH003",
+  "reservedCodes": [
+    "DH003"
+  ],
+  "pastPostThreadIds": [
+    "1469546655752781926"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141511205290066",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469546370741436426",
+      "name": "slice2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469546369906774299/1469546370741436426/slice2.png?ex=69880d35&is=6986bbb5&hm=d7dfe865b412ebedc5cd2d73b8e3f992539fa5a7fe7c557f8b6f2cbfa250fb9d&",
+      "timestamp": 1770437557437,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 213581,
+      "canDownload": true,
+      "width": 1000,
+      "height": 1200,
+      "path": "images/slice2.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469546370980384860",
+      "name": "DH003_reliable_collection_quad_display_slice.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469546369906774299/1469546370980384860/DH01_quad_display_slice.litematic?ex=69880d35&is=6986bbb5&hm=a8a5d2a0902f23a36f7446d9c75776bdc5b6c00344eede97402d9321d422c42d&",
+      "timestamp": 1770437557437,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2329,
+      "canDownload": true,
+      "path": "attachments/DH003_reliable_collection_quad_display_slice.litematic",
+      "litematic": {
+        "size": "1x29x24",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469546371341357066",
+      "name": "DH003_Quad_Display_Slice_With_Reliable_Collection.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469546369906774299/1469546371341357066/DH01_Quad_Display_Slice_With_Reliable_Collection.pdf?ex=69880d35&is=6986bbb5&hm=7fb9fa39731a0675fe2fd89f0ff212c9430b5a8dbca22b35f1cf791c6c3b6f06&",
+      "timestamp": 1770437557437,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 250944,
+      "canDownload": true,
+      "path": "attachments/DH003_Quad_Display_Slice_With_Reliable_Collection.pdf"
+    }
+  ],
+  "records": {
+    "description": "This quad display slice has 4 box displays with reliable box collection. It uses powdered snow in the displays for 100% reliable collection. It has a fully hopperlocked layout with no visible comparators or pistons. The bottom displays are bufferless with global first box placement. All toggle states are self resetting. For full hopperlocking, the top displays require a gap every 32 blocks.",
+    "features": [
+      "100% reliable collection",
+      "Bufferless and spam-proof bottom displays",
+      "24 blocks wide. 29 blocks tall.",
+      "Fully hopperlocked."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469546655752781926",
+    "forumId": "1325016247515086928",
+    "continuingMessageIds": [
+      "1469546659418472470"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469546655752781926",
+    "uploadMessageId": "1469546651390709934"
+  },
+  "archivedAt": 1770437624021,
+  "updatedAt": 1770437624021,
+  "num_comments": 0
+}
