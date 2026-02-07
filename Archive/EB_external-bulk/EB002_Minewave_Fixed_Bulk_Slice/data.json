@@ -1,0 +1,179 @@
+{
+  "id": "1469572140612321503",
+  "name": "Minewave Fixed Bulk Slice",
+  "code": "EB002",
+  "reservedCodes": [
+    "EB002"
+  ],
+  "pastPostThreadIds": [
+    "1469573119646892033"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142070083588270",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469572142172471316",
+      "name": "area_render_15_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469572140612321503/1469572142172471316/area_render_15_.png?ex=69882536&is=6986d3b6&hm=ce611ebcc861f97b4564aaddf1c01ce13e6af7d08c371ad0bbd453f4781de4db&",
+      "timestamp": 1770443701652,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Slice",
+      "size": 13929,
+      "canDownload": true,
+      "width": 351,
+      "height": 1000,
+      "path": "images/area_render_15_.png"
+    },
+    {
+      "id": "1469572141870612592",
+      "name": "ext1.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1469572140612321503/1469572141870612592/ext1.png?ex=69882535&is=6986d3b5&hm=33ec4cd058dd30f42384b994d67adc51e6e3497ed6295d4cdabeb9dbdd3d36d1&",
+      "timestamp": 1770443701652,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Rail extensions, necessary in order to expand the bulk storage beyond nine slices, must be aligned in the following manner",
+      "size": 51209,
+      "canDownload": true,
+      "width": 838,
+      "height": 803,
+      "path": "images/ext1.png"
+    },
+    {
+      "id": "1469572141577146452",
+      "name": "ext2.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1469572140612321503/1469572141577146452/ext2.png?ex=69882535&is=6986d3b5&hm=2fdf6f52d95c432b8f1063ac3b555dfc92f37b5ef9a2365c6780282cad15825a&",
+      "timestamp": 1770443701652,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Rail Extension Alignment, Side View",
+      "size": 41468,
+      "canDownload": true,
+      "width": 544,
+      "height": 766,
+      "path": "images/ext2.png"
+    },
+    {
+      "id": "1469572141082214492",
+      "name": "trigger.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469572140612321503/1469572141082214492/trigger.png?ex=69882535&is=6986d3b5&hm=0d4936aeb7a83673c0205496ed4675b47d5ac76ed24c20cf0b6892c2d2f753cd&",
+      "timestamp": 1770443701652,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The output triggers are connected to the controller from the back of the bulk to preserve the correct update order for the dropperline. The output trigger lines must be connected with the following timings: 0gt - output trigger 1, 4gt - output trigger 2, 10gt - output trigger 3.",
+      "size": 260253,
+      "canDownload": true,
+      "width": 1024,
+      "height": 759,
+      "path": "images/trigger.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469572142709473352",
+      "name": "EB002_Minewave_Fixed_Bulk_Slice.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469572140612321503/1469572142709473352/EB01_Minewave_Fixed_Bulk_Slice.litematic?ex=69882536&is=6986d3b6&hm=bab679aafaf3704543ce1cd1796aed7ebe0abad9bd79ab744022e651549242b5&",
+      "timestamp": 1770443701652,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1859,
+      "canDownload": true,
+      "path": "attachments/EB002_Minewave_Fixed_Bulk_Slice.litematic",
+      "litematic": {
+        "size": "2x26x9",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1469572142403162315",
+      "name": "EB002_Minewave_Fixed_Bulk_Slice.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469572140612321503/1469572142403162315/EB01_Minewave_Fixed_Bulk_Slice.pdf?ex=69882536&is=6986d3b6&hm=1dda5bb711595322bc517f6e7bd44904b0650711df85b704b2fac0984f5bdd9f&",
+      "timestamp": 1770443701652,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1074002,
+      "canDownload": true,
+      "path": "attachments/EB002_Minewave_Fixed_Bulk_Slice.pdf"
+    }
+  ],
+  "records": {
+    "description": "A device that can be stacked to create a fixed external bulk storage system. The device interfaces with an decoder (not included) and a controller (not included) to automatically store and retrieve items with redstone control. Multi-slicing, the ability to set multiple slices to the same code, is supported. These multi-sliced slices need not be adjacent.",
+    "features": [
+      "1.1 million item capacity",
+      "Multi-slicing compatible",
+      "Input overflow protection",
+      "Fully hopperlocked"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469573119646892033",
+    "forumId": "1325016379031814195",
+    "continuingMessageIds": [
+      "1469573124541648917"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469573119646892033",
+    "uploadMessageId": "1469573115460845651"
+  },
+  "archivedAt": 1770443932952,
+  "updatedAt": 1770443932952,
+  "num_comments": 0
+}

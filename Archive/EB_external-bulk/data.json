@@ -4,12 +4,17 @@
   "code": "EB",
   "category": "Archives",
   "description": "Post external bulk related components here!",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1414708030137958560",
       "code": "EB001",
       "path": "EB001_Binary_encoded_remote_bulk"
+    },
+    {
+      "id": "1469572140612321503",
+      "code": "EB002",
+      "path": "EB002_Minewave_Fixed_Bulk_Slice"
     }
   ]
 }
