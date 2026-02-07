@@ -1,0 +1,121 @@
+{
+  "id": "1469545155337130237",
+  "name": "4-9 Bit Binary Decoder With Top Output",
+  "code": "DC006",
+  "reservedCodes": [
+    "DC006"
+  ],
+  "pastPostThreadIds": [
+    "1469545656476631140"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+    },
+    {
+      "type": "discord-external",
+      "id": "480195074224029697",
+      "username": "crain4999",
+      "iconURL": "https://cdn.discordapp.com/avatars/480195074224029697/a4d42db6068d6acb0d80e6c78cdd4dd4.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019270521819156",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469545155701899325",
+      "name": "decoderpic.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469545155337130237/1469545155701899325/decoderpic.png?ex=69880c13&is=6986ba93&hm=74d4cd5658822e0827b466ee2eefabb11d4e460a839516ae0dbfd344aa7e970d&",
+      "timestamp": 1770437267861,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 88784,
+      "canDownload": true,
+      "width": 884,
+      "height": 589,
+      "path": "images/decoderpic.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469545156272455826",
+      "name": "DC006_4-9_Bit_Binary_Decoder_With_Top_Output.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469545155337130237/1469545156272455826/DC05_4-9_Bit_Binary_Decoder_With_Top_Output.litematic?ex=69880c14&is=6986ba94&hm=0f2ad38124940ae8327844321c5ec92c0bee85ba3f564b078702350df405a656&",
+      "timestamp": 1770437267861,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1376,
+      "canDownload": true,
+      "path": "attachments/DC006_4-9_Bit_Binary_Decoder_With_Top_Output.litematic",
+      "litematic": {
+        "size": "5x6x20",
+        "version": "1.19.3"
+      }
+    },
+    {
+      "id": "1469545155949232138",
+      "name": "DC006_4-9_Bit_Binary_Decoder_With_Top_Output.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469545155337130237/1469545155949232138/DC05_4-9_Bit_Binary_Decoder_With_Top_Output.pdf?ex=69880c14&is=6986ba94&hm=d6944c3d67f4fd634f3a96fa02dc97d220290afb6a0affe78b0531632474f837&",
+      "timestamp": 1770437267861,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 228625,
+      "canDownload": true,
+      "path": "attachments/DC006_4-9_Bit_Binary_Decoder_With_Top_Output.pdf"
+    }
+  ],
+  "records": {
+    "description": "This decoder takes 4 bits and outputs a pulse at one of 16 slices corresponding to the code. The device can be expanded to 9 bits of input. The output can be taken from the top of the device.",
+    "features": [
+      "Can be expanded to up to 9 bits of input.",
+      "Outputs can be taken from the top. (Observe rail state for output)",
+      "11 gt latency and 8 gt throughput."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469545656476631140",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [
+      "1469545659777548430"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469545656476631140",
+    "uploadMessageId": "1469545652538179704"
+  },
+  "archivedAt": 1770437385311,
+  "updatedAt": 1770437385311,
+  "num_comments": 0
+}
