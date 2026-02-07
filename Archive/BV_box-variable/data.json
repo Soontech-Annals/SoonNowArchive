@@ -2,8 +2,8 @@
   "id": "1325016775049351241",
   "name": "box-variable",
   "code": "BV",
-  "description": "Post shulker box variable components here!",
+  "category": "Archives",
+  "description": "Box sorters which can set/reset filter type automatically",
   "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "entries": []
 }
