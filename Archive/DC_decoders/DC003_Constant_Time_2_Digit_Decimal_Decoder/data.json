@@ -1,0 +1,139 @@
+{
+  "id": "1469543326767386820",
+  "name": "Constant Time 2 Digit Decimal Decoder",
+  "code": "DC003",
+  "reservedCodes": [
+    "DC003"
+  ],
+  "pastPostThreadIds": [
+    "1469543578341605569"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019270521819156",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469543327849382034",
+      "name": "decoderfront.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469543326767386820/1469543327849382034/decoderfront.png?ex=69880a60&is=6986b8e0&hm=6457319ebe8f0357ea699800a3563505e36c03438142178f314c4086e604e3c0&",
+      "timestamp": 1770436831896,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 202332,
+      "canDownload": true,
+      "width": 418,
+      "height": 1200,
+      "path": "images/decoderfront.png"
+    },
+    {
+      "id": "1469543327266242732",
+      "name": "decoderside.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469543326767386820/1469543327266242732/decoderside.png?ex=69880a60&is=6986b8e0&hm=11342653ba356beed4e08b7ad2401abd830be67d9792c320353d6999c783ec4b&",
+      "timestamp": 1770436831896,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 130833,
+      "canDownload": true,
+      "width": 1200,
+      "height": 786,
+      "path": "images/decoderside.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469543328851951656",
+      "name": "DC003_2Digit_Decimal_Decoder.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469543326767386820/1469543328851951656/DC02_2Digit_Decimal_Decoder.litematic?ex=69880a60&is=6986b8e0&hm=6cfb48e0e3c26457163d37670638403c95b306d8f927ff9a2d43371976242d12&",
+      "timestamp": 1770436831896,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2938,
+      "canDownload": true,
+      "path": "attachments/DC003_2Digit_Decimal_Decoder.litematic",
+      "litematic": {
+        "size": "120x13x4",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1469543328117952697",
+      "name": "DC003_2_Digit_Decimal_Decoder.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469543326767386820/1469543328117952697/DC02_2_Digit_Decimal_Decoder.pdf?ex=69880a60&is=6986b8e0&hm=825a609ca16acb33550c36783cac32aba088c509c9fe56e00c23fec1e9042ee4&",
+      "timestamp": 1770436831896,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 324423,
+      "canDownload": true,
+      "path": "attachments/DC003_2_Digit_Decimal_Decoder.pdf"
+    }
+  ],
+  "records": {
+    "description": "This decoder takes two decimal digits and outputs a pulse at one of 100 slices corresponding to the code.",
+    "features": [
+      "Constant time decoding. 30gt latency.",
+      "Slim profile. 4 blocks wide.",
+      "Hopperspeed throughput.",
+      "QC based logic with state auto-fix line."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469543578341605569",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [
+      "1469543583202807850"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469543578341605569",
+    "uploadMessageId": "1469543575254597652"
+  },
+  "archivedAt": 1770436890506,
+  "updatedAt": 1770436890506,
+  "num_comments": 0
+}
