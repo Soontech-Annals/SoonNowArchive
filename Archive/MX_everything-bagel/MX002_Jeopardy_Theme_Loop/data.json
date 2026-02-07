@@ -1,0 +1,125 @@
+{
+  "id": "1469569727465521242",
+  "name": "Jeopardy Theme Loop",
+  "code": "MX002",
+  "reservedCodes": [
+    "MX002"
+  ],
+  "pastPostThreadIds": [
+    "1469570759411372082"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325878378108162090",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469569727721509009",
+      "name": "jeopardy.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469569727465521242/1469569727721509009/jeopardy.png?ex=698822f6&is=6986d176&hm=834d29f4cf606d0e73173a154c3063ed80e3f137eb257518dd7bd147a60f41c3&",
+      "timestamp": 1770443126313,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 123233,
+      "canDownload": true,
+      "width": 895,
+      "height": 567,
+      "path": "images/jeopardy.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "vWuQVpBeqLs",
+      "name": "MX002_YouTube_Video_vWuQVpBeqLs.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=vWuQVpBeqLs",
+      "timestamp": 1770443336860,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Jeopardy Theme Song",
+        "author_name": "soundlovinfool",
+        "author_url": "https://www.youtube.com/@soundlovinfool",
+        "thumbnail_url": "https://i.ytimg.com/vi/vWuQVpBeqLs/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    },
+    {
+      "id": "1469569727931220039",
+      "name": "MX002_Jeopardy_Theme_Loop.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469569727465521242/1469569727931220039/MX02_Jeopardy_Theme_Loop.litematic?ex=698822f6&is=6986d176&hm=0d1df76f1f760a9c55a76fdbd2721031c39fe386330f8748295f45833e99f750&",
+      "timestamp": 1770443126313,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1403,
+      "canDownload": true,
+      "path": "attachments/MX002_Jeopardy_Theme_Loop.litematic",
+      "litematic": {
+        "size": "10x8x17",
+        "version": "1.17.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "The MX02 Jeopardy Theme Loop generates music to the tune of the [Jeopardy! Theme](https://www.youtube.com/watch?v=vWuQVpBeqLs) song.",
+    "features": [
+      "Repeatedly outputs the Jeopardy! theme song",
+      "Music duration: 256 gt"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469570759411372082",
+    "forumId": "1325016961775702067",
+    "continuingMessageIds": [
+      "1469570764100468827",
+      "1469570764804980943"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469570759411372082",
+    "uploadMessageId": "1469570756122902680"
+  },
+  "archivedAt": 1770443370907,
+  "updatedAt": 1770443370907,
+  "num_comments": 0
+}
