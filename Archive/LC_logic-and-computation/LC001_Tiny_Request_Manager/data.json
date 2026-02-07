@@ -1,0 +1,111 @@
+{
+  "id": "1469766686113529977",
+  "name": "Tiny Request Manager",
+  "code": "LC001",
+  "reservedCodes": [
+    "LC001"
+  ],
+  "pastPostThreadIds": [
+    "1469767287568597013"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+    },
+    {
+      "type": "discord-external",
+      "id": "298337622869147648",
+      "username": "heilzmaker",
+      "iconURL": "https://cdn.discordapp.com/avatars/298337622869147648/f2a8c199149ab9a18107788db21e53dd.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "displayName": "skyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325215944523387003",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469766687225024675",
+      "name": "pic.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469766686113529977/1469766687225024675/pic.png?ex=6988da65&is=698788e5&hm=57a9df5a7138a6afba65b3945e3281b22058007a8ba80a9db54279408c8a917c&",
+      "timestamp": 1770490084914,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 48468,
+      "canDownload": true,
+      "width": 685,
+      "height": 460,
+      "path": "images/pic.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469766686319185992",
+      "name": "LC001_Tiny_Request_Manager.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469766686113529977/1469766686319185992/LC09_Tiny_Request_Manager.litematic?ex=6988da64&is=698788e4&hm=9f8510871acc13fd4d815025ff546221417455520f76db7c21f48c471038fb43&",
+      "timestamp": 1770490084914,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1387,
+      "canDownload": true,
+      "path": "attachments/LC001_Tiny_Request_Manager.litematic",
+      "litematic": {
+        "size": "8x4x19",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that can be used to queue requests in a system. It ensures that only one request is processed at a time regardless of random request timings. The device is infinitely expandable and can be paused.",
+    "features": [
+      "Random input proof",
+      "Infinitely expandable",
+      "Pausable",
+      "Compact. 8x4x5 volume."
+    ],
+    "notes": "Reset input is not rapid input proof."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469767287568597013",
+    "forumId": "1325016513660321802",
+    "continuingMessageIds": [
+      "1469767291359985815"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469767287568597013",
+    "uploadMessageId": "1469767283898323126"
+  },
+  "archivedAt": 1770490226643,
+  "updatedAt": 1770490226643,
+  "num_comments": 0
+}

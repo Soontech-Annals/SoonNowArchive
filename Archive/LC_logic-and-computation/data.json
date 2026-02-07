@@ -4,6 +4,12 @@
   "code": "LC",
   "category": "Archives",
   "description": "Logical circuits go here!",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1469766686113529977",
+      "code": "LC001",
+      "path": "LC001_Tiny_Request_Manager"
+    }
+  ]
 }
