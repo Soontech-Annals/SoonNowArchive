@@ -1,0 +1,119 @@
+{
+  "id": "1469564645021974578",
+  "name": "16gt Item Encoder With Slime And Honey",
+  "code": "EC005",
+  "reservedCodes": [
+    "EC005"
+  ],
+  "pastPostThreadIds": [
+    "1469564864375820320"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "656864003242328064",
+      "username": "acaciachan",
+      "iconURL": "https://cdn.discordapp.com/avatars/656864003242328064/65e1c203d9ea0af6509f0754122b45a2.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469564646062297210",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469564645021974578/1469564646062297210/area_render.png?ex=69881e3a&is=6986ccba&hm=6537ac9fa75d11958702532bf43c04c2d91a0546309fb9034689ea7007c8d954&",
+      "timestamp": 1770441914564,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 141736,
+      "canDownload": true,
+      "width": 699,
+      "height": 619,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469564646800228475",
+      "name": "EC005_16gt_Item_Encoder_With_Slime_And_Honey.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469564645021974578/1469564646800228475/EC04_16gt_Item_Encoder_With_Slime_And_Honey.litematic?ex=69881e3a&is=6986ccba&hm=5bb8b71a0b554ab8d4a983c36323238cc519025c3747bd0b5f546742027f93a1&",
+      "timestamp": 1770441914564,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4600,
+      "canDownload": true,
+      "path": "attachments/EC005_16gt_Item_Encoder_With_Slime_And_Honey.litematic",
+      "litematic": {
+        "size": "13x8x24",
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1469564646309626070",
+      "name": "EC005_16gt_Item_Encoder_With_Slime_And_Honey.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469564645021974578/1469564646309626070/EC04_16gt_Item_Encoder_With_Slime_And_Honey.pdf?ex=69881e3a&is=6986ccba&hm=d4e81e0ae541f46b8796ac6a977f205b1ccf9a0ecd9322e58be35b77af17dbf0&",
+      "timestamp": 1770441914564,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 636254,
+      "canDownload": true,
+      "path": "attachments/EC005_16gt_Item_Encoder_With_Slime_And_Honey.pdf"
+    }
+  ],
+  "records": {
+    "description": "This encoder has a 16gt throughput encoder core which only requires one item per type in a chest. It uses slime and honey in its wiring. Head not included.",
+    "features": [
+      "Half-hopperspeed (16gt) throughput",
+      "Requires only 1 item per type per chest.",
+      "No piston toggle states."
+    ],
+    "considerations": [
+      "Uses slime and honey in wiring"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469564864375820320",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469564867571880169"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469564864375820320",
+    "uploadMessageId": "1469564860521119861"
+  },
+  "archivedAt": 1770441964907,
+  "updatedAt": 1770441964907,
+  "num_comments": 0
+}
