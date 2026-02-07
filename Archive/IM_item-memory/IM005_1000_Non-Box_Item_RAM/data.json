@@ -1,0 +1,121 @@
+{
+  "id": "1469581638425120881",
+  "name": "1000 Non-Box Item RAM",
+  "code": "IM005",
+  "reservedCodes": [
+    "IM005"
+  ],
+  "pastPostThreadIds": [
+    "1469581873163407400"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325160898469433445",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469581638672322615",
+      "name": "image_1_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469581638425120881/1469581638672322615/image_1_1.png?ex=69882e0e&is=6986dc8e&hm=84ecc0ba22ae68ed341db5975f62ddb17a9b82496c29785416920c5d37dd7263&",
+      "timestamp": 1770445966107,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 100424,
+      "canDownload": true,
+      "width": 672,
+      "height": 406,
+      "path": "images/image_1_1.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469581639502790822",
+      "name": "IM005_1000_Non-Box_Item_RAM.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469581638425120881/1469581639502790822/IM05_1000_Non-Box_Item_RAM.litematic?ex=69882e0e&is=6986dc8e&hm=8afa88308dcac55b5985dbd9319bcdd7c2de43438445209a6c5cb62df4019e53&",
+      "timestamp": 1770445966107,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6911,
+      "canDownload": true,
+      "path": "attachments/IM005_1000_Non-Box_Item_RAM.litematic",
+      "litematic": {
+        "size": "22x10x19",
+        "version": "1.19.3"
+      }
+    },
+    {
+      "id": "1469581639129632982",
+      "name": "IM005_1000_Non-Box_Item_RAM.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469581638425120881/1469581639129632982/IM05_1000_Non-Box_Item_RAM.pdf?ex=69882e0e&is=6986dc8e&hm=d72e6ec841be3023150ed1c3c46daffcbc633ade7c0d0ca7b1b25248ff5c2bb3&",
+      "timestamp": 1770445966107,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 286487,
+      "canDownload": true,
+      "path": "attachments/IM005_1000_Non-Box_Item_RAM.pdf"
+    }
+  ],
+  "records": {
+    "description": "This device can store and retrieve non-box items with a specific decimal code. This may be useful for implementing dictionaries in an encoded dynamic sorting system. The device uses a 50-address item memory system with a hoppercart based slot cycling system to store and retrieve 1000 different items at near constant time.",
+    "features": [
+      "Has 1000 different codes/item types. Items are stored in slots inside shulker boxes inside a dropper.",
+      "Random access. Can insert and retrieve items in constant time in any order.",
+      "Compact. 22x10x19 volume.",
+      "Maximum 55gt latency from call request to item."
+    ],
+    "considerations": [
+      "Cannot store boxes, only non-box items are allowed"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469581873163407400",
+    "forumId": "1325016085459636234",
+    "continuingMessageIds": [
+      "1469581878330658836"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469581873163407400",
+    "uploadMessageId": "1469581868817977365"
+  },
+  "archivedAt": 1770446020433,
+  "updatedAt": 1770446020433,
+  "num_comments": 0
+}
