@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1469639377700393053)
 
-A device that allows for encoding items in a secure manner.
+[1.19+]
 ## Features
 - Pausable
 - Security features (Chests have been reset && Has item to encode && IsBox && Carts checking)

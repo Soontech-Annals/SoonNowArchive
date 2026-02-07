@@ -97,7 +97,7 @@
     }
   ],
   "records": {
-    "description": "A device that allows for encoding items in a secure manner.",
+    "description": "[1.19+]",
     "features": [
       "Pausable",
       "Security features (Chests have been reset && Has item to encode && IsBox && Carts checking)",
@@ -118,6 +118,6 @@
     "uploadMessageId": "1469638078598615163"
   },
   "archivedAt": 1766903504306,
-  "updatedAt": 1770459731035,
+  "updatedAt": 1770459957897,
   "num_comments": 0
 }
