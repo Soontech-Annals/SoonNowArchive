@@ -3,7 +3,7 @@
 
 **Authors:** *Obi81, 51mayday, hampter42_*
 
-**Tags:** *Functional*
+**Tags:** *Functional, Collectionful*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1469547420219216071)
 
