@@ -3,7 +3,7 @@
   "name": "display-halls",
   "code": "DH",
   "category": "Archives",
-  "description": "Post encoded shulker box display halls here.",
+  "description": "Display halls have box displays which automatically replaces empty boxes",
   "currentCodeId": 6,
   "entries": [
     {
