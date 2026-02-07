@@ -1,0 +1,141 @@
+{
+  "id": "1469539901195288626",
+  "name": "Parallelized Encoded Chest Hall Using Discs",
+  "code": "CH003",
+  "reservedCodes": [
+    "CH003"
+  ],
+  "pastPostThreadIds": [
+    "1469540681457602671"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "displayName": "JayRoi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141103581855805",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469539901753135251",
+      "name": "pic.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469539901195288626/1469539901753135251/pic.png?ex=6988072f&is=6986b5af&hm=e35349bcf2dc1e2a0f85fcad5255acf47a661c59a71a14090b8abb353248fe81&",
+      "timestamp": 1770436015176,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 489580,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1183,
+      "path": "images/pic.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469539902428414034",
+      "name": "CH003_Parallelized_Encoded_Chest_Hall_Using_Discs.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469539901195288626/1469539902428414034/CH02_Parallelized_Encoded_Chest_Hall_Using_Discs.litematic?ex=6988072f&is=6986b5af&hm=f7380f6abcb5771013de2f28d09b2d0a8b613e8b14cf7620372d32d8b6238e78&",
+      "timestamp": 1770436015176,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 69883,
+      "canDownload": true,
+      "path": "attachments/CH003_Parallelized_Encoded_Chest_Hall_Using_Discs.litematic",
+      "litematic": {
+        "size": "25x71x65",
+        "version": "1.20.1"
+      }
+    },
+    {
+      "id": "1469539902168498287",
+      "name": "CH003_Parallelized_Encoded_Chest_Hall_Using_Discs.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469539901195288626/1469539902168498287/CH02_Parallelized_Encoded_Chest_Hall_Using_Discs.pdf?ex=6988072f&is=6986b5af&hm=80063a96f296816d2e4205eb10d01d07ff2c6c4d6fa5205af112eea9656b5dc3&",
+      "timestamp": 1770436015176,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 866867,
+      "canDownload": true,
+      "path": "attachments/CH003_Parallelized_Encoded_Chest_Hall_Using_Discs.pdf"
+    }
+  ],
+  "records": {
+    "description": "This is a demonstrative prototype of a parallelized unloading logic inspired by Andrews54757's chest hall (See CH002). However, the system is designed to be more compact and efficient by using discs to encode the chest locations instead of embedded redstone memory.",
+    "features": [
+      "540 chests, 10 chests per slice.",
+      "25 block wide slices.",
+      "Fully parallelizable (10x hopperspeed for items, 1x hopperspeed for box insertion)",
+      "100% hopperlocked with sectional unlocking",
+      "Self-repairable toggle states with Auto-Fix sequence"
+    ],
+    "instructions": [
+      "Ensure the 8gt stabilizer is on, it is below the UI signified with a gold block.",
+      "Insert the code box, the unloading box, and any additional boxes to be directly inserted.",
+      "Make sure not to send any additional orders until the lamp indicates the system is ready.",
+      "Next to the gold block/8gt stabilizer are noteblocks to depreciate the SS values determining the unloading amount. The clocks for these are not present as the system is incomplete.",
+      "When the system is done, the chest-hall slices will not relock themselves as this feature is not completed, so click the locking button (on-top the doors) twice to turn the system off. Note: In practice, this noteblock can be clicked once every so often while the system is running to reduce lag."
+    ],
+    "notes": "The first box of the order should be full with 3 or 4 music discs. The first 3 discs encode the address in the hall, and the fourth is used to determine how much of the box to unload (higher SS disc = more items). \nThe second box will be unloaded (if chosen), and any additional boxes will be directly sent to the address.\nTo the right of the UI, there is a labeled lever to directly insert boxes of unstackable items, rather than unloading them. Note: The hall cannot unload unstackables at a separate rate than 16 or 64 stackables. \nUnder this lever, there is a noteblock which will let you bypass unloading and directly insert the first box into the address.",
+    "compatibility": "Minecraft 1.16+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1469535239176065176",
+      "code": "CH002",
+      "name": "Parallelized Encoded Chest Hall",
+      "url": "https://discord.com/channels/1325008017015701504/1469539291913916478",
+      "path": "Archive/CH_chest-halls/CH002_Parallelized_Encoded_Chest_Hall",
+      "matches": [
+        "CH002"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1469540681457602671",
+    "forumId": "1325016041042214983",
+    "continuingMessageIds": [
+      "1469540685404180480",
+      "1469540685643386921"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469540681457602671",
+    "uploadMessageId": "1469540676025716848"
+  },
+  "archivedAt": 1770436198885,
+  "updatedAt": 1770436198885,
+  "num_comments": 0
+}

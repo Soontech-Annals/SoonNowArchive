@@ -4,7 +4,7 @@
   "code": "CH",
   "category": "Archives",
   "description": "Post encoded chest hall designs here. Not filter based chest halls.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1454537445625303060",
@@ -15,6 +15,11 @@
       "id": "1469535239176065176",
       "code": "CH002",
       "path": "CH002_Parallelized_Encoded_Chest_Hall"
+    },
+    {
+      "id": "1469539901195288626",
+      "code": "CH003",
+      "path": "CH003_Parallelized_Encoded_Chest_Hall_Using_Discs"
     }
   ]
 }
