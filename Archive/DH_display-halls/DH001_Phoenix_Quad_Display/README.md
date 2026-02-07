@@ -3,7 +3,7 @@
 
 **Authors:** *Ragdoll Willy*
 
-**Tags:** *Functional*
+**Tags:** *Functional, Collectionless*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1461467928632492063)
 
