@@ -1,0 +1,126 @@
+{
+  "id": "1469535239176065176",
+  "name": "Parallelized Encoded Chest Hall",
+  "code": "CH002",
+  "reservedCodes": [
+    "CH002"
+  ],
+  "pastPostThreadIds": [
+    "1469539291913916478"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325141149093986305",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469535240455454812",
+      "name": "chesthall.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469535239176065176/1469535240455454812/chesthall.png?ex=698802d7&is=6986b157&hm=f42466a9d6c6fe9343e544620fdaf717e670d294c721a4b0ceda2aa6bf881e41&",
+      "timestamp": 1770434903664,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 453555,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1200,
+      "path": "images/chesthall.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469535239331119134",
+      "name": "CH002_encoded_chest_hall_p30.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469535239176065176/1469535239331119134/CH01_encoded_chest_hall_p30.litematic?ex=698802d7&is=6986b157&hm=5909e63e88912202f2b199f48040f75ee8c51886d03a39e3a6a31255bd91c525&",
+      "timestamp": 1770434903664,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 67754,
+      "canDownload": true,
+      "path": "attachments/CH002_encoded_chest_hall_p30.litematic",
+      "litematic": {
+        "size": "24x91x108",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469535239650152560",
+      "name": "CH002_Parallelized_Encoded_Chest_Hall.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469535239176065176/1469535239650152560/CH01_Parallelized_Encoded_Chest_Hall.pdf?ex=698802d7&is=6986b157&hm=7f57026c7836c4bfa98a8558148c9026ff3d35e7d320d17e45ad4c6bddd82dab&",
+      "timestamp": 1770434903664,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 712195,
+      "canDownload": true,
+      "path": "attachments/CH002_Parallelized_Encoded_Chest_Hall.pdf"
+    }
+  ],
+  "records": {
+    "description": "A fully hopperlocked 10 item per slice encoded chest hall with a backend sporting up to 20x HS parallelization. It is able to insert both loose items and boxes into chests allowing for item/box hybrid functionality.",
+    "features": [
+      "800 chests, 10 chests per slice with 24 blocks of width",
+      "Fully parallelizable (19x hopperspeed for items, 1x hopperspeed for box insertion)",
+      "100% hopperlocked with sectional unlocking",
+      "10/8 gt streamed comparator outputs",
+      "Self-repairable toggle states with Auto-Fix sequence",
+      "Low active lag, +1 ms at 1x HS, +6 ms at 20x HS"
+    ],
+    "considerations": [
+      "The transport mechanism for this hall does not support overflow protection. Extra items may despawn.",
+      "It is recommended that the comparator readouts are used to limit the insertion amounts as needed to prevent overflow."
+    ],
+    "notes": "- Comparator readouts are streamed from the chests at 10 codes / 8 gt. This is initiated by a pulsed signal.\n- All toggle states are self-repairable. The repair process is initiated by a pulsed signal.",
+    "compatibility": "Broken in 1.21+ due to item movement changes."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469539291913916478",
+    "forumId": "1325016041042214983",
+    "continuingMessageIds": [
+      "1469539296070602816"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469539291913916478",
+    "uploadMessageId": "1469539288755470509"
+  },
+  "archivedAt": 1770435864787,
+  "updatedAt": 1770435864787,
+  "num_comments": 0
+}
