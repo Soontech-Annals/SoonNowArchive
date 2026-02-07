@@ -2,8 +2,8 @@
   "id": "1325016556026990613",
   "name": "merging",
   "code": "MG",
-  "description": "Post merging related components here!",
+  "category": "Archives",
+  "description": "A merger merges partial boxes into more full boxes",
   "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "entries": []
 }
