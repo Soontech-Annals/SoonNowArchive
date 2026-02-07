@@ -1,0 +1,124 @@
+{
+  "id": "1469531167295406102",
+  "name": "Box Color Swapper",
+  "code": "AC001",
+  "reservedCodes": [
+    "AC001"
+  ],
+  "pastPostThreadIds": [
+    "1469531723720167617"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325161129089175725",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469531167538679922",
+      "name": "area_render_30_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469531167295406102/1469531167538679922/area_render_30_.png?ex=6987ff0c&is=6986ad8c&hm=b31b34f9b517399ff3229f81a91576da02ae108186933e2a1104ae6aacb3bde3&",
+      "timestamp": 1770433932852,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 96599,
+      "canDownload": true,
+      "width": 924,
+      "height": 578,
+      "path": "images/area_render_30_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469531167802785957",
+      "name": "AC001_AC01_Box_Color_Swapper.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469531167295406102/1469531167802785957/AC01_Box_Color_Swapper.litematic?ex=6987ff0c&is=6986ad8c&hm=a48aa802014adcbe32f862b6b90e68addfb08cdb8b5fb440f38ce95efd08fd3a&",
+      "timestamp": 1770433932852,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 10352,
+      "canDownload": true,
+      "path": "attachments/AC001_AC01_Box_Color_Swapper.litematic",
+      "litematic": {
+        "size": "23x12x7",
+        "version": "1.21"
+      }
+    },
+    {
+      "id": "1469531168142655601",
+      "name": "AC001_AC01_Box_Color_Swapper.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469531167295406102/1469531168142655601/AC01_Box_Color_Swapper.pdf?ex=6987ff0d&is=6986ad8d&hm=9d6f7a838030fff5ca954a1fa0d262c602be45614ce667d37872958c9979ee20&",
+      "timestamp": 1770433932852,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 326162,
+      "canDownload": true,
+      "path": "attachments/AC001_AC01_Box_Color_Swapper.pdf"
+    }
+  ],
+  "records": {
+    "description": "The AC01 Box Color Swapper is a device that recolors shulker boxes using color dyes and a crafter. The device's item to color map is set using the built-in encoder. The device is designed to be safe, with features that prevent dry firing and ensure that the dyes are present. Without the necessary dyes, the device will not recolor the box.",
+    "features": [
+      "Safety features: Dry fire proof and checks if dyes are present",
+      "No idle hoppercarts",
+      "Fully hopperlocked",
+      "Small and compact"
+    ],
+    "considerations": [],
+    "instructions": [
+      "Box input: Barrel input for shulker box containing items to be recolored",
+      "Dye input: Dye items to recolor the box. 16 variants",
+      "Output: Colored box via waterstream",
+      "See the corresponding explanation video on Youtube"
+    ],
+    "notes": "Inspired by Obi's encoder design. MC Version: 1.21 to 1.21.4. Dimensions: 23 x 12 x 7 blocks. Throughput: 125 gt. Latency: 120 gt from input to crafter activation."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469531723720167617",
+    "forumId": "1325016191416274984",
+    "continuingMessageIds": [
+      "1469531727750762719"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469531723720167617",
+    "uploadMessageId": "1469531719093719122"
+  },
+  "archivedAt": 1770434063745,
+  "updatedAt": 1770434063745,
+  "num_comments": 0
+}
