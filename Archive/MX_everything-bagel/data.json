@@ -2,8 +2,14 @@
   "id": "1325016961775702067",
   "name": "everything-bagel",
   "code": "MX",
+  "category": "Archives",
   "description": "Post everything else that relates to encoded tech!",
-  "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1469568821970079755",
+      "code": "MX001",
+      "path": "MX001_Morning_Flower_Alarm_Loop"
+    }
+  ]
 }

@@ -1,0 +1,125 @@
+{
+  "id": "1469568821970079755",
+  "name": "Morning Flower Alarm Loop",
+  "code": "MX001",
+  "reservedCodes": [
+    "MX001"
+  ],
+  "pastPostThreadIds": [
+    "1469569283980918816"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325878378108162090",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469568822309814392",
+      "name": "morning_loop.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469568821970079755/1469568822309814392/morning_loop.png?ex=6988221e&is=6986d09e&hm=3095e258cdb7ced25aaf75d1584d160317aed4fc626e9127594d5bdeb68d915f&",
+      "timestamp": 1770442910426,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 343662,
+      "canDownload": true,
+      "width": 1200,
+      "height": 932,
+      "path": "images/morning_loop.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469568822578118708",
+      "name": "MX001_morning_flower_alarm_loop.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469568821970079755/1469568822578118708/MX01_morning_flower_alarm_loop.litematic?ex=6988221e&is=6986d09e&hm=72ee4b568821e96c25ed307f53bd7491e227dcc7e01776f4002b5a8f261bca4e&",
+      "timestamp": 1770442910426,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1311,
+      "canDownload": true,
+      "path": "attachments/MX001_morning_flower_alarm_loop.litematic",
+      "litematic": {
+        "size": "19x7x7",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "vTVWGoQcn9Q",
+      "name": "MX001_YouTube_Video_vTVWGoQcn9Q.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=vTVWGoQcn9Q",
+      "timestamp": 1770442980420,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Samsung GALAXY S4 Alarms - Morning Flower",
+        "author_name": "hansgamemaster",
+        "author_url": "https://www.youtube.com/@hansgamemaster",
+        "thumbnail_url": "https://i.ytimg.com/vi/vTVWGoQcn9Q/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 150
+      }
+    }
+  ],
+  "records": {
+    "description": "The MX01 Morning Flower Alarm loop generates music to the tune of the Morning Flower alarm music on galaxy phones.",
+    "features": [
+      "Repeatedly outputs music.",
+      "Music duration: 258 gt"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469569283980918816",
+    "forumId": "1325016961775702067",
+    "continuingMessageIds": [
+      "1469569287596544166",
+      "1469569287906656258"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469569283980918816",
+    "uploadMessageId": "1469569280667549875"
+  },
+  "archivedAt": 1770443018971,
+  "updatedAt": 1770443018971,
+  "num_comments": 0
+}
