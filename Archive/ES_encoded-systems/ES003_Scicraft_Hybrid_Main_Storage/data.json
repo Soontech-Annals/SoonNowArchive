@@ -1,0 +1,240 @@
+{
+  "id": "1469553453918326804",
+  "name": "Scicraft Hybrid Main Storage",
+  "code": "ES003",
+  "reservedCodes": [
+    "ES003"
+  ],
+  "pastPostThreadIds": [
+    "1469555372892094619"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "202470679205904384",
+      "username": "jorvp",
+      "displayName": "jorvp",
+      "iconURL": "https://cdn.discordapp.com/avatars/202470679205904384/624c331560eed1ff8f8fcc2d4da722df.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "displayName": "Obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "381396930212921355",
+      "username": "commandleo",
+      "iconURL": "https://cdn.discordapp.com/avatars/381396930212921355/cb1dcc76d3f6a30dddc49e6d9e96681a.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "247092209780916225",
+      "username": "justglotz",
+      "displayName": "Glotz",
+      "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "244529884846751745",
+      "username": "raffq",
+      "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "531601171211878431",
+      "username": "rapscallion1138",
+      "iconURL": "https://cdn.discordapp.com/avatars/531601171211878431/8db107ef61024878a05baab3a798d7d5.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "178076513613250560",
+      "username": "boyenn",
+      "iconURL": "https://cdn.discordapp.com/avatars/178076513613250560/533e5bdfca980cc4bd6e21076693ad4a.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "164989359148367873",
+      "username": "floppydonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325878187607195729",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469553456410005696",
+      "name": "area_render_1_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469553453918326804/1469553456410005696/area_render_1_.png?ex=698813ce&is=6986c24e&hm=e0dbd3abd07ac5a1b4573127326f75f3b9c37ed4ed84a386ab6d5ec6e20c504a&",
+      "timestamp": 1770439246397,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 190930,
+      "canDownload": true,
+      "width": 1010,
+      "height": 499,
+      "path": "images/area_render_1_.png"
+    },
+    {
+      "id": "1469553455780728979",
+      "name": "area_render_2_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469553453918326804/1469553455780728979/area_render_2_.png?ex=698813ce&is=6986c24e&hm=7d1fb8de5dc6843911aafb494269128c07d815931bb9c84382b14fb1bb47ad0a&",
+      "timestamp": 1770439246397,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Remote bulk",
+      "size": 269377,
+      "canDownload": true,
+      "width": 1003,
+      "height": 546,
+      "path": "images/area_render_2_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469553456694956053",
+      "name": "ES003_Scicraft_Hybrid_Main_Storage.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1469553453918326804/1469553456694956053/ES02_Scicraft_Hybrid_Main_Storage.zip?ex=698813cf&is=6986c24f&hm=191d91e82016c893329955883920f293d82879d2dbe3cfdfb8512f7b4f5305a9&",
+      "timestamp": 1770439246397,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 24021689,
+      "canDownload": true,
+      "path": "attachments/ES003_Scicraft_Hybrid_Main_Storage.zip",
+      "wdls": [
+        {
+          "path": ".",
+          "version": "1.19.2",
+          "levelName": "Storage"
+        }
+      ],
+      "wdl": {
+        "version": "1.19.2",
+        "optimized": true
+      },
+      "unoptimizedSize": 65579125
+    },
+    {
+      "id": "1469553457009524746",
+      "name": "ES003_Scicraft_Hybrid_Main_Storage.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469553453918326804/1469553457009524746/ES02_Scicraft_Hybrid_Main_Storage.pdf?ex=698813cf&is=6986c24f&hm=24180c85b656f769160417fc90f8d158e5ae2f9894846acd1da29e051ea3b290&",
+      "timestamp": 1770439246397,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1820464,
+      "canDownload": true,
+      "path": "attachments/ES003_Scicraft_Hybrid_Main_Storage.pdf"
+    },
+    {
+      "id": "8VbCW-Fqjhw)",
+      "name": "ES003_YouTube_Video.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=8VbCW-Fqjhw%29",
+      "timestamp": 1770439246397,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Unknown Title",
+        "author_name": "Unknown Author",
+        "author_url": "#",
+        "thumbnail_url": "",
+        "thumbnail_width": 0,
+        "thumbnail_height": 0,
+        "width": 0,
+        "height": 0
+      }
+    }
+  ],
+  "records": {
+    "description": "The Scicraft Hybrid Main Storage is a hybrid encoded storage system, which means it uses regular filters for loose items and encoded box sorting. This system is complete, and is in use in the Scicraft technical Minecraft survival server.",
+    "features": [
+      "86.5% hopper locking. (15% of the unlocked hoppers are due to the mass crafter. You can get rid of it to achieve almost 99% hopperlocking.)",
+      "0.5mspt idle, 5mspt active (Ryzen 9 7950X with lithium 1.19.2).",
+      "3 Hybrid Halls, which means both items and boxes in the same hall, which makes for a very interesting item layout.",
+      "Up to 378 Bulk Items, 756 Loose items.",
+      "Fixed item encoded remote bulk.",
+      "CommandLeo's unstackable sorter.",
+      "Parallel unloader, (FITu) which allows for sorting items in parallel.",
+      "Complete item layout with encoder setup.",
+      "Multiple peripherals (furnace array, crafting station, Mass crafter, Box yeeter crafter, etc.)",
+      "Full system status output panel",
+      "Basic error checking, can pause the input if there is a problem",
+      "Not a single Togglestate, which means every latch can be reset, with multiple buttons to reset them if there's a server crash.",
+      "Chunkloaded, bulk chunkloaders only activate when needed."
+    ],
+    "instructions": [
+      "Please watch the youtube video first."
+    ],
+    "notes": "Mass Crafter does NOT have chunkloaders. Do not Unload the area while using it! Make sure the subchunk\nis correct! Masscrafter is locational in that way, due to how mod4 works, it needs to be located in a Y level so the items go through a subchunk.",
+    "compatibility": "1.19",
+    "detailed-credits": "- 1.19 Unstackable Sorter By CommandLeo\n- Encoder by Obi\n- Hall by Obi, with tweaks of CommandLeo and some things by jorvp. The original idea was put together by jorvp and FloppyDonkey, the original components are both from Optic.\n- Bulk by Obi\n- Priority list by Obi\n- FIT (First item type unloader) by Glotz, Raffq, Rapscallion and Boyenn\n- Mass Crafter by Glotz\n- Item Layout by jorvp and Glotz\n- Furnace Array by FloppyDonkey\n- Crafting stations by CommandLeo"
+  },
+  "styles": {
+    "detailed-credits": {
+      "depth": 2,
+      "headerText": "Detailed Credits"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469555372892094619",
+    "forumId": "1325016702731423744",
+    "continuingMessageIds": [
+      "1469555376587280416",
+      "1469555376990191749",
+      "1469555378047029502"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469555372892094619",
+    "uploadMessageId": "1469555368420966401"
+  },
+  "archivedAt": 1770439701089,
+  "updatedAt": 1770439701089,
+  "num_comments": 0
+}

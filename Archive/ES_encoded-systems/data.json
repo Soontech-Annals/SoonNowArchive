@@ -4,7 +4,7 @@
   "code": "ES",
   "category": "Archives",
   "description": "Post full encoded systems here!",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1390385824486391979",
@@ -15,6 +15,11 @@
       "id": "1469552744514982035",
       "code": "ES002",
       "path": "ES002_Palla_Encoded_V3.100"
+    },
+    {
+      "id": "1469553453918326804",
+      "code": "ES003",
+      "path": "ES003_Scicraft_Hybrid_Main_Storage"
     }
   ]
 }
