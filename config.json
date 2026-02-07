@@ -27,8 +27,7 @@
         "items": {
           "type": "string"
         },
-        "description": "How to use the device",
-        "minItems": 1
+        "description": "How to use the device"
       },
       "notes": {
         "type": "string",
@@ -42,7 +41,6 @@
     "required": [
       "description",
       "features",
-      "instructions",
       "compatibility"
     ]
   },
