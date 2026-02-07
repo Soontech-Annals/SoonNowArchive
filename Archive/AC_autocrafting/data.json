@@ -3,7 +3,7 @@
   "name": "autocrafting",
   "code": "AC",
   "category": "Archives",
-  "description": "Post autocrafting related components here!",
+  "description": "Automatically crafts items using the crafter block",
   "currentCodeId": 1,
   "entries": [
     {
