@@ -2,8 +2,8 @@
   "id": "1325016579687059478",
   "name": "splitting",
   "code": "SG",
-  "description": "Post designs related to splitting here! EG: Box splitters",
+  "category": "Archives",
+  "description": "A splitter takes mixed item input and outputs single type boxes",
   "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "entries": []
 }
