@@ -4,7 +4,7 @@
   "code": "EC",
   "category": "Archives",
   "description": "Post encoder designs here",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1444407242689351852",
@@ -30,6 +30,11 @@
       "id": "1469564645021974578",
       "code": "EC005",
       "path": "EC005_16gt_Item_Encoder_With_Slime_And_Honey"
+    },
+    {
+      "id": "1469565156844372124",
+      "code": "EC006",
+      "path": "EC006_Hopperspeed_Encoder_With_Minimal_Code_Items"
     }
   ]
 }

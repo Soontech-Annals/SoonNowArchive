@@ -1,0 +1,118 @@
+{
+  "id": "1469565156844372124",
+  "name": "Hopperspeed Encoder With Minimal Code Items",
+  "code": "EC006",
+  "reservedCodes": [
+    "EC006"
+  ],
+  "pastPostThreadIds": [
+    "1469565347010056284"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1073133812415991818",
+      "username": "willymc_cn",
+      "displayName": "willymc",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469565157842747544",
+      "name": "pic.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469565156844372124/1469565157842747544/pic.png?ex=69881eb4&is=6986cd34&hm=a9c8b3fa036dd6b7c060ee80e72d1092e4932d2015a89f640db2d353a925e8e5&",
+      "timestamp": 1770442036592,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 345157,
+      "canDownload": true,
+      "width": 1200,
+      "height": 808,
+      "path": "images/pic.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469565158492868783",
+      "name": "EC006_Hopperspeed_Encoder_With_Minimal_Code_Items.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469565156844372124/1469565158492868783/EC05_Hopperspeed_Encoder_With_Minimal_Code_Items.litematic?ex=69881eb4&is=6986cd34&hm=76c87fb164b12264a7b1051507b540e1be10f341d0d2a87fb3d4b34489fb548a&",
+      "timestamp": 1770442036592,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8667,
+      "canDownload": true,
+      "path": "attachments/EC006_Hopperspeed_Encoder_With_Minimal_Code_Items.litematic",
+      "litematic": {
+        "size": "11x13x84",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469565158064918650",
+      "name": "EC006_Hopperspeed_Encoder_With_Minimal_Code_Items.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469565156844372124/1469565158064918650/EC05_Hopperspeed_Encoder_With_Minimal_Code_Items.pdf?ex=69881eb4&is=6986cd34&hm=5f0d17d52874323b98533d9f29b2d725fdb2b94ab5a962d128d656edf165e516&",
+      "timestamp": 1770442036592,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 660814,
+      "canDownload": true,
+      "path": "attachments/EC006_Hopperspeed_Encoder_With_Minimal_Code_Items.pdf"
+    }
+  ],
+  "records": {
+    "description": "This encoder uses multiple hoppercarts to allow for hopperspeed item to code encoding. Unlike other hopperspeed encoders, this design only requires 2 items per item type per chest, the minimum amount possible.",
+    "features": [
+      "Hopperspeed (9000 items/hr) encoding.",
+      "Adjustable and expandable to work with any base.",
+      "Requires only 2 items per item type per chest.",
+      "Cart yeeter based cart recycler and storage."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469565347010056284",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469565351674118417"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469565347010056284",
+    "uploadMessageId": "1469565343272800509"
+  },
+  "archivedAt": 1770442080091,
+  "updatedAt": 1770442080091,
+  "num_comments": 0
+}
