@@ -4,7 +4,7 @@
   "code": "DC",
   "category": "Archives",
   "description": "Post decoder designs here!",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1446387683101380650",
@@ -25,6 +25,11 @@
       "id": "1469543843295662132",
       "code": "DC004",
       "path": "DC004_10BPS_2_Digit_Decimal_Decoder"
+    },
+    {
+      "id": "1469544722522575032",
+      "code": "DC005",
+      "path": "DC005_Dual_Sided_6_Bit_Binary_Decoder"
     }
   ]
 }

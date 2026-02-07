@@ -1,0 +1,118 @@
+{
+  "id": "1469544722522575032",
+  "name": "Dual Sided 6 Bit Binary Decoder",
+  "code": "DC005",
+  "reservedCodes": [
+    "DC005"
+  ],
+  "pastPostThreadIds": [
+    "1469544937115746405"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "164989359148367873",
+      "username": "floppydonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019270521819156",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469544723156041852",
+      "name": "dualdecoder.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469544722522575032/1469544723156041852/dualdecoder.png?ex=69880bac&is=6986ba2c&hm=f89ff349e7a91d329271b3eeebef20a0c1d90dab4dbc4aedf940a9c8327c8e53&",
+      "timestamp": 1770437164670,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 77098,
+      "canDownload": true,
+      "width": 1004,
+      "height": 630,
+      "path": "images/dualdecoder.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469544723474546922",
+      "name": "DC005_Dual_Sided_6_Bit_Binary_Decoder_1.17.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469544722522575032/1469544723474546922/DC04_Dual_Sided_6_Bit_Binary_Decoder_1.17.litematic?ex=69880bac&is=6986ba2c&hm=24172f3cc6d46fba66eafeb2d265325bfa37b13c819071bca310fc19bf938205&",
+      "timestamp": 1770437164670,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1534,
+      "canDownload": true,
+      "path": "attachments/DC005_Dual_Sided_6_Bit_Binary_Decoder_1.17.litematic",
+      "litematic": {
+        "size": "68x8x13",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1469544723789381702",
+      "name": "DC005_Dual_Sided_6_Bit_Binary_Decoder.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469544722522575032/1469544723789381702/DC04_Dual_Sided_6_Bit_Binary_Decoder.pdf?ex=69880bac&is=6986ba2c&hm=793d2e5afa4ead3de909cae39b73a0c601b2c29b38e66c6dd8c1e3344b68c3b1&",
+      "timestamp": 1770437164670,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 291164,
+      "canDownload": true,
+      "path": "attachments/DC005_Dual_Sided_6_Bit_Binary_Decoder.pdf"
+    }
+  ],
+  "records": {
+    "description": "This decoder takes six bits and outputs a pulse at one of 64 slices corresponding to the code. The device is dual sided, meaning it can output a signal to one of two different sides. This effectively adds another bit to the decoder, allowing for 128 different outputs.",
+    "features": [
+      "Dual sided outputs.",
+      "Signal travels 100 blocks per second.",
+      "No 1gt offset needed. This is achieved through a combination of TTP to get the proper update order, and some rail diodes.",
+      "Minimal flashing rails. QC based logic with BUDed rails.",
+      "Hopperspeed throughput."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469544937115746405",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [
+      "1469544940706205746"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469544937115746405",
+    "uploadMessageId": "1469544933680615534"
+  },
+  "archivedAt": 1770437213978,
+  "updatedAt": 1770437213978,
+  "num_comments": 0
+}
