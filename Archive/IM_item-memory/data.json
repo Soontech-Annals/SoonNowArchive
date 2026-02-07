@@ -2,8 +2,8 @@
   "id": "1325016085459636234",
   "name": "item-memory",
   "code": "IM",
-  "description": "Post item memories here! (EG: Item RAM, disk drives)",
+  "category": "Archives",
+  "description": "Stores a small amount of items for later use with relatively quick retrieval",
   "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "entries": []
 }
