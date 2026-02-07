@@ -2,8 +2,14 @@
   "id": "1325016001623883886",
   "name": "data-storage",
   "code": "DS",
+  "category": "Archives",
   "description": "Post data storage components here! (EG: Redstone RAMs)",
-  "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1469541313807646750",
+      "code": "DS001",
+      "path": "DS001_Streamable_Bit_RAM"
+    }
+  ]
 }

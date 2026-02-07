@@ -1,0 +1,165 @@
+{
+  "id": "1469541313807646750",
+  "name": "Streamable Bit RAM",
+  "code": "DS001",
+  "reservedCodes": [
+    "DS001"
+  ],
+  "pastPostThreadIds": [
+    "1469542088336211980"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145962343043143",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469541365716091135",
+      "name": "sram.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469541313807646750/1469541365716091135/sram.png?ex=6988088c&is=6986b70c&hm=d77f473bff680e03b44c146915fa0f31fd4322c8bb7c4e018862bb68dd131d95&",
+      "timestamp": 1770436364290,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 503379,
+      "canDownload": true,
+      "width": 1200,
+      "height": 904,
+      "path": "images/sram.png"
+    },
+    {
+      "id": "1469541366106292226",
+      "name": "invs.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1469541313807646750/1469541366106292226/invs.png?ex=6988088c&is=6986b70c&hm=f6304dfe58cf929e3e24771597bae044dfa8b118fad4c387895d520ef64683b8&",
+      "timestamp": 1770436364290,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Inventory setup",
+      "size": 207571,
+      "canDownload": true,
+      "width": 1027,
+      "height": 1027,
+      "path": "images/invs.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469541314621079562",
+      "name": "DS001_600_bit_ram.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469541313807646750/1469541314621079562/DS01600_600_bit_ram.litematic?ex=69880880&is=6986b700&hm=412101e63bb7ec36c412be5ef71779dfec8c457984a6400eced5df12343ca968&",
+      "timestamp": 1770436351969,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6682,
+      "canDownload": true,
+      "path": "attachments/DS001_600_bit_ram.litematic",
+      "litematic": {
+        "size": "36x32x36",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469541314935787600",
+      "name": "DS001_1600_bit_RAM_p1.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469541313807646750/1469541314935787600/DS011600_1600_bit_RAM_p1.litematic?ex=69880880&is=6986b700&hm=2eee75e826090b067703a439c834b141578f1b57761c321c406ae143af2213f6&",
+      "timestamp": 1770436351969,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8311,
+      "canDownload": true,
+      "path": "attachments/DS001_1600_bit_RAM_p1.litematic",
+      "litematic": {
+        "size": "50x32x50",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1469541314021429248",
+      "name": "DS001_Streamable_Bit_RAM.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469541313807646750/1469541314021429248/DS01_Streamable_Bit_RAM.pdf?ex=69880880&is=6986b700&hm=f3c9d0d139fac8651b312e2f86127ebd79e8460bf57d39d8cf77316241426abf&",
+      "timestamp": 1770436351969,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1667282,
+      "canDownload": true,
+      "path": "attachments/DS001_Streamable_Bit_RAM.pdf"
+    }
+  ],
+  "records": {
+    "description": "A RAM module that stores 1600 bits of data in locked repeaters. Each bit is addressable through three 4-bit inputs. It is able to stream all of its stored data such that one bit is outputted per level every 4gt-8gt.",
+    "features": [
+      "Constant time writes to individually addressable bits.",
+      "RAM contents can be streamed at a certain rate.",
+      "Matrix decoding addresses memory modules individually to reduce lag."
+    ],
+    "considerations": [
+      "Very laggy when streaming out the data."
+    ],
+    "notes": "Includes a 600 bit variant"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469542088336211980",
+    "forumId": "1325016001623883886",
+    "continuingMessageIds": [
+      "1469542093474103358"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469542088336211980",
+    "uploadMessageId": "1469542081650360370"
+  },
+  "archivedAt": 1770436532808,
+  "updatedAt": 1770436532808,
+  "num_comments": 0
+}
