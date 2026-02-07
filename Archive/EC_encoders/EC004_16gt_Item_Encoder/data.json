@@ -1,0 +1,142 @@
+{
+  "id": "1469564001447841930",
+  "name": "16gt Item Encoder",
+  "code": "EC004",
+  "reservedCodes": [
+    "EC004"
+  ],
+  "pastPostThreadIds": [
+    "1469564248471638126"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469564002303741962",
+      "name": "coder.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469564001447841930/1469564002303741962/coder.png?ex=69881da1&is=6986cc21&hm=5a1b8895ef01c3eea75b4863221ff8c9e32cb48658f225b42f98e18ad78a9a9a&",
+      "timestamp": 1770441761124,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 371633,
+      "canDownload": true,
+      "width": 1200,
+      "height": 595,
+      "path": "images/coder.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469564003054256334",
+      "name": "EC004_16gt_encoder_core_p2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469564001447841930/1469564003054256334/EC03_16gt_encoder_core_p2.litematic?ex=69881da1&is=6986cc21&hm=c36612ffd874d99dae61f351fef960478ec2591cdd85bf5baec1d0a2550970eb&",
+      "timestamp": 1770441761124,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6561,
+      "canDownload": true,
+      "path": "attachments/EC004_16gt_encoder_core_p2.litematic",
+      "litematic": {
+        "size": "38x15x11",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469564003381416189",
+      "name": "EC004_16gt_encoder_core_dispenser_1.19_p2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469564001447841930/1469564003381416189/EC03_16gt_encoder_core_dispenser_1.19_p2.litematic?ex=69881da1&is=6986cc21&hm=98a214a4b895085dc6f0c63377aa8881102c0bdd2a252576c33901b0e82ea560&",
+      "timestamp": 1770441761124,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Includes cart yeeting based input",
+      "size": 7503,
+      "canDownload": true,
+      "path": "attachments/EC004_16gt_encoder_core_dispenser_1.19_p2.litematic",
+      "litematic": {
+        "size": "38x15x15",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1469564003700310217",
+      "name": "EC004_16gt_Item_Encoder.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469564001447841930/1469564003700310217/EC03_16gt_Item_Encoder.pdf?ex=69881da1&is=6986cc21&hm=5600885b40ac6ecdc0a5a2c2e31dcd2c37219a7493f6e1f9eb1c8df4959dd07c&",
+      "timestamp": 1770441761124,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 687203,
+      "canDownload": true,
+      "path": "attachments/EC004_16gt_Item_Encoder.pdf"
+    }
+  ],
+  "records": {
+    "description": "This encoder has a 16gt throughput encoder core which only requires one item per type in a chest. It uses 9 carts but can be easily modified with cart yeeting in 1.19+ (carts in storage are all empty). It is dustupdateless, honeyless, and MTE compatible.",
+    "features": [
+      "Uses 9 carts for half-hopperspeed (16gt) throughput",
+      "Requires only 1 item per type per chest.",
+      "MTE compatible.",
+      "Self resettable toggle states."
+    ],
+    "notes": "Cart yeeting version included"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469564248471638126",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469564251529023692"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469564248471638126",
+    "uploadMessageId": "1469564244390314232"
+  },
+  "archivedAt": 1770441818267,
+  "updatedAt": 1770441818267,
+  "num_comments": 0
+}
