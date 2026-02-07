@@ -3,7 +3,7 @@
   "name": "encoders",
   "code": "EC",
   "category": "Archives",
-  "description": "Post encoder designs here",
+  "description": "Encoders take an item input and outputs a redstone code",
   "currentCodeId": 8,
   "entries": [
     {
