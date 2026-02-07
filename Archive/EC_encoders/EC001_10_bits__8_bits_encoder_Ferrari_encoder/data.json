@@ -113,13 +113,8 @@
     "features": [
       "Pausable",
       "Security features (Chests have been reset && Has item to encode && IsBox && Carts checking)",
-      "Include 2 encoders in 1"
-    ],
-    "instructions": [
-      "Input your box in the input hopper."
-    ],
-    "notes": "To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block.",
-    "compatibility": "1.19 - 1.20 and 1.21+"
+      "Include 2 encoders in 1 (8 bits and 10 bits)"
+    ]
   },
   "styles": {},
   "references": [],
@@ -135,6 +130,6 @@
     "uploadMessageId": "1469638078598615163"
   },
   "archivedAt": 1766903504306,
-  "updatedAt": 1770459420775,
+  "updatedAt": 1770459641063,
   "num_comments": 0
 }

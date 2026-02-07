@@ -11,13 +11,7 @@ A device that allows for encoding items in a secure manner.
 ## Features
 - Pausable
 - Security features (Chests have been reset && Has item to encode && IsBox && Carts checking)
-- Include 2 encoders in 1
-## Instructions
-1. Input your box in the input hopper.
-## Notes
-To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block.
-## Compatibility
-1.19 - 1.20 and 1.21+
+- Include 2 encoders in 1 (8 bits and 10 bits)
 
 ## Other Images
 <img src="images/2025-11-29_20.19.59.png?raw=1" height="300px">
