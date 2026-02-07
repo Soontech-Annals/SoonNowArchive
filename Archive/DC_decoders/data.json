@@ -3,7 +3,7 @@
   "name": "decoders",
   "code": "DC",
   "category": "Archives",
-  "description": "Post decoder designs here!",
+  "description": "Decoders take a redstone code and maps it to a slice (code to one-hot)",
   "currentCodeId": 6,
   "entries": [
     {
