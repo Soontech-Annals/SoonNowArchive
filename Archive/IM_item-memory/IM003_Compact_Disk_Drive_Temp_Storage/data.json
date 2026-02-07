@@ -1,0 +1,182 @@
+{
+  "id": "1469579784182038528",
+  "name": "Compact Disk Drive Temp Storage",
+  "code": "IM003",
+  "reservedCodes": [
+    "IM003"
+  ],
+  "pastPostThreadIds": [
+    "1469580506235408384"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "624927906908471306",
+      "username": "obi81",
+      "displayName": "Obi81",
+      "iconURL": "https://cdn.discordapp.com/avatars/624927906908471306/5ca94a8774d0abe79d280eb3ec2978b0.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "480195074224029697",
+      "username": "crain4999",
+      "iconURL": "https://cdn.discordapp.com/avatars/480195074224029697/a4d42db6068d6acb0d80e6c78cdd4dd4.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "150352322315157505",
+      "username": "pallapalla",
+      "iconURL": "https://cdn.discordapp.com/avatars/150352322315157505/6e4d0ba1f232cee28c84818555a18b68.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "204889304227512320",
+      "username": "xxopticnervexx",
+      "iconURL": "https://cdn.discordapp.com/avatars/204889304227512320/ad0110a304b6c4ae04b28fec0bb25033.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "displayName": "JayRoi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325160898469433445",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469579784416788561",
+      "name": "diskdrive.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469579784182038528/1469579784416788561/diskdrive.png?ex=69882c54&is=6986dad4&hm=1b4af8f06eec82b0946e60215cb809be676c7666d8ced784c458554a1b0c7d35&",
+      "timestamp": 1770445524021,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 151637,
+      "canDownload": true,
+      "width": 841,
+      "height": 879,
+      "path": "images/diskdrive.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469579784647479347",
+      "name": "IM003_Compact_Disk_Drive_Temp_Storage.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1469579784182038528/1469579784647479347/IM03_Compact_Disk_Drive_Temp_Storage.zip?ex=69882c54&is=6986dad4&hm=8f0fdac947eaefa6d3b671a904e5d336e56a7d69aaade90106d50cd74ede3222&",
+      "timestamp": 1770445524021,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 377565,
+      "canDownload": true,
+      "path": "attachments/IM003_Compact_Disk_Drive_Temp_Storage.zip",
+      "wdls": [
+        {
+          "path": "Disk Drive Temp Release",
+          "version": "1.17.1",
+          "levelName": "Disk Drive Temp Release"
+        }
+      ],
+      "wdl": {
+        "version": "1.17.1",
+        "optimized": true
+      },
+      "unoptimizedSize": 578174
+    },
+    {
+      "id": "1469579784907653202",
+      "name": "IM003_Compact_Disk_Drive_Temp_Storage.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469579784182038528/1469579784907653202/IM03_Compact_Disk_Drive_Temp_Storage.pdf?ex=69882c54&is=6986dad4&hm=432b102a2694f3c9a46ca252af2669357c5fc807c23b6bdf4945c457946f5589&",
+      "timestamp": 1770445524021,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 394444,
+      "canDownload": true,
+      "path": "attachments/IM003_Compact_Disk_Drive_Temp_Storage.pdf"
+    },
+    {
+      "id": "1469579785171763210",
+      "name": "IM003_Compact_Disk_Drive_Temp_Storage.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469579784182038528/1469579785171763210/IM03_Compact_Disk_Drive_Temp_Storage.litematic?ex=69882c54&is=6986dad4&hm=b04091c08e4f8f5c0f470ab81706b90133cb0a441bb3a6244aafdddaa5c08d94&",
+      "timestamp": 1770445524021,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4233,
+      "canDownload": true,
+      "path": "attachments/IM003_Compact_Disk_Drive_Temp_Storage.litematic",
+      "litematic": {
+        "size": "14x13x10",
+        "version": "1.17.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Stores boxes in a temporary storage system. The device is designed to be used in a dynamic sorting system to merge partial boxes.",
+    "features": [
+      "Stores 32 boxes in each double chest for high density",
+      "8 bit address, up to 256 boxes",
+      "Built in isBox check for easy pair detection",
+      "Safety feature checks if chest is reset properly",
+      "Safety feature checks if placeholder items are missing"
+    ],
+    "instructions": [
+      "To use, set an 8 bit address and input a box.",
+      "The drive will iterate through the boxes in the right chest to find a box already stored in the system.",
+      "If a box is found, both boxes are outputted.",
+      "If no box is found, the input box is stored in the drive for later pairing.",
+      "The drive can store up to 256 boxes (one per address) in 8 double chests."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469580506235408384",
+    "forumId": "1325016085459636234",
+    "continuingMessageIds": [
+      "1469580509670801554"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469580506235408384",
+    "uploadMessageId": "1469580500988461058"
+  },
+  "archivedAt": 1770445694300,
+  "updatedAt": 1770445694300,
+  "num_comments": 0
+}
