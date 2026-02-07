@@ -1,6 +1,6 @@
 {
   "id": "1444407242689351852",
-  "name": "[1.19 - 1.20 and 1.21+] 10 bits + 8 bits encoder (Ferrari encoder)",
+  "name": "10 bits + 8 bits encoder (Ferrari encoder)",
   "code": "EC001",
   "reservedCodes": [
     "EC001"
@@ -12,8 +12,8 @@
     {
       "type": "discord-in-guild",
       "id": "670693115887091722",
-      "username": "kurisu_techmc_user",
       "displayName": "Cartisu",
+      "username": "kurisu_techmc_user",
       "iconURL": "https://cdn.discordapp.com/avatars/670693115887091722/c6d174d6f9c8c24ff0810c83f09b8f4f.webp"
     }
   ],
@@ -34,13 +34,13 @@
       "canDownload": true,
       "width": 800,
       "height": 420,
-      "path": "images/2025-11-29_20.20.04.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "kurisu_techmc_user"
+        "username": "Unknown"
       },
-      "timestamp": 1764444040000
+      "timestamp": 1764444040000,
+      "path": "images/2025-11-29_20.20.04.png"
     },
     {
       "id": "1444407738909200424",
@@ -51,13 +51,13 @@
       "canDownload": true,
       "width": 800,
       "height": 420,
-      "path": "images/2025-11-29_20.19.59.png",
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "kurisu_techmc_user"
+        "username": "Unknown"
       },
-      "timestamp": 1764444040000
+      "timestamp": 1764444040000,
+      "path": "images/2025-11-29_20.19.59.png"
     }
   ],
   "attachments": [
@@ -76,7 +76,7 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "kurisu_techmc_user"
+        "username": "Unknown"
       },
       "timestamp": 1764444225000
     },
@@ -91,7 +91,7 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "kurisu_techmc_user"
+        "username": "Unknown"
       },
       "timestamp": 1764444040000
     },
@@ -106,7 +106,7 @@
       "source": "MessageAttachment",
       "author": {
         "type": "unknown",
-        "username": "kurisu_techmc_user"
+        "username": "Unknown"
       },
       "timestamp": 1764444040000
     }
@@ -121,8 +121,10 @@
     "instructions": [
       "Input your box in the input hopper."
     ],
-    "notes": "To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block."
+    "notes": "To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block.",
+    "compatibility": "1.19 - 1.20 and 1.21+"
   },
+  "styles": {},
   "references": [],
   "author_references": [],
   "post": {
@@ -137,6 +139,6 @@
     "uploadMessageId": "1444586520316088380"
   },
   "archivedAt": 1766903504306,
-  "updatedAt": 1764486663959,
+  "updatedAt": 1770442278460,
   "num_comments": 0
 }

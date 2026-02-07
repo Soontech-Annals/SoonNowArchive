@@ -1,4 +1,4 @@
-# [1.19 - 1.20 and 1.21+] 10 bits + 8 bits encoder (Ferrari encoder)
+# 10 bits + 8 bits encoder (Ferrari encoder)
 <img alt="2025-11-29_20.20.04.png" src="images/2025-11-29_20.20.04.png?raw=1" height="300px">
 
 **Authors:** *Cartisu*
@@ -16,6 +16,8 @@ A device that allows for encoding items in a secure manner.
 1. Input your box in the input hopper.
 ## Notes
 To use it in 1.19 or 1.20 you need to go at the end of the encoder and replace the middle observer of the middle column by a note block.
+## Compatibility
+1.19 - 1.20 and 1.21+
 
 ## Other Images
 <img src="images/2025-11-29_20.19.59.png?raw=1" height="300px">
