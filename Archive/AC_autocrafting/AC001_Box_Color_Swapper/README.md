@@ -13,14 +13,20 @@ The AC01 Box Color Swapper is a device that recolors shulker boxes using color d
 - No idle hoppercarts
 - Fully hopperlocked
 - Small and compact
+- Dimensions: 23 x 12 x 7 blocks.
+- Throughput: 125 gt.
+- Latency: 120 gt from input to crafter activation.
 ## Instructions
 1. Box input: Barrel input for shulker box containing items to be recolored
 2. Dye input: Dye items to recolor the box. 16 variants
 3. Output: Colored box via waterstream
 4. See the corresponding explanation video on Youtube
 ## Notes
-Inspired by Obi's encoder design. MC Version: 1.21 to 1.21.4. Dimensions: 23 x 12 x 7 blocks. Throughput: 125 gt. Latency: 120 gt from input to crafter activation.
+Inspired by Obi's encoder design.
+## Compatibility
+1.21+
 
 ## Resources
 - [AC001_AC01_Box_Color_Swapper.litematic](attachments/AC001_AC01_Box_Color_Swapper.litematic): MC 1.21, Size 23x12x7 blocks
 - [AC001_AC01_Box_Color_Swapper.pdf](attachments/AC001_AC01_Box_Color_Swapper.pdf): application/pdf
+- [Unknown Title](https://www.youtube.com/watch?v=nnvas8g5LmQ%29.): by [Unknown Author](#)
