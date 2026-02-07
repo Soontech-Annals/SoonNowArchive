@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1469531723720167617)
 
-The AC01 Box Color Swapper is a device that recolors shulker boxes using color dyes and a crafter. The device's item to color map is set using the built-in encoder. The device is designed to be safe, with features that prevent dry firing and ensure that the dyes are present. Without the necessary dyes, the device will not recolor the box.
+Recolors shulker boxes using color dyes and a crafter. The device's item to color map is set using the built-in whitelister. The device is designed to be safe, with features that prevent dry firing and ensure that the dyes are present. Without the necessary dyes, the device will not recolor the box.
 ## Features
 - Safety features: Dry fire proof and checks if dyes are present
 - No idle hoppercarts
@@ -20,7 +20,6 @@ The AC01 Box Color Swapper is a device that recolors shulker boxes using color d
 1. Box input: Barrel input for shulker box containing items to be recolored
 2. Dye input: Dye items to recolor the box. 16 variants
 3. Output: Colored box via waterstream
-4. See the corresponding explanation video on Youtube
 ## Notes
 Inspired by Obi's encoder design.
 ## Compatibility
@@ -29,4 +28,3 @@ Inspired by Obi's encoder design.
 ## Resources
 - [AC001_AC01_Box_Color_Swapper.litematic](attachments/AC001_AC01_Box_Color_Swapper.litematic): MC 1.21, Size 23x12x7 blocks
 - [AC001_AC01_Box_Color_Swapper.pdf](attachments/AC001_AC01_Box_Color_Swapper.pdf): application/pdf
-- [Unknown Title](https://www.youtube.com/watch?v=nnvas8g5LmQ%29.): by [Unknown Author](#)

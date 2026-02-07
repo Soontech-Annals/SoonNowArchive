@@ -87,37 +87,10 @@
       "size": 326162,
       "canDownload": true,
       "path": "attachments/AC001_AC01_Box_Color_Swapper.pdf"
-    },
-    {
-      "id": "nnvas8g5LmQ).",
-      "name": "AC001_YouTube_Video_nnvas8g5LmQ.url",
-      "contentType": "youtube",
-      "url": "https://www.youtube.com/watch?v=nnvas8g5LmQ%29.",
-      "timestamp": 1770433932852,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "239078039831445504",
-        "username": "andrews54757",
-        "displayName": "Andrews54757",
-        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
-      },
-      "source": "URLInMessage",
-      "description": "",
-      "canDownload": false,
-      "youtube": {
-        "title": "Unknown Title",
-        "author_name": "Unknown Author",
-        "author_url": "#",
-        "thumbnail_url": "",
-        "thumbnail_width": 0,
-        "thumbnail_height": 0,
-        "width": 0,
-        "height": 0
-      }
     }
   ],
   "records": {
-    "description": "The AC01 Box Color Swapper is a device that recolors shulker boxes using color dyes and a crafter. The device's item to color map is set using the built-in encoder. The device is designed to be safe, with features that prevent dry firing and ensure that the dyes are present. Without the necessary dyes, the device will not recolor the box.",
+    "description": "Recolors shulker boxes using color dyes and a crafter. The device's item to color map is set using the built-in whitelister. The device is designed to be safe, with features that prevent dry firing and ensure that the dyes are present. Without the necessary dyes, the device will not recolor the box.",
     "features": [
       "Safety features: Dry fire proof and checks if dyes are present",
       "No idle hoppercarts",
@@ -130,8 +103,7 @@
     "instructions": [
       "Box input: Barrel input for shulker box containing items to be recolored",
       "Dye input: Dye items to recolor the box. 16 variants",
-      "Output: Colored box via waterstream",
-      "See the corresponding explanation video on Youtube"
+      "Output: Colored box via waterstream"
     ],
     "notes": "Inspired by Obi's encoder design.",
     "compatibility": "1.21+"
@@ -143,13 +115,12 @@
     "threadId": "1469531723720167617",
     "forumId": "1325016191416274984",
     "continuingMessageIds": [
-      "1469531727750762719",
-      "1469532279041691845"
+      "1469531727750762719"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1469531723720167617",
-    "uploadMessageId": "1469532274461642837"
+    "uploadMessageId": "1469534442426073192"
   },
   "archivedAt": 1770434063745,
-  "updatedAt": 1770434196000,
+  "updatedAt": 1770434713049,
   "num_comments": 0
 }
