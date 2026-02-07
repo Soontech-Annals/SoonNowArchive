@@ -164,11 +164,11 @@
       "path": "attachments/ES003_Scicraft_Hybrid_Main_Storage.pdf"
     },
     {
-      "id": "8VbCW-Fqjhw)",
-      "name": "ES003_YouTube_Video.url",
+      "id": "8VbCW-Fqjhw",
+      "name": "ES003_YouTube_Video_8VbCW-Fqjhw.url",
       "contentType": "youtube",
-      "url": "https://www.youtube.com/watch?v=8VbCW-Fqjhw%29",
-      "timestamp": 1770439246397,
+      "url": "https://www.youtube.com/watch?v=8VbCW-Fqjhw",
+      "timestamp": 1770440128470,
       "author": {
         "type": "discord-in-guild",
         "id": "239078039831445504",
@@ -180,14 +180,14 @@
       "description": "",
       "canDownload": false,
       "youtube": {
-        "title": "Unknown Title",
-        "author_name": "Unknown Author",
-        "author_url": "#",
-        "thumbnail_url": "",
-        "thumbnail_width": 0,
-        "thumbnail_height": 0,
-        "width": 0,
-        "height": 0
+        "title": "How SciCraft Stores Over 500 MILLION Items In Minecraft",
+        "author_name": "jorvp",
+        "author_url": "https://www.youtube.com/@jorvp",
+        "thumbnail_url": "https://i.ytimg.com/vi/8VbCW-Fqjhw/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
       }
     }
   ],
@@ -232,9 +232,9 @@
       "1469555378047029502"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1469555372892094619",
-    "uploadMessageId": "1469555368420966401"
+    "uploadMessageId": "1469557711468232767"
   },
   "archivedAt": 1770439701089,
-  "updatedAt": 1770439701089,
+  "updatedAt": 1770440259815,
   "num_comments": 0
 }

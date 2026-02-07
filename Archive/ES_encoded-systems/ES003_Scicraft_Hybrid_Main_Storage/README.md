@@ -47,4 +47,4 @@ is correct! Masscrafter is locational in that way, due to how mod4 works, it nee
 ## Resources
 - [ES003_Scicraft_Hybrid_Main_Storage.zip](attachments/ES003_Scicraft_Hybrid_Main_Storage.zip): MC 1.19.2
 - [ES003_Scicraft_Hybrid_Main_Storage.pdf](attachments/ES003_Scicraft_Hybrid_Main_Storage.pdf): application/pdf
-- [Unknown Title](https://www.youtube.com/watch?v=8VbCW-Fqjhw%29): by [Unknown Author](#)
+- [How SciCraft Stores Over 500 MILLION Items In Minecraft](https://www.youtube.com/watch?v=8VbCW-Fqjhw): by [jorvp](https://www.youtube.com/@jorvp)
