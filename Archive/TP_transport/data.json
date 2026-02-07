@@ -2,8 +2,8 @@
   "id": "1325016626747146270",
   "name": "transport",
   "code": "TP",
-  "description": "Post encoded transport related things here! (EG: item transport)",
+  "category": "Archives",
+  "description": "Encoded transport moves items where they need to go",
   "currentCodeId": 0,
-  "entries": [],
-  "category": "Archives"
+  "entries": []
 }
