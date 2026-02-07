@@ -3,7 +3,7 @@
   "name": "chest-halls",
   "code": "CH",
   "category": "Archives",
-  "description": "Post encoded chest hall designs here. Not filter based chest halls.",
+  "description": "Encoded chest halls uses redstone codes to put items in chests for access",
   "currentCodeId": 3,
   "entries": [
     {
