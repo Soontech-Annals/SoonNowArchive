@@ -3,7 +3,7 @@
   "name": "data-storage",
   "code": "DS",
   "category": "Archives",
-  "description": "Post data storage components here! (EG: Redstone RAMs)",
+  "description": "Stores redstone signals for later use. like a RAM.",
   "currentCodeId": 1,
   "entries": [
     {
