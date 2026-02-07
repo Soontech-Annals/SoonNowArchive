@@ -1,0 +1,125 @@
+{
+  "id": "1469571208918863974",
+  "name": "Bob The Builder Loop",
+  "code": "MX003",
+  "reservedCodes": [
+    "MX003"
+  ],
+  "pastPostThreadIds": [
+    "1469571610225672264"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325878378108162090",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469571209573171291",
+      "name": "bob.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469571208918863974/1469571209573171291/bob.png?ex=69882457&is=6986d2d7&hm=f3f77ec5a99496bf7a20f84d6a54796b61b2c32f8ad1288c77febbc311c57641&",
+      "timestamp": 1770443479519,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 552721,
+      "canDownload": true,
+      "width": 1194,
+      "height": 1200,
+      "path": "images/bob.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469571210349248643",
+      "name": "MX003_Bob_The_Builder_Loop.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469571208918863974/1469571210349248643/MX03_Bob_The_Builder_Loop.litematic?ex=69882457&is=6986d2d7&hm=90627fe328812439de5699b13c92859a46d631a6bdec70468154c0fbd236b196&",
+      "timestamp": 1770443479519,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1822,
+      "canDownload": true,
+      "path": "attachments/MX003_Bob_The_Builder_Loop.litematic",
+      "litematic": {
+        "size": "15x10x16",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "HdVg-2jn2OU",
+      "name": "MX003_YouTube_Video_HdVg-2jn2OU.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=HdVg-2jn2OU",
+      "timestamp": 1770443479519,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": false,
+      "youtube": {
+        "title": "Bob the Builder Theme Song | CBeebies",
+        "author_name": "CBeebies",
+        "author_url": "https://www.youtube.com/@cbeebies",
+        "thumbnail_url": "https://i.ytimg.com/vi/HdVg-2jn2OU/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 150
+      }
+    }
+  ],
+  "records": {
+    "description": "The MX03 Bob The Builder Loop generates music to the tune of the Bob The Builder theme song. \"Can we fix it? Yes we can!\"",
+    "features": [
+      "Repeatedly outputs the Bob The Builder theme song",
+      "Music duration: 384 gt"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469571610225672264",
+    "forumId": "1325016961775702067",
+    "continuingMessageIds": [
+      "1469571613895819286",
+      "1469571615049125989"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469571610225672264",
+    "uploadMessageId": "1469571606635479040"
+  },
+  "archivedAt": 1770443573786,
+  "updatedAt": 1770443573786,
+  "num_comments": 0
+}
