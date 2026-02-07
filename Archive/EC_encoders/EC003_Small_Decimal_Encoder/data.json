@@ -1,0 +1,120 @@
+{
+  "id": "1469563238696882329",
+  "name": "Small Decimal Encoder",
+  "code": "EC003",
+  "reservedCodes": [
+    "EC003"
+  ],
+  "pastPostThreadIds": [
+    "1469563446763716620"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469563239233880065",
+      "name": "small.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469563238696882329/1469563239233880065/small.png?ex=69881ceb&is=6986cb6b&hm=33107bacd51f4c5827b06708fbd925e11c28d160a76d436cb6d6ba5a8d85da17&",
+      "timestamp": 1770441579270,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 247886,
+      "canDownload": true,
+      "width": 1024,
+      "height": 460,
+      "path": "images/small.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469563239473086525",
+      "name": "EC003_small_decimal_encoder.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469563238696882329/1469563239473086525/EC02_small_decimal_encoder.litematic?ex=69881ceb&is=6986cb6b&hm=09175a8d7b6f5d37546290354509fb55d71587c06d31f6d4ba5d48e0499a0ad8&",
+      "timestamp": 1770441579270,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3890,
+      "canDownload": true,
+      "path": "attachments/EC003_small_decimal_encoder.litematic",
+      "litematic": {
+        "size": "28x13x17",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1469563239783206996",
+      "name": "EC003_Small_Decimal_Encoder.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469563238696882329/1469563239783206996/EC02_Small_Decimal_Encoder.pdf?ex=69881ceb&is=6986cb6b&hm=aaa01c6dde307a7f892edf1c330dcb6101fe50183ce5f87a6db2f5e901a6d4a2&",
+      "timestamp": 1770441579270,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 820181,
+      "canDownload": true,
+      "path": "attachments/EC003_Small_Decimal_Encoder.pdf"
+    }
+  ],
+  "records": {
+    "description": "This small item to decimal encoder uses demibolts and a simple layered design. It can handle up to 1000 item types.",
+    "features": [
+      "Small and simple stacked design with demibolts.",
+      "Encodes up to 1000 item types.",
+      "Uses up to four carts for 1 code/56 gt throughput"
+    ],
+    "considerations": [
+      "Designed before cart yeeting, stores carts at input"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469563446763716620",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469563456691900566"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469563446763716620",
+    "uploadMessageId": "1469563442871537756"
+  },
+  "archivedAt": 1770441626932,
+  "updatedAt": 1770441626932,
+  "num_comments": 0
+}

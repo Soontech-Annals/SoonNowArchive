@@ -4,7 +4,7 @@
   "code": "EC",
   "category": "Archives",
   "description": "Post encoder designs here",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1444407242689351852",
@@ -15,6 +15,11 @@
       "id": "1469562036269613147",
       "code": "EC002",
       "path": "EC002_Hopperspeed_Encoder_V2"
+    },
+    {
+      "id": "1469563238696882329",
+      "code": "EC003",
+      "path": "EC003_Small_Decimal_Encoder"
     }
   ]
 }
