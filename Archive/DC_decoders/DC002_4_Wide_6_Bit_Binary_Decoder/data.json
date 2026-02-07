@@ -1,0 +1,118 @@
+{
+  "id": "1469542641740939476",
+  "name": "4 Wide 6 Bit Binary Decoder",
+  "code": "DC002",
+  "reservedCodes": [
+    "DC002"
+  ],
+  "pastPostThreadIds": [
+    "1469542847970672794"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "243788118162014208",
+      "username": "dzreamslol",
+      "displayName": "dzreams",
+      "iconURL": "https://cdn.discordapp.com/avatars/243788118162014208/21d91549a0cdca6d684492d2ea6d2079.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019270521819156",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469542644001669304",
+      "name": "6bit.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469542641740939476/1469542644001669304/6bit.png?ex=698809bd&is=6986b83d&hm=a05b1a18afe003d55cdd7ec01e5690e3706e250feae0dd095d193ae00376cd2e&",
+      "timestamp": 1770436668573,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 176994,
+      "canDownload": true,
+      "width": 1200,
+      "height": 595,
+      "path": "images/6bit.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469542643121000600",
+      "name": "DC002_6bit_decoder.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469542641740939476/1469542643121000600/DC01_6bit_decoder.litematic?ex=698809bc&is=6986b83c&hm=358fe89e8de8e3cf017a1d4ea257bcd052611d2e90c3e82383e5a94e6d3924d9&",
+      "timestamp": 1770436668573,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1541,
+      "canDownload": true,
+      "path": "attachments/DC002_6bit_decoder.litematic",
+      "litematic": {
+        "size": "73x10x4",
+        "version": "1.17.1"
+      }
+    },
+    {
+      "id": "1469542643515261041",
+      "name": "DC002_6_Bit_Decoder.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469542641740939476/1469542643515261041/DC01_6_Bit_Decoder.pdf?ex=698809bc&is=6986b83c&hm=faaa2166d4d1a0b7efedc6d9b31bf84216514b3aeace4472e8cde0d249fa8884&",
+      "timestamp": 1770436668573,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 368089,
+      "canDownload": true,
+      "path": "attachments/DC002_6_Bit_Decoder.pdf"
+    }
+  ],
+  "records": {
+    "description": "This decoder takes six bits and outputs a pulse at one of 64 slices corresponding to the code. It's 4 wide.",
+    "features": [
+      "Constant time decoding. 14gt latency.",
+      "Slim profile. 4 blocks wide.",
+      "6gt throughput.",
+      "QC based logic."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469542847970672794",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [
+      "1469542853075275839"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469542847970672794",
+    "uploadMessageId": "1469542844057518080"
+  },
+  "archivedAt": 1770436716174,
+  "updatedAt": 1770436716174,
+  "num_comments": 0
+}

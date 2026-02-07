@@ -4,12 +4,17 @@
   "code": "DC",
   "category": "Archives",
   "description": "Post decoder designs here!",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1446387683101380650",
       "code": "DC001",
       "path": "DC001_Crain_Decoder_Heads_with_3-bit_pre_demuxing"
+    },
+    {
+      "id": "1469542641740939476",
+      "code": "DC002",
+      "path": "DC002_4_Wide_6_Bit_Binary_Decoder"
     }
   ]
 }
