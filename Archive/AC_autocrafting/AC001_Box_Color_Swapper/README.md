@@ -26,5 +26,5 @@ Inspired by Obi's encoder design.
 1.21+
 
 ## Resources
-- [AC001_AC01_Box_Color_Swapper.litematic](attachments/AC001_AC01_Box_Color_Swapper.litematic): MC 1.21, Size 23x12x7 blocks
-- [AC001_AC01_Box_Color_Swapper.pdf](attachments/AC001_AC01_Box_Color_Swapper.pdf): application/pdf
+- [AC001_Box_Color_Swapper.litematic](attachments/AC001_Box_Color_Swapper.litematic): MC 1.21, Size 23x12x7 blocks
+- [AC001_Box_Color_Swapper.pdf](attachments/AC001_Box_Color_Swapper.pdf): application/pdf

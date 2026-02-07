@@ -48,7 +48,7 @@
   "attachments": [
     {
       "id": "1469531167802785957",
-      "name": "AC001_AC01_Box_Color_Swapper.litematic",
+      "name": "AC001_Box_Color_Swapper.litematic",
       "contentType": "unknown",
       "url": "https://cdn.discordapp.com/attachments/1469531167295406102/1469531167802785957/AC01_Box_Color_Swapper.litematic?ex=6987ff0c&is=6986ad8c&hm=a48aa802014adcbe32f862b6b90e68addfb08cdb8b5fb440f38ce95efd08fd3a&",
       "timestamp": 1770433932852,
@@ -63,7 +63,7 @@
       "description": "",
       "size": 10352,
       "canDownload": true,
-      "path": "attachments/AC001_AC01_Box_Color_Swapper.litematic",
+      "path": "attachments/AC001_Box_Color_Swapper.litematic",
       "litematic": {
         "size": "23x12x7",
         "version": "1.21"
@@ -71,7 +71,7 @@
     },
     {
       "id": "1469531168142655601",
-      "name": "AC001_AC01_Box_Color_Swapper.pdf",
+      "name": "AC001_Box_Color_Swapper.pdf",
       "contentType": "application/pdf",
       "url": "https://cdn.discordapp.com/attachments/1469531167295406102/1469531168142655601/AC01_Box_Color_Swapper.pdf?ex=6987ff0d&is=6986ad8d&hm=9d6f7a838030fff5ca954a1fa0d262c602be45614ce667d37872958c9979ee20&",
       "timestamp": 1770433932852,
@@ -86,7 +86,7 @@
       "description": "",
       "size": 326162,
       "canDownload": true,
-      "path": "attachments/AC001_AC01_Box_Color_Swapper.pdf"
+      "path": "attachments/AC001_Box_Color_Swapper.pdf"
     }
   ],
   "records": {
@@ -118,9 +118,9 @@
       "1469531727750762719"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1469531723720167617",
-    "uploadMessageId": "1469534442426073192"
+    "uploadMessageId": "1469535663744352419"
   },
   "archivedAt": 1770434063745,
-  "updatedAt": 1770434713049,
+  "updatedAt": 1770435004326,
   "num_comments": 0
 }
