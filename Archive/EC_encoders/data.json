@@ -4,7 +4,7 @@
   "code": "EC",
   "category": "Archives",
   "description": "Post encoder designs here",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1444407242689351852",
@@ -40,6 +40,11 @@
       "id": "1469565569178275913",
       "code": "EC007",
       "path": "EC007_Item_to_Binary_Encoder_With_Safety_Features"
+    },
+    {
+      "id": "1469567007585337385",
+      "code": "EC008",
+      "path": "EC008_Unstackable_Item_Encoder"
     }
   ]
 }

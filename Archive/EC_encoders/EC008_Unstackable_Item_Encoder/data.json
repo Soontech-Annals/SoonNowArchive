@@ -1,0 +1,171 @@
+{
+  "id": "1469567007585337385",
+  "name": "Unstackable Item Encoder",
+  "code": "EC008",
+  "reservedCodes": [
+    "EC008"
+  ],
+  "pastPostThreadIds": [
+    "1469567911403454536"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil",
+      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+    },
+    {
+      "type": "discord-external",
+      "id": "719903397171560559",
+      "username": "pyraleftt",
+      "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "1068798858676686848",
+      "username": "777777777777777777774832",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469567008734576691",
+      "name": "area_render_33_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469567007585337385/1469567008734576691/area_render_33_.png?ex=6988206e&is=6986ceee&hm=fc030cdf38b4a6030e58a37d4c3842c9cd6f8fc0cda8338db4d69653d5989f5c&",
+      "timestamp": 1770442477843,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 151152,
+      "canDownload": true,
+      "width": 652,
+      "height": 944,
+      "path": "images/area_render_33_.png"
+    },
+    {
+      "id": "1469567007996510318",
+      "name": "slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1469567007585337385/1469567007996510318/slice.png?ex=6988206d&is=6986ceed&hm=5ba0395fc90f46a099ad166f876159bf872c04332cff3f201f1598fe78d398a8&",
+      "timestamp": 1770442477843,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 46677,
+      "canDownload": true,
+      "width": 486,
+      "height": 916,
+      "path": "images/slice.png"
+    },
+    {
+      "id": "1469567008340316170",
+      "name": "setting.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1469567007585337385/1469567008340316170/setting.png?ex=6988206e&is=6986ceee&hm=8e143f7d1d83c6ce8e1a8a1b46c4b25b737ddbebea2239ff49924e6a04498779&",
+      "timestamp": 1770442477843,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Code output setup guide",
+      "size": 114615,
+      "canDownload": true,
+      "width": 1200,
+      "height": 604,
+      "path": "images/setting.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469567009003143344",
+      "name": "EC008_Unstackable_Item_Encoder.pdf",
+      "contentType": "application/pdf",
+      "url": "https://cdn.discordapp.com/attachments/1469567007585337385/1469567009003143344/EC07_Unstackable_Item_Encoder.pdf?ex=6988206e&is=6986ceee&hm=3c59e456fb1403264849b71564811bfe535f4c470cc56f042bf81b6bd5a2386d&",
+      "timestamp": 1770442477843,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 680239,
+      "canDownload": true,
+      "path": "attachments/EC008_Unstackable_Item_Encoder.pdf"
+    },
+    {
+      "id": "1469567009233702943",
+      "name": "EC008_Unstackable_Item_Encoder.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469567007585337385/1469567009233702943/EC07_Unstackable_Item_Encoder.litematic?ex=6988206e&is=6986ceee&hm=6da65e2e32d3619d3a9da5577c21c9cd78f8ce101846494d00a0f3454719a619&",
+      "timestamp": 1770442477843,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5803,
+      "canDownload": true,
+      "path": "attachments/EC008_Unstackable_Item_Encoder.litematic",
+      "litematic": {
+        "size": "8x22x14",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that sorts unstackable items using Pyra's unstackable sorter and then outputs boxes of the sorted items along with an encoded signal. The device features a built-in queue to output boxes of items upon request. The device is fully hopperlocked and is designed to sort music discs, enchanted books, potions, flint & steel, shears, powdered snow buckets, lava buckets, water buckets, boats, armor and minecarts in that order. Item codes can be set by modifying the read-only memory of the device.",
+    "features": [
+      "Uses Pyra's unstackable sorter to sort items at hopperspeed.",
+      "Built-in box loaders for each item type.",
+      "Sorts music discs, enchanted books, potions, flint & steel, shears, powdered snow buckets, lava buckets, water buckets, boats, armor and minecarts in that order.",
+      "Fully hopperlocked.",
+      "Built-in queue for output."
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469567911403454536",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1469567916432166913"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1469567911403454536",
+    "uploadMessageId": "1469567905237565480"
+  },
+  "archivedAt": 1770442690545,
+  "updatedAt": 1770442690545,
+  "num_comments": 0
+}
