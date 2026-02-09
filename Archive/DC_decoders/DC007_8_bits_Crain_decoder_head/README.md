@@ -3,7 +3,7 @@
 
 **Authors:** *ʟᴜ*
 
-**Tags:** *Untested*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1470375367209648190)
 
