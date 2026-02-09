@@ -1,0 +1,98 @@
+{
+  "id": "1470486147733127229",
+  "name": "Minimum Hopper Box Merger",
+  "code": "MG002",
+  "reservedCodes": [
+    "MG002"
+  ],
+  "pastPostThreadIds": [
+    "1470486385814278155"
+  ],
+  "authors": [
+    {
+      "type": "discord-external",
+      "id": "164989359148367873",
+      "username": "floppydonkey",
+      "iconURL": "https://cdn.discordapp.com/avatars/164989359148367873/261429ebb25a423b5d475db08e588fce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145610235674624",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1470486148785770607",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1470486147733127229/1470486148785770607/area_render.png?ex=698b7872&is=698a26f2&hm=ba8682ce162867a0cd3334ac2de911e22c60a2ef6e694e8068c4730fa9acd607&",
+      "timestamp": 1770661617931,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 117578,
+      "canDownload": true,
+      "width": 785,
+      "height": 632,
+      "path": "images/area_render.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1470486149075173466",
+      "name": "MG002_Minimum_Hopper_Box_Merger.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1470486147733127229/1470486149075173466/MG02_Minimum_Hopper_Box_Merger.litematic?ex=698b7872&is=698a26f2&hm=61f501a98b744b414860b5d014e786a015fb273f749b369e4beb3c9d806069aa&",
+      "timestamp": 1770661617931,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3232,
+      "canDownload": true,
+      "path": "attachments/MG002_Minimum_Hopper_Box_Merger.litematic",
+      "litematic": {
+        "size": "8x10x23",
+        "version": "1.17.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Merges two partial shulker boxes into a full shulker box. The device is fully hopperlocked and uses the minimum number of hoppers required for a shulker box merger. Box comparison device for determining which box should be loaded/unloaded is not included.",
+    "features": [
+      "Uses only 3 hoppers per slice, the minimum required for a shulker box merger",
+      "Fully hopperlocked",
+      "Compact. 8x10x23 volume",
+      "Includes 8 merger slices to merge multiple boxes simultaneously"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1470486385814278155",
+    "forumId": "1325016556026990613",
+    "continuingMessageIds": [
+      "1470486391245766822"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1470486385814278155",
+    "uploadMessageId": "1470486380038590637"
+  },
+  "archivedAt": 1770661672806,
+  "updatedAt": 1770661672806,
+  "num_comments": 0
+}

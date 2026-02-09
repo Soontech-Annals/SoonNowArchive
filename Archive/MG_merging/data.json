@@ -4,12 +4,17 @@
   "code": "MG",
   "category": "Archives",
   "description": "A merger merges partial boxes into more full boxes",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1469767851882582087",
       "code": "MG001",
       "path": "MG001_Merging_Pair_Optimizer"
+    },
+    {
+      "id": "1470486147733127229",
+      "code": "MG002",
+      "path": "MG002_Minimum_Hopper_Box_Merger"
     }
   ]
 }
