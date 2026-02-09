@@ -11,6 +11,8 @@ simple to understand
 ## Features
 - 4gts deserializer
 - 2 bit pre-demuxing
+## Compatibility
+1.14+
 
 ## Resources
 - [DC007_lu_crain_decoder_6_bits__2_demux_.litematic](attachments/DC007_lu_crain_decoder_6_bits__2_demux_.litematic): MC 1.19, Size 6x9x46 blocks

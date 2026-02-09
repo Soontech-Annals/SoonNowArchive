@@ -76,7 +76,8 @@
     "features": [
       "4gts deserializer",
       "2 bit pre-demuxing"
-    ]
+    ],
+    "compatibility": "1.14+"
   },
   "styles": {},
   "references": [],
@@ -91,6 +92,6 @@
     "uploadMessageId": "1470375363950415971"
   },
   "archivedAt": 1770635204326,
-  "updatedAt": 1770635204326,
+  "updatedAt": 1770635788719,
   "num_comments": 0
 }
