@@ -1,0 +1,96 @@
+{
+  "id": "1470374624738017355",
+  "name": "8 bits Crain decoder head",
+  "code": "DC007",
+  "reservedCodes": [
+    "DC007"
+  ],
+  "pastPostThreadIds": [
+    "1470375367209648190"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "654777405411557396",
+      "username": "lucas.aaa123",
+      "displayName": "ʟᴜ",
+      "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019223818240062",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1470375163320340645",
+      "name": "area_render_1_.png",
+      "url": "https://cdn.discordapp.com/attachments/1470374624738017355/1470375163320340645/area_render_1_.png?ex=698b1115&is=6989bf95&hm=ebd99b66463ab6369b3d0d631856c19e6cf3b1964660ac98b552370ce12befd8&",
+      "timestamp": 1770635154775,
+      "author": {
+        "type": "discord-external",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 453,
+      "size": 182730,
+      "path": "images/area_render_1_.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1470374627103735963",
+      "name": "DC007_lu_crain_decoder_6_bits__2_demux_.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1470374624738017355/1470374627103735963/lu_crain_decoder_6_bits__2_demux_.litematic?ex=698b1095&is=6989bf15&hm=768e632ba5fbda2d1118e3d94047132654565bcf583613b18e05988a3a3b4855&",
+      "timestamp": 1770635028777,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "displayName": "ʟᴜ",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2120,
+      "canDownload": true,
+      "path": "attachments/DC007_lu_crain_decoder_6_bits__2_demux_.litematic",
+      "litematic": {
+        "size": "6x9x46",
+        "version": "1.19"
+      }
+    }
+  ],
+  "records": {
+    "description": "simple to understand",
+    "features": [
+      "4gts deserializer",
+      "2 bit pre-demuxing"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1470375367209648190",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [
+      "1470375371001167903"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1470375367209648190",
+    "uploadMessageId": "1470375363950415971"
+  },
+  "archivedAt": 1770635204326,
+  "updatedAt": 1770635204326,
+  "num_comments": 0
+}
