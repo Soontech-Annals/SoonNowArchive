@@ -4,6 +4,12 @@
   "code": "MG",
   "category": "Archives",
   "description": "A merger merges partial boxes into more full boxes",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1469767851882582087",
+      "code": "MG001",
+      "path": "MG001_Merging_Pair_Optimizer"
+    }
+  ]
 }
