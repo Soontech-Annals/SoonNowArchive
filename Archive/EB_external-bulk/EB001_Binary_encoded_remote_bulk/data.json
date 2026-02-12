@@ -40,7 +40,8 @@
         "type": "unknown",
         "username": "lucas.aaa123"
       },
-      "timestamp": 1757363078000
+      "timestamp": 1757363078000,
+      "hash": "9bf12feb654993ba2c8ac5c34af36b24e47ab3d3cbdc3e83764190e05924b341"
     },
     {
       "id": "1414708031127552031",
@@ -57,7 +58,8 @@
         "type": "unknown",
         "username": "lucas.aaa123"
       },
-      "timestamp": 1757363078000
+      "timestamp": 1757363078000,
+      "hash": "5ce9d1894ef4b1322f6e675cbc0446244626fdfdf015eb08ced36e4a45c86529"
     },
     {
       "id": "1414708031748444291",
@@ -74,7 +76,8 @@
         "type": "unknown",
         "username": "lucas.aaa123"
       },
-      "timestamp": 1757363078000
+      "timestamp": 1757363078000,
+      "hash": "046ed763dc5f9a5966a816999786ea9d04192f7dd44bd3c94e30505513bf5860"
     },
     {
       "id": "1414708032448761888",
@@ -91,7 +94,8 @@
         "type": "unknown",
         "username": "lucas.aaa123"
       },
-      "timestamp": 1757363078000
+      "timestamp": 1757363078000,
+      "hash": "4026b39564ffa1fb37af02d259cfdbdd4812091ae37f3f85addf746a44baa331"
     }
   ],
   "attachments": [

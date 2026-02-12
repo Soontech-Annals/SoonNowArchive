@@ -44,7 +44,8 @@
       "canDownload": true,
       "width": 1200,
       "height": 904,
-      "path": "images/sram.png"
+      "path": "images/sram.png",
+      "hash": "d6c78c8798f746e63ec8b5c6c89dbbee6b2b29f45693e12803f892457d337579"
     },
     {
       "id": "1469541366106292226",
@@ -65,7 +66,8 @@
       "canDownload": true,
       "width": 1027,
       "height": 1027,
-      "path": "images/invs.png"
+      "path": "images/invs.png",
+      "hash": "6743b4b60390057d6e0713c51a972376d2f1e23f244f6d6fead86cdebdee1e19"
     }
   ],
   "attachments": [

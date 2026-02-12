@@ -44,7 +44,8 @@
       "canDownload": true,
       "width": 1200,
       "height": 385,
-      "path": "images/bps.png"
+      "path": "images/bps.png",
+      "hash": "d9f0a865b80bddb5cf3a7950d4aeb256dfac4a92a2e3e51fe3fa81795796041d"
     },
     {
       "id": "1469543844449353903",
@@ -65,7 +66,8 @@
       "canDownload": true,
       "width": 1200,
       "height": 1200,
-      "path": "images/inv.png"
+      "path": "images/inv.png",
+      "hash": "e4ec21832af496976f6cf17c05f6ae62f18488f7eddd37cf952b8f5bceee72f2"
     }
   ],
   "attachments": [

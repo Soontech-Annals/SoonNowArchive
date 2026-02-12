@@ -88,7 +88,8 @@
       "canDownload": true,
       "width": 1010,
       "height": 499,
-      "path": "images/area_render_1_.png"
+      "path": "images/area_render_1_.png",
+      "hash": "7f803091b76e81ae53cce93ac3f05e964a9ac89726057e03da6a5afe2534f180"
     },
     {
       "id": "1469553455780728979",
@@ -109,7 +110,8 @@
       "canDownload": true,
       "width": 1003,
       "height": 546,
-      "path": "images/area_render_2_.png"
+      "path": "images/area_render_2_.png",
+      "hash": "079141ba012d63c7aba79d621f01445de698ea0eadf7dccc25481ff60a6b3cbc"
     }
   ],
   "attachments": [

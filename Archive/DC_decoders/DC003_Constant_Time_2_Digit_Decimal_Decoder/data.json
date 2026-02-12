@@ -44,7 +44,8 @@
       "canDownload": true,
       "width": 418,
       "height": 1200,
-      "path": "images/decoderfront.png"
+      "path": "images/decoderfront.png",
+      "hash": "246188a4a1a46fcce06be75f1d70f1a991390da570032244fe3727863ee10a44"
     },
     {
       "id": "1469543327266242732",
@@ -65,7 +66,8 @@
       "canDownload": true,
       "width": 1200,
       "height": 786,
-      "path": "images/decoderside.png"
+      "path": "images/decoderside.png",
+      "hash": "18c9ad07a4f69e73181a2e97743dd31cd6a44089d86bf019e3d3819d22afd139"
     }
   ],
   "attachments": [

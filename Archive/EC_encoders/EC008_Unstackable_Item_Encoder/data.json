@@ -54,7 +54,8 @@
       "canDownload": true,
       "width": 652,
       "height": 944,
-      "path": "images/area_render_33_.png"
+      "path": "images/area_render_33_.png",
+      "hash": "9640c50ee06d2abb156b137ec1652ca8656b2b206fc9ae9230b9531a1e85cc08"
     },
     {
       "id": "1469567007996510318",
@@ -75,7 +76,8 @@
       "canDownload": true,
       "width": 486,
       "height": 916,
-      "path": "images/slice.png"
+      "path": "images/slice.png",
+      "hash": "97ea43db2ec5b8541824ceb498363f8b083f853ad64d3bee41230dfb33b0c2b3"
     },
     {
       "id": "1469567008340316170",
@@ -96,7 +98,8 @@
       "canDownload": true,
       "width": 1200,
       "height": 604,
-      "path": "images/setting.png"
+      "path": "images/setting.png",
+      "hash": "4af10afd5eda01b772c1df75e73b2e8cece2abae1846678226a578968b160658"
     }
   ],
   "attachments": [

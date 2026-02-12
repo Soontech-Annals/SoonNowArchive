@@ -44,7 +44,8 @@
       "canDownload": true,
       "width": 1024,
       "height": 460,
-      "path": "images/small.png"
+      "path": "images/small.png",
+      "hash": "6c3fdb2710f21ec2bdd66f300fd9d61cd59c633dc866fde2037dc17085fd1a89"
     }
   ],
   "attachments": [
