@@ -117,7 +117,8 @@
       "description": "",
       "size": 680239,
       "canDownload": true,
-      "path": "attachments/EC008_Unstackable_Item_Encoder.pdf"
+      "path": "attachments/EC008_Unstackable_Item_Encoder.pdf",
+      "hash": "bbf5e5929b2d6136d1d7e96294c84369c980cc2c6671903befad676affb0eca8"
     },
     {
       "id": "1469567009233702943",
@@ -140,7 +141,8 @@
       "litematic": {
         "size": "8x22x14",
         "version": "1.21"
-      }
+      },
+      "hash": "f2423e1ef97734043e4f3dc1d89b73e6303ad396576eacd275813841e4993eff"
     }
   ],
   "records": {

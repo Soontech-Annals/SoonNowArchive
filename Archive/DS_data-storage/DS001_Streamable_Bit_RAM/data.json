@@ -90,7 +90,8 @@
       "litematic": {
         "size": "36x32x36",
         "version": "1.18.2"
-      }
+      },
+      "hash": "e1afd8c91b2a562c37dc2deb0bc30eb1c603d44ae151b476f46025feffe0a521"
     },
     {
       "id": "1469541314935787600",
@@ -113,7 +114,8 @@
       "litematic": {
         "size": "50x32x50",
         "version": "1.17.1"
-      }
+      },
+      "hash": "ee8f81873c022cc98e9fd9518b306471588b0995a7a9e9378618fb7129d18e47"
     },
     {
       "id": "1469541314021429248",
@@ -132,7 +134,8 @@
       "description": "",
       "size": 1667282,
       "canDownload": true,
-      "path": "attachments/DS001_Streamable_Bit_RAM.pdf"
+      "path": "attachments/DS001_Streamable_Bit_RAM.pdf",
+      "hash": "0c8721fd22eccc70e0b45bcf9ba646678820e27a1ef5ce2e65480ae28d97e460"
     }
   ],
   "records": {

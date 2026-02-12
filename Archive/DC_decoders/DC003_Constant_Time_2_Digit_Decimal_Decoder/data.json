@@ -90,7 +90,8 @@
       "litematic": {
         "size": "120x13x4",
         "version": "1.17.1"
-      }
+      },
+      "hash": "b23fb063982792213dd6140afa94fdd475455b4b945f9c3e37bc96d0854e5294"
     },
     {
       "id": "1469543328117952697",
@@ -109,7 +110,8 @@
       "description": "",
       "size": 324423,
       "canDownload": true,
-      "path": "attachments/DC003_2_Digit_Decimal_Decoder.pdf"
+      "path": "attachments/DC003_2_Digit_Decimal_Decoder.pdf",
+      "hash": "405af9468397efb9504d9c8d7710a63d97d7169933ae01294e098cb4a4aa85f1"
     }
   ],
   "records": {

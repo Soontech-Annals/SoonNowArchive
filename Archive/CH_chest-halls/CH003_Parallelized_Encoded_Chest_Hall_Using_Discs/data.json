@@ -69,7 +69,8 @@
       "litematic": {
         "size": "25x71x65",
         "version": "1.20.1"
-      }
+      },
+      "hash": "f7b2ca20f421dd74337a110196a72c27b9c3a3e29c291c0bc57df22e4cfb89de"
     },
     {
       "id": "1469539902168498287",
@@ -88,7 +89,8 @@
       "description": "",
       "size": 866867,
       "canDownload": true,
-      "path": "attachments/CH003_Parallelized_Encoded_Chest_Hall_Using_Discs.pdf"
+      "path": "attachments/CH003_Parallelized_Encoded_Chest_Hall_Using_Discs.pdf",
+      "hash": "3892c9049964472839bcd9879ddff117dfadc4e6e09d728c0d29dacd084bc35e"
     }
   ],
   "records": {

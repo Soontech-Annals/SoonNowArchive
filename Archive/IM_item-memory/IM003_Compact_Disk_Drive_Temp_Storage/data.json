@@ -102,7 +102,8 @@
         "version": "1.17.1",
         "optimized": true
       },
-      "unoptimizedSize": 578174
+      "unoptimizedSize": 578174,
+      "hash": "19c8187275ad10a5f917700c78f94b56332507d2cb5e8ee37d861f9b7812bb69"
     },
     {
       "id": "1469579784907653202",
@@ -121,7 +122,8 @@
       "description": "",
       "size": 394444,
       "canDownload": true,
-      "path": "attachments/IM003_Compact_Disk_Drive_Temp_Storage.pdf"
+      "path": "attachments/IM003_Compact_Disk_Drive_Temp_Storage.pdf",
+      "hash": "820108fea8f9b28cf43eb60cb7c0451b3da597308349055f11805953221b4bdb"
     },
     {
       "id": "1469579785171763210",
@@ -144,7 +146,8 @@
       "litematic": {
         "size": "14x13x10",
         "version": "1.17.1"
-      }
+      },
+      "hash": "53c9944e8f6a9cb2a8beeeb36ee8ca943ecb5174e5e84fb91bbd0c5d88b63f48"
     }
   ],
   "records": {

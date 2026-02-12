@@ -69,7 +69,8 @@
       "litematic": {
         "size": "38x15x11",
         "version": "1.18.2"
-      }
+      },
+      "hash": "e599f19630b13adba967904cbd22f603aded9dcea9a9f1f003eee77ab3036dc6"
     },
     {
       "id": "1469564003381416189",
@@ -92,7 +93,8 @@
       "litematic": {
         "size": "38x15x15",
         "version": "1.18.2"
-      }
+      },
+      "hash": "67ba6d9ca8269cd7de8433bb57168e44a92601289c4e3fb4182e3722bf2d8f6b"
     },
     {
       "id": "1469564003700310217",
@@ -111,7 +113,8 @@
       "description": "",
       "size": 687203,
       "canDownload": true,
-      "path": "attachments/EC004_16gt_Item_Encoder.pdf"
+      "path": "attachments/EC004_16gt_Item_Encoder.pdf",
+      "hash": "3c27b7a92c11368a59495263f00b1240b89e2c6a4000ba8d71ee1b6fbf4ba5a1"
     }
   ],
   "records": {

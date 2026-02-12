@@ -68,7 +68,8 @@
       "litematic": {
         "size": "68x8x13",
         "version": "1.17.1"
-      }
+      },
+      "hash": "5fadf9588a3d178e74b649ee13b989ed71bec79356eaed7c0c3b574c9b285f3e"
     },
     {
       "id": "1469544723789381702",
@@ -87,7 +88,8 @@
       "description": "",
       "size": 291164,
       "canDownload": true,
-      "path": "attachments/DC005_Dual_Sided_6_Bit_Binary_Decoder.pdf"
+      "path": "attachments/DC005_Dual_Sided_6_Bit_Binary_Decoder.pdf",
+      "hash": "4210c98d1c5d3d927cdc1fa307376eb9ceb8617297075b655fe904f8988c2bc9"
     }
   ],
   "records": {

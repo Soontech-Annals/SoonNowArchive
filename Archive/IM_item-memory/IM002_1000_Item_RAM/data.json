@@ -69,7 +69,8 @@
       "litematic": {
         "size": "53x55x28",
         "version": "1.17.1"
-      }
+      },
+      "hash": "98d264ac5f9ac5f3410d7e20efcc5eb6e6d01f1613cb393d7962303eec618faf"
     },
     {
       "id": "1469579299991457934",
@@ -88,7 +89,8 @@
       "description": "",
       "size": 1697228,
       "canDownload": true,
-      "path": "attachments/IM002_1000_Item_RAM.pdf"
+      "path": "attachments/IM002_1000_Item_RAM.pdf",
+      "hash": "cedf3a9dc17b385695a982597196b120562c7e591b8de0fb750c2865f69c23f2"
     }
   ],
   "records": {

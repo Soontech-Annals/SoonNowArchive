@@ -66,7 +66,8 @@
           "error": "Invalid version",
           "levelName": "Storage System 100 by pg5"
         }
-      ]
+      ],
+      "hash": "eefffb232557224db9119b3f701844fc93a406df95c99c10e887c6ae4aad17b6"
     },
     {
       "id": "IyyteZwHlMQ",
@@ -91,7 +92,8 @@
         "type": "unknown",
         "username": "andrews54757"
       },
-      "timestamp": 1751564212000
+      "timestamp": 1751564212000,
+      "hash": "d896355867f621c3b5280b4d31987e61ca9817cc54f6ad1297f7cbd3e6f36af4"
     }
   ],
   "records": {

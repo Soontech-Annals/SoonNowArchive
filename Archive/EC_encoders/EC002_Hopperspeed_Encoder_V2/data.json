@@ -96,7 +96,8 @@
         "version": "1.16.5",
         "optimized": true
       },
-      "unoptimizedSize": 370877
+      "unoptimizedSize": 370877,
+      "hash": "3d5c9707a5807abd7318cbdb9bb2ed769501db0873331de17458e93a6e440546"
     },
     {
       "id": "1469562037268123728",
@@ -115,7 +116,8 @@
       "description": "",
       "size": 535666,
       "canDownload": true,
-      "path": "attachments/EC002_Hopperspeed_Encoder_V2.pdf"
+      "path": "attachments/EC002_Hopperspeed_Encoder_V2.pdf",
+      "hash": "00b71c748317c4d243e7277676a19411f2d3e4b139aa6776c5f683f1210e1104"
     }
   ],
   "records": {

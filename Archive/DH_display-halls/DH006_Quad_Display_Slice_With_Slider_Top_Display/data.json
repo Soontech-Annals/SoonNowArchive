@@ -78,7 +78,8 @@
       "litematic": {
         "size": "2x25x23",
         "version": "1.20.2"
-      }
+      },
+      "hash": "127b3f4a00c5594d8547ed9bfe15295d0f5d87b2a66606fba1e219153c583195"
     },
     {
       "id": "1469548491846975663",
@@ -97,7 +98,8 @@
       "description": "",
       "size": 612063,
       "canDownload": true,
-      "path": "attachments/DH006_Quad_Display_Slice_With_Slider_Top_Display.pdf"
+      "path": "attachments/DH006_Quad_Display_Slice_With_Slider_Top_Display.pdf",
+      "hash": "851cfbeff58337feb4463ab220a319667029365a156557a2de0c8b3e5a51e911"
     }
   ],
   "records": {

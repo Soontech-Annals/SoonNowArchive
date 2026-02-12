@@ -69,7 +69,8 @@
       "litematic": {
         "size": "11x13x84",
         "version": "1.18.2"
-      }
+      },
+      "hash": "4af47aabd3adb05045c5318f23f5ef4cbf8a84ad406548f012ddb2b2bfbdac7d"
     },
     {
       "id": "1469565158064918650",
@@ -88,7 +89,8 @@
       "description": "",
       "size": 660814,
       "canDownload": true,
-      "path": "attachments/EC006_Hopperspeed_Encoder_With_Minimal_Code_Items.pdf"
+      "path": "attachments/EC006_Hopperspeed_Encoder_With_Minimal_Code_Items.pdf",
+      "hash": "45159bad116bd29eaa1011726646dcc7e4e98ef7cf014f844e2cb5b91f7801dc"
     }
   ],
   "records": {

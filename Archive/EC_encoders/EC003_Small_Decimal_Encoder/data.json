@@ -69,7 +69,8 @@
       "litematic": {
         "size": "28x13x17",
         "version": "1.17.1"
-      }
+      },
+      "hash": "d295d52c4ed82e0ac3da00896992296099a91dec669794c2af2bbae55c03d4a1"
     },
     {
       "id": "1469563239783206996",
@@ -88,7 +89,8 @@
       "description": "",
       "size": 820181,
       "canDownload": true,
-      "path": "attachments/EC003_Small_Decimal_Encoder.pdf"
+      "path": "attachments/EC003_Small_Decimal_Encoder.pdf",
+      "hash": "7fdd998d6902f7f165fb4e533ec10afcd76d94dda503002f27bde107e759a19d"
     }
   ],
   "records": {

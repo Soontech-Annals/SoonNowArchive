@@ -67,7 +67,8 @@
       "litematic": {
         "size": "23x12x7",
         "version": "1.21"
-      }
+      },
+      "hash": "916bc24adb12712f15dd3bd5e205d2df48e2805d1f9fae6fe3b2619b09eabe55"
     },
     {
       "id": "1469531168142655601",
@@ -86,7 +87,8 @@
       "description": "",
       "size": 326162,
       "canDownload": true,
-      "path": "attachments/AC001_Box_Color_Swapper.pdf"
+      "path": "attachments/AC001_Box_Color_Swapper.pdf",
+      "hash": "84706c729591b0b4c2c345f62e4e92ee2baae4afcae0ecbd933a65f9802fd37c"
     }
   ],
   "records": {

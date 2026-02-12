@@ -68,7 +68,8 @@
       "litematic": {
         "size": "9x7x13",
         "version": "1.20.1"
-      }
+      },
+      "hash": "9fdb64f4d4eeff47db78b3d30c255791a0073bd3e5c487d5c90bbf2e82502afb"
     },
     {
       "id": "1469582166215102556",
@@ -87,7 +88,8 @@
       "description": "",
       "size": 535279,
       "canDownload": true,
-      "path": "attachments/IM006_8bit_Disk_Drive_Temp_Storage.pdf"
+      "path": "attachments/IM006_8bit_Disk_Drive_Temp_Storage.pdf",
+      "hash": "34181e97fbb5071853eedababad735211b7c49f01c9fa0ecab3f593e612ee2bc"
     }
   ],
   "records": {

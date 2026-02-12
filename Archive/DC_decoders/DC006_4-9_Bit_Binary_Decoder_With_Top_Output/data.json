@@ -73,7 +73,8 @@
       "litematic": {
         "size": "5x6x20",
         "version": "1.19.3"
-      }
+      },
+      "hash": "9e37b3740d3b08c30aa7d3ba1271b336143a3fdcacfc84a62794ed3d34fc09f8"
     },
     {
       "id": "1469545155949232138",
@@ -92,7 +93,8 @@
       "description": "",
       "size": 228625,
       "canDownload": true,
-      "path": "attachments/DC006_4-9_Bit_Binary_Decoder_With_Top_Output.pdf"
+      "path": "attachments/DC006_4-9_Bit_Binary_Decoder_With_Top_Output.pdf",
+      "hash": "8fade2690a158f937d1dff617e0e7e5048e7cd4436121498b137b9a3c5a5d5db"
     }
   ],
   "records": {

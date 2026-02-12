@@ -69,7 +69,8 @@
       "litematic": {
         "size": "12x19x40",
         "version": "1.17.1"
-      }
+      },
+      "hash": "4b1bc143bb2cc029df8b3048e7255ef63355876858e6db8dc7659e1a39054737"
     },
     {
       "id": "1469565570151223296",
@@ -100,7 +101,8 @@
         "version": "1.17.1",
         "optimized": true
       },
-      "unoptimizedSize": 2408226
+      "unoptimizedSize": 2408226,
+      "hash": "59be85454edf8a7808489d0fa84cae3f153dd2d92e14e1cc5e48864ed940a841"
     },
     {
       "id": "1469565570403008655",
@@ -119,7 +121,8 @@
       "description": "",
       "size": 378954,
       "canDownload": true,
-      "path": "attachments/EC007_Item_to_Binary_Encoder_With_Safety_Features.pdf"
+      "path": "attachments/EC007_Item_to_Binary_Encoder_With_Safety_Features.pdf",
+      "hash": "9a8947b9e60463831221e5416f049c4f87578665b1f5a040f4967f015d153d5c"
     }
   ],
   "records": {

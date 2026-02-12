@@ -142,7 +142,8 @@
         "version": "1.19.2",
         "optimized": true
       },
-      "unoptimizedSize": 65579125
+      "unoptimizedSize": 65579125,
+      "hash": "cae487ab876ad9cc51bae8e0499b9951b300470712ff9ec269877d713da5588a"
     },
     {
       "id": "1469553457009524746",
@@ -161,7 +162,8 @@
       "description": "",
       "size": 1820464,
       "canDownload": true,
-      "path": "attachments/ES003_Scicraft_Hybrid_Main_Storage.pdf"
+      "path": "attachments/ES003_Scicraft_Hybrid_Main_Storage.pdf",
+      "hash": "0e684c190c79565f3a28372c085f8326f5f025102c5324887099c044eb6ccd61"
     },
     {
       "id": "8VbCW-Fqjhw",

@@ -69,7 +69,8 @@
       "litematic": {
         "size": "73x10x4",
         "version": "1.17.1"
-      }
+      },
+      "hash": "3b0c023db197148a1e6337619c0552430ffde2769a97a9f64cab576957c1ea6f"
     },
     {
       "id": "1469542643515261041",
@@ -88,7 +89,8 @@
       "description": "",
       "size": 368089,
       "canDownload": true,
-      "path": "attachments/DC002_6_Bit_Decoder.pdf"
+      "path": "attachments/DC002_6_Bit_Decoder.pdf",
+      "hash": "aa3d0fa02b9927bd98f61b9eacfee5bc1f486a04512c089edba7511cfeb1dc32"
     }
   ],
   "records": {

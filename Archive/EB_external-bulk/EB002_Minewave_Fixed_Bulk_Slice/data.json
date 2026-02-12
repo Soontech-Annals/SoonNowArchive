@@ -130,7 +130,8 @@
       "litematic": {
         "size": "2x26x9",
         "version": "1.21.4"
-      }
+      },
+      "hash": "d2e24708e0f4944231663cdac6394eb1b38b5b60449c9abdd4c82187eeeccbf5"
     },
     {
       "id": "1469572142403162315",
@@ -149,7 +150,8 @@
       "description": "",
       "size": 1074002,
       "canDownload": true,
-      "path": "attachments/EB002_Minewave_Fixed_Bulk_Slice.pdf"
+      "path": "attachments/EB002_Minewave_Fixed_Bulk_Slice.pdf",
+      "hash": "792b44ff32786f6b6d469c6b9bf6682d25f4f7ffe6b82aee9eb1a69ed88a1f2a"
     }
   ],
   "records": {
