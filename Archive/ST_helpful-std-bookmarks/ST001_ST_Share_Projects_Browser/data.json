@@ -69,18 +69,14 @@
       "channel": "748547221338849330",
       "matches": [
         "https://discord.com/channels/748542142347083868/748547221338849330"
-      ],
-      "serverName": "Storage Tech",
-      "serverJoinURL": "https://discord.gg/JufJ6uf"
+      ]
     }
   ],
   "author_references": [],
   "post": {
     "threadId": "1452000274997711012",
     "forumId": "1361851282381602996",
-    "continuingMessageIds": [
-      "1454694925940691054"
-    ],
+    "continuingMessageIds": [],
     "threadURL": "https://discord.com/channels/1325008017015701504/1452000274997711012",
     "uploadMessageId": ""
   },
