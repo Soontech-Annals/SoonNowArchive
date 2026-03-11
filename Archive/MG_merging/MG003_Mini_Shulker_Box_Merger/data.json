@@ -1,0 +1,144 @@
+{
+  "id": "1481323230277931289",
+  "name": "Mini Shulker Box Merger",
+  "code": "MG003",
+  "reservedCodes": [
+    "MG003"
+  ],
+  "pastPostThreadIds": [
+    "1481323593924214978"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "496255535549775872",
+      "username": "kizuyuuu",
+      "displayName": "Kizu",
+      "iconURL": "https://cdn.discordapp.com/avatars/496255535549775872/b1fcfb5dffaaf1d828955b06b9c00c2d.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "displayName": "skyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145610235674624",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1481323231901384724",
+      "name": "merger.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1481323230277931289/1481323231901384724/merger.png?ex=69b2e544&is=69b193c4&hm=be1dbe9a81a2418207a47baa289f372be5da37ecc57c821724af5c935359f9ae&",
+      "timestamp": 1773245379753,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 283095,
+      "canDownload": true,
+      "width": 1200,
+      "height": 947,
+      "path": "images/merger.png",
+      "hash": "24b7cb2138263a1185ba571e397bba653e00299ef80185f11f4bd7c3c45e5813"
+    },
+    {
+      "id": "1481323233436373032",
+      "name": "merger_slice.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1481323230277931289/1481323233436373032/merger_slice.png?ex=69b2e544&is=69b193c4&hm=7b82b52581d1a621f9d49e7e73c1b7e545d66e50ac18eb29749ad7ec89e897fb&",
+      "timestamp": 1773245379753,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 197746,
+      "canDownload": true,
+      "width": 818,
+      "height": 1200,
+      "path": "images/merger_slice.png",
+      "hash": "aa4ba79ce8c9670716952ef5da263b41c710e11ce9d6f7a855ac07eb91e7da13"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1481323234011119697",
+      "name": "MG003_mini-merger_1.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1481323230277931289/1481323234011119697/mini-merger_1.0.litematic?ex=69b2e544&is=69b193c4&hm=d98ae5cb90b820fa7f349f87eddea90403e8ec7c06603c340fb13dc4e81ecd10&",
+      "timestamp": 1773245379753,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2671,
+      "canDownload": true,
+      "hash": "4583dc6c69507dad0c96746395215131cac710e99c77a28d5ea8d200c8107b71",
+      "path": "attachments/MG003_mini-merger_1.0.litematic",
+      "litematic": {
+        "size": "6x9x22",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "A relatively simple device that takes shulker boxes in pairs and merges the boxes in each pair together. Based on the minimum hopper layout by Floppy (MG002)",
+    "features": [
+      "Small; 6x8 slice, 4w frontend",
+      "26 hoppers, 0 locked (FHU)",
+      "8 slices for a total of 8x hopperspeed merging",
+      "Status outputs for HasItems, IsActive and SlicesAvailable"
+    ],
+    "notes": "Roof concept by JayRoi",
+    "compatibility": "1.19+"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "archivedPost",
+      "id": "1470486147733127229",
+      "code": "MG002",
+      "name": "Minimum Hopper Box Merger",
+      "url": "https://discord.com/channels/1325008017015701504/1470486385814278155",
+      "path": "Archive/MG_merging/MG002_Minimum_Hopper_Box_Merger",
+      "matches": [
+        "MG002"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1481323593924214978",
+    "forumId": "1325016556026990613",
+    "continuingMessageIds": [
+      "1481323605701820538"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1481323593924214978",
+    "uploadMessageId": "1481323590262722721"
+  },
+  "archivedAt": 1773245464781,
+  "updatedAt": 1773245464781,
+  "num_comments": 0
+}

@@ -4,7 +4,7 @@
   "code": "MG",
   "category": "Archives",
   "description": "A merger merges partial boxes into more full boxes",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1469767851882582087",
@@ -15,6 +15,11 @@
       "id": "1470486147733127229",
       "code": "MG002",
       "path": "MG002_Minimum_Hopper_Box_Merger"
+    },
+    {
+      "id": "1481323230277931289",
+      "code": "MG003",
+      "path": "MG003_Mini_Shulker_Box_Merger"
     }
   ]
 }
