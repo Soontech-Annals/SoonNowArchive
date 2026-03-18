@@ -1,6 +1,6 @@
 {
   "id": "1483704055048962160",
-  "name": "Shulker Box Splitter Array",
+  "name": "Compact Shulker Box Splitter Array",
   "code": "SG001",
   "reservedCodes": [
     "SG001"
@@ -108,6 +108,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1483704575818207302/1483704582541414410/area_render_20_.png?ex=69bb8f12&is=69ba3d92&hm=bfc0d972930505566e762d0b7002384c1c016a1593a3b90c7f49dc90078e30f1&"
   },
   "archivedAt": 1773813135629,
-  "updatedAt": 1773813135629,
+  "updatedAt": 1773813205965,
   "num_comments": 0
 }
