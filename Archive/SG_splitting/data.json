@@ -4,12 +4,17 @@
   "code": "SG",
   "category": "Archives",
   "description": "A splitter takes mixed item input and outputs single type boxes",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1483704055048962160",
       "code": "SG001",
       "path": "SG001_Compact_Shulker_Box_Splitter_Array"
+    },
+    {
+      "id": "1483705789293264966",
+      "code": "SG002",
+      "path": "SG002_Shulker_Box_Splitter_Array"
     }
   ]
 }

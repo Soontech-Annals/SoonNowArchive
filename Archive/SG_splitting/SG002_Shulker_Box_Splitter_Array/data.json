@@ -1,0 +1,128 @@
+{
+  "id": "1483705789293264966",
+  "name": "Shulker Box Splitter Array",
+  "code": "SG002",
+  "reservedCodes": [
+    "SG002"
+  ],
+  "pastPostThreadIds": [
+    "1483706074249826384"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Quacon Group"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142610133782659",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1483705789846917180",
+      "name": "splitarray.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1483705789293264966/1483705789846917180/splitarray.png?ex=69bb9032&is=69ba3eb2&hm=9ef5cc450f9bb0d548d1cf62765a146d774f5ec873fa6e18b5f7fdeab1f21c4d&",
+      "timestamp": 1773813426088,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 412623,
+      "canDownload": true,
+      "width": 849,
+      "height": 1200,
+      "path": "images/splitarray.png",
+      "hash": "5095836736b5d6690676013cbfbe4ce9908ecf6c6c000c7c96528ae355372003"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1483705790308028546",
+      "name": "SG002_Shulker_Box_Splitter_Array.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1483705789293264966/1483705790308028546/Shulker_Box_Splitter_Array.zip?ex=69bb9032&is=69ba3eb2&hm=21df0061e633e577c45d11e325112d38b90414d23766564d61148e9e869a5a00&",
+      "timestamp": 1773813426088,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 604128,
+      "canDownload": true,
+      "hash": "b08eccb6e3ea3d8be8ffb1fcd576fd6a41e5518864f8d514449c1aadc659ac85",
+      "path": "attachments/SG002_Shulker_Box_Splitter_Array.zip",
+      "wdls": [
+        {
+          "path": "sbox-splitter",
+          "version": "1.16.5",
+          "levelName": "sbox-splitter"
+        }
+      ],
+      "wdl": {
+        "version": "1.16.5"
+      }
+    },
+    {
+      "id": "zRO1QfmYa6o",
+      "name": "SG002_YouTube_Video_zRO1QfmYa6o.url",
+      "contentType": "youtube",
+      "url": "https://www.youtube.com/watch?v=zRO1QfmYa6o",
+      "timestamp": 1773813426088,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "URLInMessage",
+      "description": "Video explanation",
+      "canDownload": false,
+      "youtube": {
+        "title": "[Var Sorting] Shulker Box Splitter Array",
+        "author_name": "Masontic",
+        "author_url": "https://www.youtube.com/@Masontic",
+        "thumbnail_url": "https://i.ytimg.com/vi/zRO1QfmYa6o/hqdefault.jpg",
+        "thumbnail_width": 480,
+        "thumbnail_height": 360,
+        "width": 200,
+        "height": 113
+      }
+    }
+  ],
+  "records": {
+    "description": "Splits mixed boxes into smaller boxes of the same type. This design uses the hopper dueling mechanism for a \"filter itemless\" setup.",
+    "notes": "Video explanation: https://www.youtube.com/watch?v=zRO1QfmYa6o"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1483706074249826384",
+    "forumId": "1325016579687059478",
+    "continuingMessageIds": [
+      "1483706084718809139",
+      "1483706085343887411"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1483706074249826384",
+    "uploadMessageId": "1483706071838101556",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1483706074249826384/1483706078729338974/splitarray.png?ex=69bb9077&is=69ba3ef7&hm=4ff6386b4b9bae2b3352ec44aae9f7cf507519b1d46ac6ba4f1ac7b9b96807a4&"
+  },
+  "archivedAt": 1773813492865,
+  "updatedAt": 1773813492865,
+  "num_comments": 0
+}
