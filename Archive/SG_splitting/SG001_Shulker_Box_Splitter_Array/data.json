@@ -1,0 +1,113 @@
+{
+  "id": "1483704055048962160",
+  "name": "Shulker Box Splitter Array",
+  "code": "SG001",
+  "reservedCodes": [
+    "SG001"
+  ],
+  "pastPostThreadIds": [
+    "1483704575818207302"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Basil"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "496255535549775872",
+      "username": "kizuyuuu",
+      "displayName": "Kizu",
+      "iconURL": "https://cdn.discordapp.com/avatars/496255535549775872/b1fcfb5dffaaf1d828955b06b9c00c2d.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142610133782659",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1483704056995381298",
+      "name": "area_render_20_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1483704055048962160/1483704056995381298/area_render_20_.png?ex=69bb8e95&is=69ba3d15&hm=edf73351e8020cc308d8e5d2ba11b4b9fd92819b97270a74112bbcf5cbd51a23&",
+      "timestamp": 1773813012612,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 139042,
+      "canDownload": true,
+      "width": 858,
+      "height": 851,
+      "path": "images/area_render_20_.png",
+      "hash": "ab3ec8e7ca15e917b40330f0df054e79883b2d5cfd78e09cec6ac141e419f0d2"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1483704057414549584",
+      "name": "SG001_Compact_Shulker_Box_Splitter_Array.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1483704055048962160/1483704057414549584/Compact_Shulker_Box_Splitter_Array.litematic?ex=69bb8e95&is=69ba3d15&hm=2f362d1e58b0b4cb8e5939291b630c04ed995f75fab1ac3731234773399c99ad&",
+      "timestamp": 1773813012612,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5072,
+      "canDownload": true,
+      "hash": "1128d8466f60ac31b021d562bc749859f52bae2d7123211df90f6fd7f28e0201",
+      "path": "attachments/SG001_Compact_Shulker_Box_Splitter_Array.litematic",
+      "litematic": {
+        "size": "20x17x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A compact shulker box splitter array that can split mixed item shulker boxes into smaller boxes of the same type. The design uses the hopper dueling mechanism for a \"filter itemless\" setup. It uses a global clock to allow for it to be paused during operation.",
+    "features": [
+      "Compact design. 20x17x7",
+      "Seperate output for unstackable items.",
+      "Fully hopperlocked.",
+      "Filter itemless. (kissing/dueling hoppers)",
+      "Pausable. Will only break sorted boxes if running.",
+      "Automatic refill of empty boxes.",
+      "Will ensure empty boxes are present before starting and will pause if empty boxes run out."
+    ],
+    "considerations": [
+      "Not empty box input proof. Do not input empty boxes."
+    ],
+    "notes": "Inspired by Obi's design."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1483704575818207302",
+    "forumId": "1325016579687059478",
+    "continuingMessageIds": [
+      "1483704587444686849"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1483704575818207302",
+    "uploadMessageId": "1483704573280649236",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1483704575818207302/1483704582541414410/area_render_20_.png?ex=69bb8f12&is=69ba3d92&hm=bfc0d972930505566e762d0b7002384c1c016a1593a3b90c7f49dc90078e30f1&"
+  },
+  "archivedAt": 1773813135629,
+  "updatedAt": 1773813135629,
+  "num_comments": 0
+}
