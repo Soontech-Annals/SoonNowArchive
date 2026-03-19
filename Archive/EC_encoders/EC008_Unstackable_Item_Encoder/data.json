@@ -21,9 +21,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/719903397171560559/7ba08c1c9ee4d550dae6dd373cf9fabe.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1068798858676686848",
       "username": "777777777777777777774832",
+      "displayName": "77777777777777777777",
       "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
     }
   ],

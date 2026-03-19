@@ -1,7 +1,7 @@
 # Unstackable Item Encoder
 <img alt="area_render_33_.png" src="images/area_render_33_.png?raw=1" height="300px">
 
-**Authors:** *Basil, pyraleftt, 777777777777777777774832*
+**Authors:** *Basil, pyraleftt, 77777777777777777777*
 
 **Tags:** *Functional*
 
