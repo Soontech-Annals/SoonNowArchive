@@ -1,7 +1,7 @@
 # 8bit Disk Drive Temp Storage
 <img alt="area_render_35_.png" src="images/area_render_35_.png?raw=1" height="300px">
 
-**Authors:** *maidofmonica*
+**Authors:** *MaidofMoss*
 
 **Tags:** *Functional*
 

@@ -16,9 +16,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/335426949885329411/01e8993d50c9d864361df9def1960a5a.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1005958683890548908",
       "username": "maidofmonica",
+      "displayName": "MaidofMoss",
       "iconURL": "https://cdn.discordapp.com/avatars/1005958683890548908/465eeae234d0dbf4abb2630df180adba.webp"
     },
     {

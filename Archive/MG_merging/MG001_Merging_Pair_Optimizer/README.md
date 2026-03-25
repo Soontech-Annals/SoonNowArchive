@@ -1,7 +1,7 @@
 # Merging Pair Optimizer
 <img alt="area_render_56.png" src="images/area_render_56.png?raw=1" height="300px">
 
-**Authors:** *sergyd, maidofmonica, catniped*
+**Authors:** *sergyd, MaidofMoss, catniped*
 
 **Tags:** *Functional*
 
