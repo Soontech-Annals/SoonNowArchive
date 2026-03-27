@@ -1,0 +1,189 @@
+{
+  "id": "1487183029016199444",
+  "name": "Aeternum Main Storage",
+  "code": "ES004",
+  "reservedCodes": [
+    "ES004"
+  ],
+  "pastPostThreadIds": [
+    "1487185447321997454"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "634845429770485790",
+      "username": "luisitolapapa",
+      "displayName": "LuisitoLapapa",
+      "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1092135712771539016",
+      "username": "danco4",
+      "displayName": "Danc04",
+      "iconURL": "https://cdn.discordapp.com/avatars/1092135712771539016/08619c09e13a03265b7ff9a7ef505ce6.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "667691671852417025",
+      "username": "luukeem",
+      "displayName": "Lukeem",
+      "iconURL": "https://cdn.discordapp.com/avatars/667691671852417025/abce1462cf5fb7982f009c9e86485460.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Juthons"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325878187607195729",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1487183029997932756",
+      "name": "Aeternum_Main_Render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1487183029997932756/area_render_33_.png?ex=69c836a0&is=69c6e520&hm=56614d19bb263ee55a8eef937a057dbef79c7f0a5a68a5591476bbca1b8f14b8&",
+      "timestamp": 1774642464642,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "634845429770485790",
+        "username": "luisitolapapa",
+        "displayName": "LuisitoLapapa",
+        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 228948,
+      "canDownload": true,
+      "width": 1200,
+      "height": 845,
+      "path": "images/Aeternum_Main_Render.png",
+      "hash": "a3d1f0efe26dfd666831c696a3c2226145bd0a6ac34f95b3e9770484ddffd023"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1487184228968825103",
+      "name": "ES004_Aeternum_Main_Storage_v1.2.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1487184228968825103/Aeternum_Main_Storage_v1.2.litematic?ex=69c837be&is=69c6e63e&hm=23e86930e0a1903134142478f9832a9e6486d575ba3ff1e0bdfe008b80f2fbaa&",
+      "timestamp": 1774642749472,
+      "author": {
+        "type": "discord-external",
+        "id": "634845429770485790",
+        "username": "luisitolapapa",
+        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+      },
+      "source": "DirectUpload",
+      "description": "This is the standard storage system with all its features and peripherals.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "d91280213e08c47d6e7612b4d18080fe565fa9b9fdc3ec4fd8fb53a25b47b628",
+      "path": "attachments/ES004_Aeternum_Main_Storage_v1.2.litematic",
+      "size": 274644,
+      "litematic": {
+        "size": "240x96x464",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1487184466119098418",
+      "name": "ES004_Aeternum_Main_Storage_NetherSide.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1487184466119098418/Aeternum_Main_Storage_NetherSide.litematic?ex=69c837f7&is=69c6e677&hm=390d148366a0fedf5cd220eb83f895580e460a4f5a711645840e579bc652d034&",
+      "timestamp": 1774642806457,
+      "author": {
+        "type": "discord-external",
+        "id": "634845429770485790",
+        "username": "luisitolapapa",
+        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+      },
+      "source": "DirectUpload",
+      "description": "This is the Nether side.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "956357f67cfb87e07684f471b8d2d3b9b3263bb03fcd7d92727b0ae866e576b1",
+      "path": "attachments/ES004_Aeternum_Main_Storage_NetherSide.litematic",
+      "size": 3151,
+      "litematic": {
+        "size": "23x16x45",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "1487184693437661385",
+      "name": "ES004_Aeternum_Main_Storage_Essential_v1.1.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1487184693437661385/Aeternum_Main_Storage_Essential_v1.1.litematic?ex=69c8382d&is=69c6e6ad&hm=756e8e00945e470dd6e15d831f0a47401709bdf7eb0f14b3c239a7de515e580f&",
+      "timestamp": 1774642860455,
+      "author": {
+        "type": "discord-external",
+        "id": "634845429770485790",
+        "username": "luisitolapapa",
+        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+      },
+      "source": "DirectUpload",
+      "description": "This is an additional version where all peripherals have been removed—only the essentials for the main to function are included.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "df04f71cc695814485e25e7d63e77ac91df47403855b2cf3fe442a5d765b0d42",
+      "path": "attachments/ES004_Aeternum_Main_Storage_Essential_v1.1.litematic",
+      "size": 231500,
+      "litematic": {
+        "size": "240x96x464",
+        "version": "1.21.4"
+      }
+    },
+    {
+      "id": "n0rpo192xapq4sl",
+      "name": "ES004_Aeternum_Main_Storage.url",
+      "contentType": "mediafire",
+      "url": "https://www.mediafire.com/file/n0rpo192xapq4sl/Aeternum_Main_Storage.zip/file",
+      "timestamp": 1774643006263,
+      "author": {
+        "type": "discord-external",
+        "id": "634845429770485790",
+        "username": "luisitolapapa",
+        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+      },
+      "source": "URLInMessage",
+      "description": "The litematics are intentionally designed to include common error states you may encounter during construction. However, if you want to test the main fully functional, download the world.",
+      "canDownload": false
+    }
+  ],
+  "records": {
+    "description": "The Aeternum SMP storage system was designed as a middle ground between a standard storage system and an encoded one, aiming to be easy to build and use. It includes all the essentials that anyone might need from a storage system, with a strong focus on practicality and reliability.",
+    "features": [
+      "Regular Version 97.44% Hopper Locking - Essential Version 98.70% Hopper Locking",
+      "1.7 MSPT idle, 3 MSPT active (Ryzen 9 7950X3D with Lithium 1.21.4)",
+      "744 chest hall items, one chest per item",
+      "248 external bulk items, 0.95 million capacity per item",
+      "7 multi-item categories",
+      "Unstackable sorter + encoder",
+      "Set-based unloading array",
+      "Some peripherals (furnace array, brewer, mass crafter, box dyer, restock display)",
+      "System status panel",
+      "Basic error checking, which can pause the input if there is a problem."
+    ],
+    "notes": "By Lukeem, Juthons, LuisitoLapapa , and Danc04 . See thread for full credits, additional information, and world download/schematic."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1487185447321997454",
+    "forumId": "1325016702731423744",
+    "continuingMessageIds": [
+      "1487185462434074865",
+      "1487185463117615105"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1487185447321997454",
+    "uploadMessageId": "1487185445094952980",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1487185447321997454/1487185457279406201/Aeternum_Main_Render.png?ex=69c838e3&is=69c6e763&hm=2059599c5d9bc79a576817f5be13157e39604695a4b92dfdf3f80a87beaae0d3&"
+  },
+  "archivedAt": 1774643039198,
+  "updatedAt": 1774643039198,
+  "num_comments": 0
+}
