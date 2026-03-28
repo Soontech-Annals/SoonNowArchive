@@ -1,0 +1,114 @@
+{
+  "id": "1487490147279962282",
+  "name": "77 Box Splitter Array",
+  "code": "SG003",
+  "reservedCodes": [
+    "SG003"
+  ],
+  "pastPostThreadIds": [
+    "1487490598322700338"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "username": "777777777777777777774832",
+      "displayName": "77777777777777777777",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Ianonstrin"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142610133782659",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1487490147921432776",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1487490147279962282/1487490147921432776/image.png?ex=69c954a7&is=69c80327&hm=c82cbccab26d7281add6a62caa32505e4891ced4360ef05de48a91fe9999cba5&",
+      "timestamp": 1774715687342,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 96071,
+      "canDownload": true,
+      "width": 493,
+      "height": 451,
+      "path": "images/image.png",
+      "hash": "21f83badc4b65a987f8a33d1dbcdc78a1c384865240a1cb54aeff2305bcc90b7"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1487490148282269766",
+      "name": "SG003_splitter-77-v5.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1487490147279962282/1487490148282269766/splitter-77-v5.5.litematic?ex=69c954a7&is=69c80327&hm=e4f3ad1d0b21e1c0d14d72533567530b6c92454eaf0df79d7c73a7e22703f676&",
+      "timestamp": 1774715687342,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5083,
+      "canDownload": true,
+      "hash": "460cdf079d466f570113e1eed794c6a6179fda7f6290b15d3366fe2117c4ea58",
+      "path": "attachments/SG003_splitter-77-v5.5.litematic",
+      "litematic": {
+        "size": "7x11x21",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "By <@1068798858676686848> and ianonstrin\n\nSplits mixed boxes into single-type boxes."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1068798858676686848",
+        "username": "777777777777777777774832",
+        "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp",
+        "displayName": "77777777777777777777"
+      },
+      "matches": [
+        "<@1068798858676686848>"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1487490598322700338",
+    "forumId": "1325016579687059478",
+    "continuingMessageIds": [
+      "1487490608544088184"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1487490598322700338",
+    "uploadMessageId": "1487490596544315513",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1487490598322700338/1487490603725099151/image.png?ex=69c95514&is=69c80394&hm=c685fedbd5c854c0dfc9687d3617feaecdf519c6d6715e656ea2328d10aadb9e&"
+  },
+  "archivedAt": 1774715793464,
+  "updatedAt": 1774715793464,
+  "num_comments": 0
+}
