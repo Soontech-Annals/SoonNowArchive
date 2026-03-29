@@ -21,13 +21,30 @@ The Aeternum SMP storage system was designed as a middle ground between a standa
 - Basic error checking, which can pause the input if there is a problem.
 ## Notes
 By Lukeem, Juthons, LuisitoLapapa , and Danc04 . See thread for full credits, additional information, and world download/schematic.
+## Extra Credits
+- Box loaders: Etikle
+- Unloader: Etikle, RT
+- Unstack sorter: PyraLeft
+- Unstack encoder: Basil
+- ToggleBuffer: Basil
+- Playercall counter: Heilz (im not sure)
+- Restock station: Pyraleft
+- Playercall Slot-Res: Raffq
+- Input: Basil
+- Encoder: Basil
+- Multi-item sorter: SergyD
+- Empty box storage: Etikle
+- Decoder: modified from skyzy's, Original from floppy
+- Chunkloaders: Philgoodnator
+- Brewer: Basil
+- Furnace:  Pfeffabeissa and alchemi7
+- Empty box crafter: EthanMik
+- Bulk box dyer: CommandLeo
+- External bulk Decoder: Crain
+- External bulk Slice: jayroi
 
 ## Resources
-- [ES004_Aeternum_Main_Storage_v1.2.litematic](attachments/ES004_Aeternum_Main_Storage_v1.2.litematic): MC 1.21.4, Size 240x96x464 blocks
-  - This is the standard storage system with all its features and peripherals.
-- [ES004_Aeternum_Main_Storage_NetherSide.litematic](attachments/ES004_Aeternum_Main_Storage_NetherSide.litematic): MC 1.21.4, Size 23x16x45 blocks
-  - This is the Nether side.
-- [ES004_Aeternum_Main_Storage_Essential_v1.1.litematic](attachments/ES004_Aeternum_Main_Storage_Essential_v1.1.litematic): MC 1.21.4, Size 240x96x464 blocks
-  - This is an additional version where all peripherals have been removed—only the essentials for the main to function are included.
 - [ES004_Aeternum_Main_Storage.url](https://www.mediafire.com/file/n0rpo192xapq4sl/Aeternum_Main_Storage.zip/file): Mediafire link
   - The litematics are intentionally designed to include common error states you may encounter during construction. However, if you want to test the main fully functional, download the world.
+- [ES004_Aeternum_Main_Storage_Essential_v1.4.litematic](attachments/ES004_Aeternum_Main_Storage_Essential_v1.4.litematic): MC 1.21.4, Size 388x96x464 blocks
+- [ES004_Aeternum_Main_Storage_NetherSide_v1.3.litematic](attachments/ES004_Aeternum_Main_Storage_NetherSide_v1.3.litematic): MC 1.21.4, Size 17x8x44 blocks
