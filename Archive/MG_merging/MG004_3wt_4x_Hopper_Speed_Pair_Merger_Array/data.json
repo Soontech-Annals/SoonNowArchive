@@ -1,0 +1,124 @@
+{
+  "id": "1487921813018382346",
+  "name": "3wt 4x Hopper Speed Pair Merger Array",
+  "code": "MG004",
+  "reservedCodes": [
+    "MG004"
+  ],
+  "pastPostThreadIds": [
+    "1487922109597614242"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1068798858676686848",
+      "username": "777777777777777777774832",
+      "displayName": "77777777777777777777",
+      "iconURL": "https://cdn.discordapp.com/avatars/1068798858676686848/9c8fd7932d9c0072be4f3d559abe76b8.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1055842182982021144",
+      "username": "ionstrin",
+      "displayName": "insto",
+      "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "1207492489880277073",
+      "username": "tacren_66869",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1165983253493198972",
+      "username": "wreg_",
+      "displayName": "wreg",
+      "iconURL": "https://cdn.discordapp.com/avatars/1165983253493198972/4eae41af71aa41964fa5815ef233af80.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145610235674624",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1487921814553235616",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1487921813018382346/1487921814553235616/image.png?ex=69cae6ac&is=69c9952c&hm=c890f33a7883100f40962f44cfa910eec8df8e9f4a09cd0dd0af0e9167a79675&",
+      "timestamp": 1774818604474,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 390202,
+      "canDownload": true,
+      "width": 1200,
+      "height": 1036,
+      "path": "images/image.png",
+      "hash": "4a013013fb890bcbc8ca81176680a5f0c9a1810358f8c357d16105a93d0b0ae1"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1487921815019065384",
+      "name": "MG004_4x_Hopper_Speed_Merger.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1487921813018382346/1487921815019065384/4x_Hopper_Speed_Merger.litematic?ex=69cae6ac&is=69c9952c&hm=fa559413ff7d39c937633a06c7187992bd40248782cb59a29cb88c04e2040715&",
+      "timestamp": 1774818604474,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4074,
+      "canDownload": true,
+      "hash": "0c1560395b7a76023031be95b3c6f66e44b9e4effff8a021fb6147d9f70434a2",
+      "path": "attachments/MG004_4x_Hopper_Speed_Merger.litematic",
+      "litematic": {
+        "size": "8x11x19",
+        "version": "1.21"
+      }
+    }
+  ],
+  "records": {
+    "description": "The slice logic is almost the same as a hopper speed merger, but uses hopper minecarts to achieve four-speed merging",
+    "features": [
+      "4x hopper speed merging.",
+      "Hopper minecarts auto-recover when idle, with no entities.",
+      "Fully Hopper Locked.",
+      "It has a built-in fill level comparer, and after merging, the output goes through a fill level sorter.",
+      "Expandable."
+    ],
+    "notes": "* A pair of partial boxes must be input simultaneously and at a period no less than 25gt.\n* Each unit expansion requires adding 6gt to the box distribution period."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1487922109597614242",
+    "forumId": "1325016556026990613",
+    "continuingMessageIds": [
+      "1487922122218012703"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1487922109597614242",
+    "uploadMessageId": "1487922107416580140",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1487922109597614242/1487922117319331960/image.png?ex=69cae6f5&is=69c99575&hm=82fe262e5b18ce2bf28b3a509b155e48fc282846d941c555eea84f3597991e46&"
+  },
+  "archivedAt": 1774818673292,
+  "updatedAt": 1774818673292,
+  "num_comments": 0
+}
