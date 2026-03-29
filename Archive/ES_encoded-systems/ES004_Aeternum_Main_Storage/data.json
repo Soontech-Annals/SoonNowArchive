@@ -68,22 +68,6 @@
   ],
   "attachments": [
     {
-      "id": "n0rpo192xapq4sl",
-      "name": "ES004_Aeternum_Main_Storage.url",
-      "contentType": "mediafire",
-      "url": "https://www.mediafire.com/file/n0rpo192xapq4sl/Aeternum_Main_Storage.zip/file",
-      "timestamp": 1774643006263,
-      "author": {
-        "type": "discord-external",
-        "id": "634845429770485790",
-        "username": "luisitolapapa",
-        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
-      },
-      "source": "URLInMessage",
-      "description": "The litematics are intentionally designed to include common error states you may encounter during construction. However, if you want to test the main fully functional, download the world.",
-      "canDownload": false
-    },
-    {
       "id": "1487652439170613298",
       "name": "ES004_Aeternum_Main_Storage_Essential_v1.4.litematic",
       "contentType": "unknown",
@@ -130,6 +114,38 @@
         "size": "17x8x44",
         "version": "1.21.4"
       }
+    },
+    {
+      "id": "1487918966692253706",
+      "name": "ES004_Aeternum_Main_Storage.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1487918966692253706/Aeternum_Main_Storage.zip?ex=69cae405&is=69c99285&hm=e53e10d5ef545f43676dc36e757bf7e85f160ee5252e754d8abf6306bf8d35d1&",
+      "timestamp": 1774817925957,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The litematics are intentionally designed to include common error states you may encounter during construction. However, if you want to test the main fully functional, download the world.",
+      "size": 14583859,
+      "canDownload": true,
+      "hash": "b95a27d5ca112f2207f147be212cfa1a495da7831ce610ce80ebbb3ca68e7e97",
+      "path": "attachments/ES004_Aeternum_Main_Storage.zip",
+      "wdls": [
+        {
+          "path": "Aeternum Main Storage",
+          "version": "1.21.4",
+          "levelName": "Aeternum Main Storage"
+        }
+      ],
+      "wdl": {
+        "version": "1.21.4",
+        "optimized": true
+      },
+      "unoptimizedSize": 57727274
     }
   ],
   "records": {
@@ -164,10 +180,10 @@
       "1487185462434074865"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1487185447321997454",
-    "uploadMessageId": "1487917662238412925",
+    "uploadMessageId": "1487921298150527007",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1487185447321997454/1487185457279406201/Aeternum_Main_Render.png?ex=69c838e3&is=69c6e763&hm=2059599c5d9bc79a576817f5be13157e39604695a4b92dfdf3f80a87beaae0d3&"
   },
   "archivedAt": 1774643039198,
-  "updatedAt": 1774817614122,
+  "updatedAt": 1774818480841,
   "num_comments": 0
 }

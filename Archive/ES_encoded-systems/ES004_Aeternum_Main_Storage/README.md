@@ -44,7 +44,7 @@ By Lukeem, Juthons, LuisitoLapapa , and Danc04 . See thread for full credits, ad
 - External bulk Slice: jayroi
 
 ## Resources
-- [ES004_Aeternum_Main_Storage.url](https://www.mediafire.com/file/n0rpo192xapq4sl/Aeternum_Main_Storage.zip/file): Mediafire link
-  - The litematics are intentionally designed to include common error states you may encounter during construction. However, if you want to test the main fully functional, download the world.
 - [ES004_Aeternum_Main_Storage_Essential_v1.4.litematic](attachments/ES004_Aeternum_Main_Storage_Essential_v1.4.litematic): MC 1.21.4, Size 388x96x464 blocks
 - [ES004_Aeternum_Main_Storage_NetherSide_v1.3.litematic](attachments/ES004_Aeternum_Main_Storage_NetherSide_v1.3.litematic): MC 1.21.4, Size 17x8x44 blocks
+- [ES004_Aeternum_Main_Storage.zip](attachments/ES004_Aeternum_Main_Storage.zip): MC 1.21.4
+  - The litematics are intentionally designed to include common error states you may encounter during construction. However, if you want to test the main fully functional, download the world.
