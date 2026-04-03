@@ -1,7 +1,7 @@
 # Hopperspeed Encoder V2
 <img alt="encoder.png" src="images/encoder.png?raw=1" height="300px">
 
-**Authors:** *Andrews54757, Inspector Talon, bread8812, glowsquid_*
+**Authors:** *Andrews54757, Inspector Talon, bread8812, glowsquid*
 
 **Tags:** *Functional*
 

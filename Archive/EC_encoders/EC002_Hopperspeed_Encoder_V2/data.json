@@ -30,9 +30,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/612448055026778132/9879e776bc801b674b59941b03086fc0.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "530550822321520647",
       "username": "glowsquid_",
+      "displayName": "glowsquid",
       "iconURL": "https://cdn.discordapp.com/avatars/530550822321520647/c1ac4a5282be7d04a6a77f412ef75684.webp"
     }
   ],
