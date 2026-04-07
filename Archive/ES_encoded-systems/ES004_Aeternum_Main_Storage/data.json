@@ -68,30 +68,6 @@
   ],
   "attachments": [
     {
-      "id": "1487652439170613298",
-      "name": "ES004_Aeternum_Main_Storage_Essential_v1.4.litematic",
-      "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1487652439170613298/Aeternum_Main_Storage_Essential_v1.4.litematic?ex=69c9ebcc&is=69c89a4c&hm=4dad55dac84b6dd1ac471532822a3d9d9b025462dfbf2d733902856511bd5656&",
-      "timestamp": 1774754380803,
-      "author": {
-        "type": "discord-in-guild",
-        "id": "634845429770485790",
-        "username": "luisitolapapa",
-        "displayName": "LuisitoLapapa",
-        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
-      },
-      "source": "MessageAttachment",
-      "description": "",
-      "size": 234937,
-      "canDownload": true,
-      "hash": "0f45777e26f1298e201b491ce0aacc045437d548a01c6eec428c2a283c6a3338",
-      "path": "attachments/ES004_Aeternum_Main_Storage_Essential_v1.4.litematic",
-      "litematic": {
-        "size": "388x96x464",
-        "version": "1.21.4"
-      }
-    },
-    {
       "id": "1487527233739559024",
       "name": "ES004_Aeternum_Main_Storage_NetherSide_v1.3.litematic",
       "contentType": "unknown",
@@ -146,6 +122,30 @@
         "optimized": true
       },
       "unoptimizedSize": 57727274
+    },
+    {
+      "id": "1490868769256505354",
+      "name": "ES004_Aeternum_Main_Storage_Essential_v1.5.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1487183029016199444/1490868769256505354/Aeternum_Main_Storage_Essential_v1.5.litematic?ex=69d59f3d&is=69d44dbd&hm=9b1d31eaad60e6fd50edfbe3b795596ea9c50af3e00c1032ff5ec1fa3e2ec414&",
+      "timestamp": 1775521213672,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "634845429770485790",
+        "username": "luisitolapapa",
+        "displayName": "LuisitoLapapa",
+        "iconURL": "https://cdn.discordapp.com/avatars/634845429770485790/b82bfbe2841b93a3c11344c7d8d0eb7d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 235270,
+      "canDownload": true,
+      "hash": "0f7a4639666f05cb42b111e54af0ce86a4bc9270a3dd67932d076d6f012ad1a6",
+      "path": "attachments/ES004_Aeternum_Main_Storage_Essential_v1.5.litematic",
+      "litematic": {
+        "size": "240x96x464",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {
@@ -180,10 +180,10 @@
       "1487185462434074865"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1487185447321997454",
-    "uploadMessageId": "1487921298150527007",
+    "uploadMessageId": "1490869301610156326",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1487185447321997454/1487185457279406201/Aeternum_Main_Render.png?ex=69c838e3&is=69c6e763&hm=2059599c5d9bc79a576817f5be13157e39604695a4b92dfdf3f80a87beaae0d3&"
   },
   "archivedAt": 1774643039198,
-  "updatedAt": 1774818480841,
+  "updatedAt": 1775521339689,
   "num_comments": 0
 }
