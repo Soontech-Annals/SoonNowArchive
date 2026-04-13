@@ -1,7 +1,7 @@
 # 3wt 4x Hopper Speed Pair Merger Array
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *77777777777777777777, insto, tacren_66869, wreg*
+**Authors:** *77777777777777777777, insto, vincent, wreg*
 
 **Tags:** *Functional*
 

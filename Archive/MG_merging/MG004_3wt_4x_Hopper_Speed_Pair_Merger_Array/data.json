@@ -24,9 +24,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/1055842182982021144/9d55faf9fe9c535c67f31c8b069454db.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1207492489880277073",
       "username": "tacren_66869",
+      "displayName": "vincent",
       "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
     },
     {
