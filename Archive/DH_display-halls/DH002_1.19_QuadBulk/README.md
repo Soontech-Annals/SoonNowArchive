@@ -1,7 +1,7 @@
 # [1.19+] QuadBulk
 <img alt="area_render_2_.png" src="images/area_render_2_.png?raw=1" height="300px">
 
-**Authors:** *Cartisu, DNator*
+**Authors:** *BearTisu, DNator*
 
 **Tags:** *Functional, Collectionless*
 
