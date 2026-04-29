@@ -1,7 +1,7 @@
 # Scicraft Hybrid Main Storage
 <img alt="area_render_1_.png" src="images/area_render_1_.png?raw=1" height="300px">
 
-**Authors:** *jorvp, Obi81, commandleo, Glotz, raffq, rapscallion1138, boyenn, floppydonkey*
+**Authors:** *jorvp, Obi81, commandleo, Glotz, Raffq, rapscallion1138, boyenn, floppydonkey*
 
 **Tags:** *Functional*
 

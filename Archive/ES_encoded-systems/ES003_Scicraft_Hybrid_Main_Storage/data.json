@@ -37,9 +37,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/247092209780916225/6180f71564f0bb3fca26a7dd8b712748.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "244529884846751745",
       "username": "raffq",
+      "displayName": "Raffq",
       "iconURL": "https://cdn.discordapp.com/avatars/244529884846751745/25d3bc667842f56584713459d3f4713b.webp"
     },
     {
