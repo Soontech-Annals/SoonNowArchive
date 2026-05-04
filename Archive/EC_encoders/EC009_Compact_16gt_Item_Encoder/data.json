@@ -1,0 +1,102 @@
+{
+  "id": "1500881436490731581",
+  "name": "Compact 16gt Item Encoder",
+  "code": "EC009",
+  "reservedCodes": [
+    "EC009"
+  ],
+  "pastPostThreadIds": [
+    "1500882227507105853"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1073133812415991818",
+      "username": "willymc_cn",
+      "displayName": "willymc",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/0.png"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018010326532117",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1500881438969692312",
+      "name": "area_render_313.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1500881436490731581/1500881438969692312/area_render_313.png?ex=69fa0c44&is=69f8bac4&hm=246bbe5cbfafa7bb7cd4fa2812be87262d49f18eebabfdb6f017236c9bba34fa&",
+      "timestamp": 1777908419488,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 341056,
+      "canDownload": true,
+      "width": 1200,
+      "height": 818,
+      "path": "images/area_render_313.png",
+      "hash": "fd63777f544d2b6dd9c7bec3573c35f34657d5541828cf324be30ea72720198b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1500881439372349603",
+      "name": "EC009_16gtv4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1500881436490731581/1500881439372349603/16gtv4.litematic?ex=69fa0c44&is=69f8bac4&hm=18d7f3d2994ce1f6fd2439adcd195bd6fbf43ee5a7115b0ccdc6c02c5a5976ad&",
+      "timestamp": 1777908419488,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2894,
+      "canDownload": true,
+      "hash": "9aa5a278fd0a491784d291dfadf4e6ac0d95705fd29c28b00f5d6b6e8f87e30c",
+      "path": "attachments/EC009_16gtv4.litematic",
+      "litematic": {
+        "size": "13x7x25",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "This encoder has a 16gt throughput encoder core which only requires one item per type in a chest.",
+    "features": [
+      "16gt throughput",
+      "Redstone dust updateless",
+      "No slime/honey blocks",
+      "Only 1 of each coded item is required to be filled into the coded box"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1500882227507105853",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1500882237724295168"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1500882227507105853",
+    "uploadMessageId": "1500882225208623295",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1500882227507105853/1500882232338813098/area_render_313.png?ex=69fa0d01&is=69f8bb81&hm=da5d9353992cdde2e3495ec37064db9a96ad13547a3a43ba5f63e8b818b54f98&"
+  },
+  "archivedAt": 1777908606634,
+  "updatedAt": 1777908606634,
+  "num_comments": 0
+}

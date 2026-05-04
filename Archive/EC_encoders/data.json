@@ -4,7 +4,7 @@
   "code": "EC",
   "category": "Archives",
   "description": "Encoders take an item input and outputs a redstone code",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1444407242689351852",
@@ -45,6 +45,11 @@
       "id": "1469567007585337385",
       "code": "EC008",
       "path": "EC008_Unstackable_Item_Encoder"
+    },
+    {
+      "id": "1500881436490731581",
+      "code": "EC009",
+      "path": "EC009_Compact_16gt_Item_Encoder"
     }
   ]
 }
