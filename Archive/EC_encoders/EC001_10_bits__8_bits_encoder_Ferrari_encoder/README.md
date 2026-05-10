@@ -1,7 +1,7 @@
 # 10 bits + 8 bits encoder (Ferrari encoder)
 <img alt="area_render_8_.png" src="images/area_render_8_.png?raw=1" height="300px">
 
-**Authors:** *BearTisu*
+**Authors:** *Matrixsu*
 
 **Tags:** *Functional*
 
