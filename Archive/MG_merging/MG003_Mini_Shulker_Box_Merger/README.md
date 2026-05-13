@@ -3,7 +3,7 @@
 
 **Authors:** *Kizu, skyzy*
 
-**Tags:** *Functional*
+**Tags:** *Broken*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1481323593924214978)
 
