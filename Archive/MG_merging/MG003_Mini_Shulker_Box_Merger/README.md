@@ -1,9 +1,9 @@
 # Mini Shulker Box Merger
-<img alt="merger.png" src="images/merger.png?raw=1" height="300px">
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
 
 **Authors:** *Kizu, skyzy*
 
-**Tags:** *Broken*
+**Tags:** *Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1481323593924214978)
 
@@ -18,8 +18,5 @@ Roof concept by JayRoi
 ## Compatibility
 1.19+
 
-## Other Images
-<img src="images/merger_slice.png?raw=1" height="300px">
-
 ## Resources
-- [MG003_mini-merger_1.0.litematic](attachments/MG003_mini-merger_1.0.litematic): MC 1.20.1, Size 6x9x22 blocks
+- [MG003_mini-merger_1.1_fixed.litematic](attachments/MG003_mini-merger_1.1_fixed.litematic): MC 1.20.1, Size 6x9x21 blocks
