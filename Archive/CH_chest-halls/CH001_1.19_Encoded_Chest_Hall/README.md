@@ -1,7 +1,7 @@
 # [1.19+] Encoded Chest Hall
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *Matrixsu, Augment✮Mendo, DNator*
+**Authors:** *Matrixsu, AugmentMendo, DNator*
 
 **Tags:** *Functional*
 
