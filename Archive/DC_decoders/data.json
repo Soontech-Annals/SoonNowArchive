@@ -4,7 +4,7 @@
   "code": "DC",
   "category": "Archives",
   "description": "Decoders take a redstone code and maps it to a slice (code to one-hot)",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1446387683101380650",
@@ -40,6 +40,11 @@
       "id": "1470374624738017355",
       "code": "DC007",
       "path": "DC007_8_bits_Crain_decoder_head"
+    },
+    {
+      "id": "1516031294482550784",
+      "code": "DC008",
+      "path": "DC008_2w_smol_crain_decoder_head"
     }
   ]
 }

@@ -1,0 +1,170 @@
+{
+  "id": "1516031294482550784",
+  "name": "2w smol crain decoder head",
+  "code": "DC008",
+  "reservedCodes": [
+    "DC008"
+  ],
+  "pastPostThreadIds": [
+    "1516031771680964699"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "654777405411557396",
+      "username": "lucas.aaa123",
+      "displayName": "ʟᴜ",
+      "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325019270521819156",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1516031294684008600",
+      "name": "area_render_50_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031294684008600/area_render_50_.png?ex=6a3129ab&is=6a2fd82b&hm=2c21560e10cd42dc0675dc1c67eac1091ce0c43be045049619dbf695d713a694&",
+      "timestamp": 1781520427104,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "displayName": "ʟᴜ",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 107720,
+      "canDownload": true,
+      "width": 846,
+      "height": 523,
+      "path": "images/area_render_50_.png",
+      "hash": "7e5c47ba2b2c6de65805e072e396d292eaef5bea474294067835d04bea2e6212",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031587685498980/1516031294684008600-area_render_50_.png?ex=6a3129f1&is=6a2fd871&hm=f4c69066e9cb2e39950924d470c4c3ca33d19b632a8456c411fa7872fc780f16&"
+    },
+    {
+      "id": "1516031295321276446",
+      "name": "area_render_51_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031295321276446/area_render_51_.png?ex=6a3129ab&is=6a2fd82b&hm=b9390622ab619e2efef028869764ea79a48ad043c2ac094a944e1e7c570526d3&",
+      "timestamp": 1781520427104,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "displayName": "ʟᴜ",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 97178,
+      "canDownload": true,
+      "width": 737,
+      "height": 544,
+      "path": "images/area_render_51_.png",
+      "hash": "e4c0ccc433b0dc830835612911d594dca99372fdc9c0b01e685f823c948feca9",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031587945414696/1516031295321276446-area_render_51_.png?ex=6a3129f1&is=6a2fd871&hm=790c0be77204aa3445fbf39f569bdb2dc40e5dddf9f858a2b352e30ca25916fa&"
+    },
+    {
+      "id": "1516031295791173763",
+      "name": "area_render_52_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031295791173763/area_render_52_.png?ex=6a3129ab&is=6a2fd82b&hm=30bb0262f450b5f839f41c2b3004fd43121f862932a7df3b978d87e38bc5e077&",
+      "timestamp": 1781520427104,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "displayName": "ʟᴜ",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 123742,
+      "canDownload": true,
+      "width": 846,
+      "height": 535,
+      "path": "images/area_render_52_.png",
+      "hash": "814a92ed244249f3d37f19d902b7de820df0f5a1bac0137380a735a0b4ed1e7c",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031588377301112/1516031295791173763-area_render_52_.png?ex=6a3129f1&is=6a2fd871&hm=3336a1741d680f579160230e694d2a37bf565c940a878a97286a0b5f6f4255a6&"
+    },
+    {
+      "id": "1516031296219119707",
+      "name": "area_render_53_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031296219119707/area_render_53_.png?ex=6a3129ab&is=6a2fd82b&hm=810886855989cb043b644d0eb2f76a884ed4a6ac90074fcb192119b262f04e27&",
+      "timestamp": 1781520427104,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "displayName": "ʟᴜ",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 118658,
+      "canDownload": true,
+      "width": 748,
+      "height": 588,
+      "path": "images/area_render_53_.png",
+      "hash": "8a5b665c24dcf539966f81480dcfa67f3c28d6bb463de1936acea6ed8526b752",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031588880879626/1516031296219119707-area_render_53_.png?ex=6a3129f1&is=6a2fd871&hm=5da9ac81356893f85302a02b45a569146fa23d6f748a392e5fe8f960a87c2d88&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1516031708032536646",
+      "name": "DC008_lu_2w_8bits_decoders.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1516031294482550784/1516031708032536646/lu_2w_8bits_decoders.litematic?ex=6a312a0d&is=6a2fd88d&hm=05ce4e73e1dfa33f9784033dbdf3a7adc7863f5c8fa71440f1871f005cc3e995&",
+      "timestamp": 1781520525033,
+      "author": {
+        "type": "discord-external",
+        "id": "654777405411557396",
+        "username": "lucas.aaa123",
+        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "c91381a361b8baf4a2df1ea0b7f24256f3e5d0ad48a8f9d528e3b67e80a799e5",
+      "path": "attachments/DC008_lu_2w_8bits_decoders.litematic",
+      "size": 2424,
+      "litematic": {
+        "size": "10x9x35",
+        "version": "1.19.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "nothing special",
+    "features": [
+      "jsut 2w",
+      "and no in betwen space",
+      "bcs why not",
+      "the 2 fist bits are for demux"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1516031771680964699",
+    "forumId": "1325018609788911719",
+    "continuingMessageIds": [
+      "1516031784524185684"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1516031771680964699",
+    "uploadMessageId": "1516031769424433332"
+  },
+  "archivedAt": 1781520539752,
+  "updatedAt": 1781520539752,
+  "num_comments": 0
+}
