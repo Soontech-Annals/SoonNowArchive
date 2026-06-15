@@ -49,28 +49,27 @@
   ],
   "attachments": [
     {
-      "id": "1470374627103735963",
-      "name": "DC007_lu_crain_decoder_6_bits__2_demux_.litematic",
+      "id": "1516123776650313758",
+      "name": "DC007_lu_crain_decoder_6_bits__2_demux_reset_fixed.litematic",
       "contentType": "unknown",
-      "url": "https://cdn.discordapp.com/attachments/1470374624738017355/1470374627103735963/lu_crain_decoder_6_bits__2_demux_.litematic?ex=698b1095&is=6989bf15&hm=768e632ba5fbda2d1118e3d94047132654565bcf583613b18e05988a3a3b4855&",
-      "timestamp": 1770635028777,
+      "url": "https://cdn.discordapp.com/attachments/1470374624738017355/1516123776650313758/lu_crain_decoder_6_bits__2_demux_reset_fixed.litematic?ex=6a317fcc&is=6a302e4c&hm=0207ef5ab2b5c320ad72efeaada4f3d2b4459f5e356c70996a01ee64206667b7&",
+      "timestamp": 1781542476615,
       "author": {
-        "type": "discord-in-guild",
-        "id": "654777405411557396",
-        "username": "lucas.aaa123",
-        "displayName": "ʟᴜ",
-        "iconURL": "https://cdn.discordapp.com/avatars/654777405411557396/01454b086ee37f03f57511734f988563.webp"
+        "type": "discord-external",
+        "id": "1516123774897099024",
+        "username": "ʟᴜ",
+        "iconURL": "https://cdn.discordapp.com/avatars/1516123774897099024/fc7383a7f43ebafdee4949d82df61c43.webp"
       },
       "source": "MessageAttachment",
-      "description": "",
-      "size": 2120,
+      "description": "the reset of the demux has been fixed",
+      "size": 2125,
       "canDownload": true,
-      "path": "attachments/DC007_lu_crain_decoder_6_bits__2_demux_.litematic",
+      "hash": "fa78842c7c2a14f11a63b788512fd84a0ca8e4d049745725c7e39e2bc3cf06c4",
+      "path": "attachments/DC007_lu_crain_decoder_6_bits__2_demux_reset_fixed.litematic",
       "litematic": {
         "size": "6x9x46",
-        "version": "1.19"
-      },
-      "hash": "17715f1cf0ed28d0afc02ca993a4c3e93223fce931c3f6aec06258c569228b61"
+        "version": "1.19.2"
+      }
     }
   ],
   "records": {
@@ -91,10 +90,10 @@
       "1470375371001167903"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1470375367209648190",
-    "uploadMessageId": "1470375363950415971",
+    "uploadMessageId": "1516125060128182543",
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1470375367209648190/1470375367863828510/area_render_1_.png?ex=69b29e45&is=69b14cc5&hm=e4b1d8ce0eeee9de12c0b0279a86d10c054e58020d94d0565eaf785230263ab6&"
   },
   "archivedAt": 1770635204326,
-  "updatedAt": 1770635944316,
+  "updatedAt": 1781542781407,
   "num_comments": 0
 }

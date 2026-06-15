@@ -15,4 +15,5 @@ simple to understand
 1.14+
 
 ## Resources
-- [DC007_lu_crain_decoder_6_bits__2_demux_.litematic](attachments/DC007_lu_crain_decoder_6_bits__2_demux_.litematic): MC 1.19, Size 6x9x46 blocks
+- [DC007_lu_crain_decoder_6_bits__2_demux_reset_fixed.litematic](attachments/DC007_lu_crain_decoder_6_bits__2_demux_reset_fixed.litematic): MC 1.19.2, Size 6x9x46 blocks
+  - the reset of the demux has been fixed
