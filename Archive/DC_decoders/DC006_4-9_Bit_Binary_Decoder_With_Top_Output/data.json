@@ -15,9 +15,10 @@
       "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "480195074224029697",
       "username": "crain4999",
+      "displayName": "Crain",
       "iconURL": "https://cdn.discordapp.com/avatars/480195074224029697/a4d42db6068d6acb0d80e6c78cdd4dd4.webp"
     }
   ],

@@ -1,7 +1,7 @@
 # 4-9 Bit Binary Decoder With Top Output
 <img alt="decoderpic.png" src="images/decoderpic.png?raw=1" height="300px">
 
-**Authors:** *Basil, crain4999*
+**Authors:** *Basil, Crain*
 
 **Tags:** *Functional*
 

@@ -1,7 +1,7 @@
 # Compact Disk Drive Temp Storage
 <img alt="diskdrive.png" src="images/diskdrive.png?raw=1" height="300px">
 
-**Authors:** *Obi81, crain4999, pallapalla, xxopticnervexx, JayRoi*
+**Authors:** *Obi81, Crain, pallapalla, xxopticnervexx, JayRoi*
 
 **Tags:** *Functional*
 
