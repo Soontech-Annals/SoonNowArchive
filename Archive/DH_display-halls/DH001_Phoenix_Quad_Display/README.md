@@ -1,7 +1,7 @@
 # Phoenix Quad Display
 <img alt="Phoenix_Quad_Display.png" src="images/Phoenix_Quad_Display.png?raw=1" height="300px">
 
-**Authors:** *Ragdoll Willy*
+**Authors:** *00000000006878*
 
 **Tags:** *Functional, Collectionless*
 
