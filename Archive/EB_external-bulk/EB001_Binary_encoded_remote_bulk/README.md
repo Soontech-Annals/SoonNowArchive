@@ -19,4 +19,5 @@ Can restock n54 boxed continually, can do multi slicing, bulk slice by floppy, F
 <img src="images/mini_bulk_shaders_2.png?raw=1" height="300px">
 
 ## Resources
-- [EB001_Lu_mini_bulk.litematic](attachments/EB001_Lu_mini_bulk.litematic): MC 1.19.2, Size 68x29x39 blocks
+- [EB001_Lu_Binary_encoded_remote_bulk.litematic](attachments/EB001_Lu_Binary_encoded_remote_bulk.litematic): MC 1.19.2, Size 68x30x39 blocks
+  - new version
