@@ -76,7 +76,7 @@
     }
   ],
   "records": {
-    "description": "Prototype device for encoding boxes into codes.",
+    "description": "Simple 20gt encoder prototype",
     "features": [
       "Encodes 1 box every 20gt",
       "3 hexits",
@@ -105,6 +105,6 @@
     "uploadMessageId": "1562272851673751582"
   },
   "archivedAt": 1792545272733,
-  "updatedAt": 1792545272733,
+  "updatedAt": 1792545384664,
   "num_comments": 0
 }

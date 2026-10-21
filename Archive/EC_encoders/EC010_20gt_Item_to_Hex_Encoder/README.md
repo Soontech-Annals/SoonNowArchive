@@ -7,7 +7,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1325008017015701504/1562272856916631552)
 
-Prototype device for encoding boxes into codes.
+Simple 20gt encoder prototype
 ## Features
 - Encodes 1 box every 20gt
 - 3 hexits
