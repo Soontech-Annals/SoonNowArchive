@@ -1,0 +1,110 @@
+{
+  "id": "1562271963500646452",
+  "name": "20gt Item to Hex Encoder",
+  "code": "EC010",
+  "reservedCodes": [
+    "EC010"
+  ],
+  "pastPostThreadIds": [
+    "1562272856916631552"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "displayName": "skyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325018124348821536",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1562271964377128980",
+      "name": "skyzy_20gt_encoder_prototype.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1562271963500646452/1562271964377128980/area_render_126_.png?ex=6ad962a5&is=6ad81125&hm=a3008b282633ee4d673ee64a3bfc1126ae874fe28ffe61366217c066dabd853a&",
+      "timestamp": 1792545061708,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "727730797049806898",
+        "username": "sskyzy",
+        "displayName": "skyzy",
+        "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 156809,
+      "canDownload": true,
+      "width": 1200,
+      "height": 622,
+      "path": "images/skyzy_20gt_encoder_prototype.png",
+      "hash": "1b7274e5bafc9b2f711fa9e94c4e69b084677acd5ae4690d7ee9a12c6faa6dd1",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1562271963500646452/1562272219105726555/1562271964377128980-skyzy_20gt_encoder_prototype.png?ex=6ad962e2&is=6ad81162&hm=a43c07ba980fa3b57029326e990bef7161f3bb448bca731c1d2311c8c2123c6e&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1562271964901412894",
+      "name": "EC010_skyzy-20gt-3_hexit_encoder-v0.9.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1562271963500646452/1562271964901412894/20gt-3_hexit_encoder-v0.9.0.litematic?ex=6ad962a6&is=6ad81126&hm=f016342ea561071d4af92012730a3deab9a863e60282c0687a8d92c2d6a6c001&",
+      "timestamp": 1792545061708,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "727730797049806898",
+        "username": "sskyzy",
+        "displayName": "skyzy",
+        "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5665,
+      "canDownload": true,
+      "hash": "468a09edc6dc1a70376d897bc627e21569dee2cd7715c3c5988896aa8c55253b",
+      "path": "attachments/EC010_skyzy-20gt-3_hexit_encoder-v0.9.0.litematic",
+      "litematic": {
+        "size": "51x11x10",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Prototype device for encoding boxes into codes.",
+    "features": [
+      "Encodes 1 box every 20gt",
+      "3 hexits",
+      "Outputs the code with the box",
+      "Expanding it is trivial"
+    ],
+    "considerations": [
+      "It's still a prototype so it might have issues."
+    ],
+    "instructions": [
+      "Encode boxes with the device; it will encode 1 box every 20gt.",
+      "After the code and box output is produced, what happens with the code and box after output is an exercise for the user."
+    ],
+    "compatibility": "1.19+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1562272856916631552",
+    "forumId": "1325016282629804053",
+    "continuingMessageIds": [
+      "1562272869579489361"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1562272856916631552",
+    "uploadMessageId": "1562272851673751582"
+  },
+  "archivedAt": 1792545272733,
+  "updatedAt": 1792545272733,
+  "num_comments": 0
+}
