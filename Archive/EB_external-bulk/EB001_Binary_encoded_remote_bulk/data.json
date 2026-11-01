@@ -125,10 +125,9 @@
   ],
   "records": {
     "description": "A mini bulk made with the decoder's heads for crain decoder that are 2w front and no space in between the decoders.",
-    "features": [],
-    "considerations": [],
-    "notes": "Can restock n54 boxed continually, can do multi slicing, bulk slice by floppy, FHL (classic), dropper lines are optimised (detection based)"
+    "notes": "Can restock n54 boxed continually, can do multi slicing, bulk slice by floppy, FHL (classic), dropper lines are optimised (detection based)\n\n\nExplanation here ->https://youtu.be/EPJR2DIpcIo"
   },
+  "styles": {},
   "references": [],
   "author_references": [],
   "post": {
@@ -142,6 +141,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1414710018812412065/1414710019030519929/mini_bulk_1.png?ex=69b27a20&is=69b128a0&hm=b6e36ba69065c60813c2ed2cf38b2a54fd5e3365e8b4fad5f6d42df4b134a29a&"
   },
   "archivedAt": 1757363551543,
-  "updatedAt": 1791377283318,
+  "updatedAt": 1793564166787,
   "num_comments": 0
 }

@@ -11,6 +11,9 @@ A mini bulk made with the decoder's heads for crain decoder that are 2w front an
 ## Notes
 Can restock n54 boxed continually, can do multi slicing, bulk slice by floppy, FHL (classic), dropper lines are optimised (detection based)
 
+
+Explanation here ->https://youtu.be/EPJR2DIpcIo
+
 ## Other Images
 <img src="images/mini_bulk_3.png?raw=1" height="300px">
 
