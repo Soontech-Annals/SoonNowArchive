@@ -4,7 +4,7 @@
   "code": "EC",
   "category": "Archives",
   "description": "Encoders take an item input and outputs a redstone code",
-  "currentCodeId": 10,
+  "currentCodeId": 11,
   "entries": [
     {
       "id": "1444407242689351852",
@@ -55,6 +55,11 @@
       "id": "1562271963500646452",
       "code": "EC010",
       "path": "EC010_20gt_Item_to_Hex_Encoder"
+    },
+    {
+      "id": "1569674454903296021",
+      "code": "EC011",
+      "path": "EC011_1.21_11_bits_XOR_Encoder"
     }
   ]
 }
