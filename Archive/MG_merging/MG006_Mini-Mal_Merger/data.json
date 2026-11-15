@@ -1,0 +1,115 @@
+{
+  "id": "1571395914382188627",
+  "name": "Mini-Mal Merger",
+  "code": "MG006",
+  "reservedCodes": [
+    "MG006"
+  ],
+  "pastPostThreadIds": [
+    "1571398409997262880"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "displayName": "JayRoi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1423911333883154452",
+      "username": "dashie_47",
+      "displayName": "Dashie",
+      "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/437c86a2dc3b90d2a6ce8cdd8e7ae6da.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145610235674624",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1571395914629906443",
+      "name": "area_render_9_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1571395914382188627/1571395914629906443/area_render_9_.png?ex=6afa93fd&is=6af9427d&hm=c91b56bd68832a4e19425c2b92cfecb4cfc90de37cbb9bedafeba0b192261d83&",
+      "timestamp": 1794720381113,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "577991168369885223",
+        "username": "jayroi",
+        "displayName": "JayRoi",
+        "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "4x Array",
+      "size": 155162,
+      "canDownload": true,
+      "width": 1000,
+      "height": 691,
+      "path": "images/area_render_9_.png",
+      "hash": "81e200b437a2619335264ac1c6d9c1a5b9290366e99968ecd245dd8a9a086b28",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1571395914382188627/1571398035202646126/1571395914629906443-area_render_9_.png?ex=6afa95f6&is=6af94476&hm=c23cb226655bacc40a12a6a6f13c894e62b368f8787b1abcb28322fc38b618bc&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1571395915053535362",
+      "name": "MG006_Mini-mal_Merger_1.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1571395914382188627/1571395915053535362/Mini-mal_Merger_1.0.litematic?ex=6afa93fd&is=6af9427d&hm=3dd6bc5c051363b32432f7d61ed0c3cef919afab85894474b214fe5ba127f4e6&",
+      "timestamp": 1794720381113,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "577991168369885223",
+        "username": "jayroi",
+        "displayName": "JayRoi",
+        "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Tested for over 8 million pairs",
+      "size": 3469,
+      "canDownload": true,
+      "hash": "87111bf7133a6b58174fb9bbae573adb0b63d6bec5a3ac02b23fa053d05fbb5b",
+      "path": "attachments/MG006_Mini-mal_Merger_1.0.litematic",
+      "litematic": {
+        "size": "6x9x19",
+        "version": "26.3"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 'Applebloom' Merger Slice with control wiring.",
+    "features": [
+      "Faster slice mapping using a counter.",
+      "Includes an output signal-strength sorter.",
+      "Includes a box comparer that ensures the emptier box is loaded into the fuller box."
+    ],
+    "considerations": [
+      "Pairs require a fairly generous gap between insertion to the input stream."
+    ],
+    "instructions": [
+      "Intended for use with a whitelister temp."
+    ],
+    "notes": "Tested using Crea for over 8 million pairs."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1571398409997262880",
+    "forumId": "1325016556026990613",
+    "continuingMessageIds": [
+      "1571398427005161544"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1571398409997262880",
+    "uploadMessageId": "1571398408084652065"
+  },
+  "archivedAt": 1794720975025,
+  "updatedAt": 1794720975025,
+  "num_comments": 0
+}
