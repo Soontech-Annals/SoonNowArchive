@@ -20,4 +20,4 @@ Encode 2048 codes using XOR gates
 1.21+
 
 ## Resources
-- [EC011_11_bits_XOR_encoder_V1.2.litematic](attachments/EC011_11_bits_XOR_encoder_V1.2.litematic): MC 1.21.8, Size 18x19x46 blocks
+- [EC011_XOR_encoder_11_bits_V1.4.litematic](attachments/EC011_XOR_encoder_11_bits_V1.4.litematic): MC 26.3, Size 18x19x45 blocks

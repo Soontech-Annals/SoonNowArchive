@@ -34,10 +34,10 @@
   "images": [],
   "attachments": [
     {
-      "id": "1569674813860216942",
-      "name": "EC011_11_bits_XOR_encoder_V1.2.litematic",
-      "url": "https://cdn.discordapp.com/attachments/1569674454903296021/1569674813860216942/11_bits_XOR_encoder_V1.2.litematic?ex=6af45116&is=6af2ff96&hm=38a7fd8b551cb42990a50a4162e5ced4441cd8fdf32b69491b4a7f1e6b242331&",
-      "timestamp": 1794310037833,
+      "id": "1571568523745169710",
+      "name": "EC011_XOR_encoder_11_bits_V1.4.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1569674454903296021/1571568523745169710/XOR_encoder_11_bits_V1.4.litematic?ex=6afb34be&is=6af9e33e&hm=8b6f4efd11fd5680aab0740e37361063777bb47789047e0f342a6fee9f3ef975&",
+      "timestamp": 1794761533350,
       "author": {
         "type": "discord-external",
         "id": "670693115887091722",
@@ -48,12 +48,12 @@
       "description": "",
       "contentType": "unknown",
       "canDownload": true,
-      "hash": "0e7cf5e517b2b5b556e2d01986eac43efb6a21653f43af5f541ea620438d4657",
-      "path": "attachments/EC011_11_bits_XOR_encoder_V1.2.litematic",
-      "size": 11190,
+      "hash": "afecd9da1c0095445e4871fc048ac1f3b00b2a4be5e5b8cb23d95f2ea9c9a007",
+      "path": "attachments/EC011_XOR_encoder_11_bits_V1.4.litematic",
+      "size": 11042,
       "litematic": {
-        "size": "18x19x46",
-        "version": "1.21.8"
+        "size": "18x19x45",
+        "version": "26.3"
       }
     }
   ],
@@ -87,9 +87,9 @@
       "1569675830638944316"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1569675822191743078",
-    "uploadMessageId": "1569675817972400148"
+    "uploadMessageId": "1571568862384754910"
   },
   "archivedAt": 1794310276880,
-  "updatedAt": 1794310276880,
+  "updatedAt": 1794761614211,
   "num_comments": 0
 }
