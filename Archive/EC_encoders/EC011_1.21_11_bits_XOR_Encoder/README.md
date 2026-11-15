@@ -1,4 +1,6 @@
 # [1.21+] 11 bits XOR Encoder
+<img alt="image.png" src="images/image.png?raw=1" height="300px">
+
 **Authors:** *Matrixsu, Obi81*
 
 **Tags:** *Functional*
