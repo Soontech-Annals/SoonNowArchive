@@ -20,5 +20,5 @@ An 'Applebloom' Merger Slice with control wiring.
 Tested using Crea for over 8 million pairs.
 
 ## Resources
-- [MG006_Mini-mal_Merger_1.0.litematic](attachments/MG006_Mini-mal_Merger_1.0.litematic): MC 26.3, Size 6x9x19 blocks
-  - Tested for over 8 million pairs
+- [MG006_Mini-Mal_Merger_1.1.litematic](attachments/MG006_Mini-Mal_Merger_1.1.litematic): MC 26.3, Size 6x9x19 blocks
+  - Removed Artifact
