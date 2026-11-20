@@ -1,0 +1,126 @@
+{
+  "id": "1573174366265417850",
+  "name": "MAUD Splitter",
+  "code": "SG004",
+  "reservedCodes": [
+    "SG004"
+  ],
+  "pastPostThreadIds": [
+    "1573176255677730877"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "displayName": "JayRoi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1423911333883154452",
+      "username": "dashie_47",
+      "displayName": "Dashie",
+      "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/888de5912e97ed9af9a59970d4cbad38.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142610133782659",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1573174366785507389",
+      "name": "area_render_11_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1573174366265417850/1573174366785507389/area_render_11_.png?ex=6b010c4d&is=6affbacd&hm=bc299e921d066923d7150618f861f1ce335a2bc594409498261f454b8f18c015&",
+      "timestamp": 1795144397084,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "577991168369885223",
+        "username": "jayroi",
+        "displayName": "JayRoi",
+        "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 190312,
+      "canDownload": true,
+      "width": 1000,
+      "height": 907,
+      "path": "images/area_render_11_.png",
+      "hash": "f431e01a54d8cbfbaa38f0801677f0e1b5306370d31ce81cacbeb4b9c3bc0cd2",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1573174366265417850/1573174534029316227/1573174366785507389-area_render_11_.png?ex=6b010c75&is=6affbaf5&hm=8b9c22806b16f0e9e76cc5b70d6d84af000d7f7ec4a57815c63b8e0e039efbab&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1573174366374727760",
+      "name": "SG004_Maud_Splitter_1.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1573174366265417850/1573174366374727760/Maud_Splitter_1.0.litematic?ex=6b010c4d&is=6affbacd&hm=c93134a17210ca8f3954bd13fade585017f1e006ddc01f2cf7154a3a4880edf1&",
+      "timestamp": 1795144397084,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "577991168369885223",
+        "username": "jayroi",
+        "displayName": "JayRoi",
+        "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4884,
+      "canDownload": true,
+      "hash": "60166592773fe77e77cfa44730de32b742eb3ccaeaef9d27dd3dcf142f663baa",
+      "path": "attachments/SG004_Maud_Splitter_1.0.litematic",
+      "litematic": {
+        "size": "21x11x6",
+        "version": "26.3"
+      }
+    }
+  ],
+  "records": {
+    "description": "A compact, niche splitter.",
+    "features": [
+      "6-wide, 11-tall, 2wt slice with Unstackable separation",
+      "Distribution hopper locking",
+      "Can be paused for as little as 6gt, with a generous gap required before repeated pauses",
+      "Completely latch-less"
+    ],
+    "considerations": [
+      "There is no in-slice readout for empty-box availability. Boxes with small amounts of many item types are a known edge case that can break the splitter, though this has never occurred naturally with even high-variance survival boxes.",
+      "Pausing too frequently can increase the probability of the system running out of boxes.",
+      "Pausing for 4gt can cause the system to pause indefinitely, including when the control runs out of boxes.",
+      "When pausing, suddenly empty shulker boxes can break and despawn. Very rarely, one can replace the token item in the kissing hoppers. This is possible on every globally clocked splitter."
+    ],
+    "instructions": [
+      "If the system pauses indefinitely (only possible depending on how the user sets up the box distribution externally), pause and unpause it to fix the issue.",
+      "Use an empty box as the shuffling unstackable in the kissing hoppers to ensure that, if a suddenly empty box replaces it, the system outputs an empty box for every non-empty box input, (though it will not be the same box)."
+    ],
+    "notes": "Tested for millions of ticks in all directions and mirrored; also tested with thousands of Hermitcraft boxes using random pausing, both with a generous delay between pauses and with pauses as low as 6gt (the latter using an infinite box supply in each slice).",
+    "compatibility": "Tested in 26.3"
+  },
+  "styles": {
+    "description": {
+      "depth": 2,
+      "headerText": "Description"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1573176255677730877",
+    "forumId": "1325016579687059478",
+    "continuingMessageIds": [
+      "1573176266222207070"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1573176255677730877",
+    "uploadMessageId": "1573176252741849182"
+  },
+  "archivedAt": 1795144846234,
+  "updatedAt": 1795144846234,
+  "num_comments": 0
+}
