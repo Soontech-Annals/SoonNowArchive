@@ -4,7 +4,7 @@
   "code": "SG",
   "category": "Archives",
   "description": "A splitter takes mixed item input and outputs single type boxes",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1483704055048962160",
@@ -25,6 +25,11 @@
       "id": "1573174366265417850",
       "code": "SG004",
       "path": "SG004_MAUD_Splitter"
+    },
+    {
+      "id": "1573181659115819009",
+      "code": "SG005",
+      "path": "SG005_Big-Boy_Splitter"
     }
   ]
 }

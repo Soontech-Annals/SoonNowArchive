@@ -1,0 +1,105 @@
+{
+  "id": "1573181659115819009",
+  "name": "Big-Boy Splitter",
+  "code": "SG005",
+  "reservedCodes": [
+    "SG005"
+  ],
+  "pastPostThreadIds": [
+    "1573184967297605686"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "577991168369885223",
+      "username": "jayroi",
+      "displayName": "JayRoi",
+      "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142579892977704",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1573181660135030804",
+      "name": "area_render_12_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1573181659115819009/1573181660135030804/area_render_12_.png?ex=6b011318&is=6affc198&hm=3fdf74b2a294c303374fa66225c8d8f39dda277510d836be55a699c814cb9c8b&",
+      "timestamp": 1795146135835,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "577991168369885223",
+        "username": "jayroi",
+        "displayName": "JayRoi",
+        "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 230448,
+      "canDownload": true,
+      "width": 996,
+      "height": 1000,
+      "path": "images/area_render_12_.png",
+      "hash": "41855f62f6f2b42deeddcc297e7f7d7b457357aa4ed298c970b0361978920e86",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1573181659115819009/1573181800698875954/1573181660135030804-area_render_12_.png?ex=6b011339&is=6affc1b9&hm=f75caced91dc1761e33d0d105b5460161e0879b680b2f1fb26e47d9c8dd088c0&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1573181659547697232",
+      "name": "SG005_Big_Boy_Splitter_1.0.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1573181659115819009/1573181659547697232/Big_Boy_Splitter_1.0.litematic?ex=6b011317&is=6affc197&hm=35f92c6bdb5e4f842ddcfae93c3aaacc7377ed5f4786a9c079f70055d1db2183&",
+      "timestamp": 1795146135835,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "577991168369885223",
+        "username": "jayroi",
+        "displayName": "JayRoi",
+        "iconURL": "https://cdn.discordapp.com/avatars/577991168369885223/2775f84c1b6a1241468c6efdc8a320ce.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5510,
+      "canDownload": true,
+      "hash": "644f82b82efbea5420d801b33e89c0d4363af1490065332cb56467d0524eb9ba",
+      "path": "attachments/SG005_Big_Boy_Splitter_1.0.litematic",
+      "litematic": {
+        "size": "20x14x8",
+        "version": "26.3"
+      }
+    }
+  ],
+  "records": {
+    "description": "A full feature splitter, largely a re-wire of Optics.",
+    "features": [
+      "Locally clocked for reliable empty box collection.",
+      "Unstackable separation.",
+      "As pausable as a splitter can be.",
+      "In-slice distribution readout.",
+      "Locks all hoppers with inventories at idle."
+    ],
+    "notes": "- Box collection is not guaranteed when paused. This is effectively impossible with dueling hoppers anyway. \n- Technically, inputting a massive amount of boxes with unstackables can cause items to despawn. The fix would be having 4x hopperspeed unstackable/box filters. This issue exists on every splitter with global unstackable/box sorting and has never happened in survival.",
+    "compatibility": "Designed in 26.3"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1573184967297605686",
+    "forumId": "1325016579687059478",
+    "continuingMessageIds": [
+      "1573184978919891077"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1573184967297605686",
+    "uploadMessageId": "1573184965334671461"
+  },
+  "archivedAt": 1795146923329,
+  "updatedAt": 1795146923329,
+  "num_comments": 0
+}
