@@ -1,0 +1,107 @@
+{
+  "id": "1573847013567496302",
+  "name": "Applebloom Merger",
+  "code": "MG007",
+  "reservedCodes": [
+    "MG007"
+  ],
+  "pastPostThreadIds": [
+    "1573848729679560795"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1423911333883154452",
+      "username": "dashie_47",
+      "displayName": "Dashie",
+      "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145567302778950",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1573847013966217267",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1573847013567496302/1573847013966217267/image.png?ex=6b037ec0&is=6b022d40&hm=7488cf009ed0454c26c6102cd1d4bbb39d4ba0b887ec2ec4f2f2adeb31d8f1db&",
+      "timestamp": 1795304768698,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1423911333883154452",
+        "username": "dashie_47",
+        "displayName": "Dashie",
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "render of merger",
+      "size": 277704,
+      "canDownload": true,
+      "width": 1200,
+      "height": 647,
+      "path": "images/image.png",
+      "hash": "3e49d773591f15c5a25f1a198cd6f6df23f9df02df01e3ed6ee04e5d1980dd8c",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1573847013567496302/1573847222792228874/1573847013966217267-image.png?ex=6b037ef2&is=6b022d72&hm=3a5ef2d88bd54c425b5a7519a6641581bd467f932ac9e13230d2dc706af005d5&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1573847361141219359",
+      "name": "MG007_AppleBloom_Merger_v0.2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1573847013567496302/1573847361141219359/AppleBloom_Merger_v0.2.litematic?ex=6b037f13&is=6b022d93&hm=e52bbec56230cbd9bec43abf94e40f3850198f5676c7853bf52606372391d3b3&",
+      "timestamp": 1795304851638,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1423911333883154452",
+        "username": "dashie_47",
+        "displayName": "Dashie",
+        "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3045,
+      "canDownload": true,
+      "hash": "03e689e17d59c7436e1d250e382c72f9ec6815c34adf5e82e875d9693d542747",
+      "path": "attachments/MG007_AppleBloom_Merger_v0.2.litematic",
+      "litematic": {
+        "size": "22x8x5",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A component that takes out two split boxes and merges them together.",
+    "features": [
+      "Counter for status outputs, making assignment one of the fastest for a water input merger; batching starts as soon as a slice is assigned.",
+      "5w Merger slice and front end, making it absolutely tiny.",
+      "Relatively low piston activations and dust updates per slice.",
+      "Lamp displays show which slice is running."
+    ],
+    "instructions": [
+      "Put this after your temp and use a box comparer for speed optimization."
+    ],
+    "notes": "Magma under the breaking piston is mandatory if it's a source block.",
+    "compatibility": "1.19+"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1573848729679560795",
+    "forumId": "1325016556026990613",
+    "continuingMessageIds": [
+      "1573848742056952021"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1573848729679560795",
+    "uploadMessageId": "1573848721911709778"
+  },
+  "archivedAt": 1795305174783,
+  "updatedAt": 1795305174783,
+  "num_comments": 0
+}

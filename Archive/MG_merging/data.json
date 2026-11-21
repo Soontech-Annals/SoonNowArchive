@@ -4,7 +4,7 @@
   "code": "MG",
   "category": "Archives",
   "description": "A merger merges partial boxes into more full boxes",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1469767851882582087",
@@ -35,6 +35,11 @@
       "id": "1571395914382188627",
       "code": "MG006",
       "path": "MG006_Mini-Mal_Merger"
+    },
+    {
+      "id": "1573847013567496302",
+      "code": "MG007",
+      "path": "MG007_Applebloom_Merger"
     }
   ]
 }
