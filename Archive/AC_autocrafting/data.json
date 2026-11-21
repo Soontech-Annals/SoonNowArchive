@@ -5,11 +5,5 @@
   "category": "Archives",
   "description": "Automatically crafts items using the crafter block",
   "currentCodeId": 1,
-  "entries": [
-    {
-      "id": "1469531167295406102",
-      "code": "AC001",
-      "path": "AC001_Box_Color_Swapper"
-    }
-  ]
+  "entries": []
 }
