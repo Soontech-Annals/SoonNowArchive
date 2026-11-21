@@ -10,9 +10,11 @@
   ],
   "authors": [
     {
-      "type": "unknown",
-      "username": "Basil",
-      "url": "https://www.youtube.com/channel/UCPnXQIWXYlIWqL4RKYmk2vw"
+      "type": "discord-in-guild",
+      "id": "1423911333883154452",
+      "username": "dashie_47",
+      "displayName": "Dashie",
+      "iconURL": "https://cdn.discordapp.com/avatars/1423911333883154452/82603f51fba0331415f89efba3ea47b4.webp"
     }
   ],
   "endorsers": [],
@@ -125,6 +127,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1469531723720167617/1469531724273684530/area_render_30_.png?ex=69b2d851&is=69b186d1&hm=6402115daf2f093708ce1cd2646a113e88a06e0cf259e3fab851b47f8f185281&"
   },
   "archivedAt": 1770434063745,
-  "updatedAt": 1770435004326,
+  "updatedAt": 1795288262177,
   "num_comments": 0
 }

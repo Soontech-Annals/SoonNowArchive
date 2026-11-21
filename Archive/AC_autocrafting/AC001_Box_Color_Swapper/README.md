@@ -1,7 +1,7 @@
 # Box Color Swapper
 <img alt="area_render_30_.png" src="images/area_render_30_.png?raw=1" height="300px">
 
-**Authors:** *Basil*
+**Authors:** *Dashie*
 
 **Tags:** *Functional*
 

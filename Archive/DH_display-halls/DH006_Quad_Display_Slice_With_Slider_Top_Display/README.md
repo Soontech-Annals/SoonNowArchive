@@ -1,7 +1,7 @@
 # Quad Display Slice With Slider Top Display
 <img alt="slice2.png" src="images/slice2.png?raw=1" height="300px">
 
-**Authors:** *Basil, JayRoi*
+**Authors:** *Dashie, JayRoi*
 
 **Tags:** *Functional, Collectionful*
 
