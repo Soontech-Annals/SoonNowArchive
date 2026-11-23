@@ -1,7 +1,7 @@
 # Applebloom Merger
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *Dashie*
+**Authors:** *Dashie911*
 
 **Tags:** *Untested*
 

@@ -1,7 +1,7 @@
 # Mini-Mal Merger
 <img alt="area_render_9_.png" src="images/area_render_9_.png?raw=1" height="300px">
 
-**Authors:** *JayRoi, Dashie*
+**Authors:** *JayRoi, Dashie911*
 
 **Tags:** *Functional*
 

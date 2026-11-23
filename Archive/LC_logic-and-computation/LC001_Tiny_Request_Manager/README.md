@@ -1,7 +1,7 @@
 # Tiny Request Manager
 <img alt="pic.png" src="images/pic.png?raw=1" height="300px">
 
-**Authors:** *Dashie, heilzmaker, skyzy*
+**Authors:** *Dashie911, heilzmaker, skyzy*
 
 **Tags:** *Functional*
 

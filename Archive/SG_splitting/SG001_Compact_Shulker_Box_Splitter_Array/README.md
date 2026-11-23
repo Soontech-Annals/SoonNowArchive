@@ -1,7 +1,7 @@
 # Compact Shulker Box Splitter Array
 <img alt="area_render_20_.png" src="images/area_render_20_.png?raw=1" height="300px">
 
-**Authors:** *Dashie, Kizu*
+**Authors:** *Dashie911, Kizu*
 
 **Tags:** *Functional*
 

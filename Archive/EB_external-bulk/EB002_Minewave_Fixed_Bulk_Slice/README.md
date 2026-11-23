@@ -1,7 +1,7 @@
 # Minewave Fixed Bulk Slice
 <img alt="area_render_15_.png" src="images/area_render_15_.png?raw=1" height="300px">
 
-**Authors:** *Dashie*
+**Authors:** *Dashie911*
 
 **Tags:** *Functional*
 
