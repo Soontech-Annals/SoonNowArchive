@@ -1,0 +1,110 @@
+{
+  "id": "1574806827676467200",
+  "name": "BriccSplit v1.2",
+  "code": "SG006",
+  "reservedCodes": [
+    "SG006"
+  ],
+  "pastPostThreadIds": [
+    "1574808126786506783"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "727730797049806898",
+      "username": "sskyzy",
+      "displayName": "skyzy",
+      "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325142610133782659",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1574806828234178641",
+      "name": "BriccSplit_v1.2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1574806827676467200/1574806828234178641/area_render_153_.png?ex=6b06fca6&is=6b05ab26&hm=f95ccba33cf78797011168e975204d2e8034ab91032aaf6e59bcc02045b9bb09&",
+      "timestamp": 1795533606214,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "727730797049806898",
+        "username": "sskyzy",
+        "displayName": "skyzy",
+        "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 248885,
+      "canDownload": true,
+      "width": 1200,
+      "height": 676,
+      "path": "images/BriccSplit_v1.2.png",
+      "hash": "048c862d883a6c1d266ad1fa0dfc8fb5a53d862274d3869a87ae2c2024223b35",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1574806827676467200/1574807056903307394/1574806828234178641-briccsplit_v1.2.png?ex=6b06fcdc&is=6b05ab5c&hm=cef9b0a82f2238ffe8d86355df29a125f949bb01feb213e8a01a83a7f70aaed5&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1574806828641034351",
+      "name": "SG006_BriccSplit_v1.2.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1574806827676467200/1574806828641034351/BriccSplit_v1.2.litematic?ex=6b06fca6&is=6b05ab26&hm=58a2b6e2d5cea1eb59e56c696d378080cd90dde02bfea1505d87b6733e9820bc&",
+      "timestamp": 1795533606214,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "727730797049806898",
+        "username": "sskyzy",
+        "displayName": "skyzy",
+        "iconURL": "https://cdn.discordapp.com/avatars/727730797049806898/00d0b08b860ed57fbd2c228943b0de07.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4149,
+      "canDownload": true,
+      "hash": "54ee6475cf073d389f26407bf8647a9e1f6a405dba0764b00cd2c39da132d3fc",
+      "path": "attachments/SG006_BriccSplit_v1.2.litematic",
+      "litematic": {
+        "size": "22x9x6",
+        "version": "1.20.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Very small splitter array, slices are 6x8 and the frontend is 5 wide.",
+    "features": [
+      "8 splitters",
+      "No status outputs from the slices which is why its so small, uses a counter in the frontend to keep track of the array."
+    ],
+    "negatives": "- Slow distribution\n- Basically no hopperlocking\n- No unstackable separation, instead you must use a device that checks the output boxes for unstackables and removes said unstackables",
+    "instructions": [
+      "Put boxes in the input and it splits them for you",
+      "There is no second step"
+    ]
+  },
+  "styles": {
+    "negatives": {
+      "depth": 2,
+      "headerText": "Negatives"
+    }
+  },
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1574808126786506783",
+    "forumId": "1325016579687059478",
+    "continuingMessageIds": [
+      "1574808136798314569"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1574808126786506783",
+    "uploadMessageId": "1574808124068724856"
+  },
+  "archivedAt": 1795533914138,
+  "updatedAt": 1795533914138,
+  "num_comments": 0
+}

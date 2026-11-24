@@ -4,7 +4,7 @@
   "code": "SG",
   "category": "Archives",
   "description": "A splitter takes mixed item input and outputs single type boxes",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1483704055048962160",
@@ -30,6 +30,11 @@
       "id": "1573181659115819009",
       "code": "SG005",
       "path": "SG005_Big-Boy_Splitter"
+    },
+    {
+      "id": "1574806827676467200",
+      "code": "SG006",
+      "path": "SG006_BriccSplit_v1.2"
     }
   ]
 }
