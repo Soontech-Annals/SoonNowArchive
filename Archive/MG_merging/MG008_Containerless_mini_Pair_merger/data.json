@@ -1,0 +1,115 @@
+{
+  "id": "1574737579687940128",
+  "name": "Containerless mini Pair merger",
+  "code": "MG008",
+  "reservedCodes": [
+    "MG008"
+  ],
+  "pastPostThreadIds": [
+    "1574738895499829341"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1295694734546698245",
+      "username": "woop34_",
+      "displayName": "Lukeem",
+      "iconURL": "https://cdn.discordapp.com/avatars/1295694734546698245/de64449b0a90d9548f3ff7d61092fbcb.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "925291210325753907",
+      "username": "sandcaribou",
+      "displayName": "Caribous",
+      "iconURL": "https://cdn.discordapp.com/avatars/925291210325753907/2c9c8478caa4cdc2ba766bd327d0220b.webp"
+    }
+  ],
+  "endorsers": [],
+  "tags": [
+    {
+      "id": "1325145610235674624",
+      "name": "Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1574737579830673408",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1574737579687940128/1574737579830673408/image.png?ex=6b06bc28&is=6b056aa8&hm=9ed7069aa3a0bba9fc8e20ebecc2f7bda0e13d6c4c1fbe818f9be121382418c8&",
+      "timestamp": 1795517096207,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1295694734546698245",
+        "username": "woop34_",
+        "displayName": "Lukeem",
+        "iconURL": "https://cdn.discordapp.com/avatars/1295694734546698245/de64449b0a90d9548f3ff7d61092fbcb.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 114630,
+      "canDownload": true,
+      "width": 1000,
+      "height": 678,
+      "path": "images/image.png",
+      "hash": "7bb0fc9b12ba7410b72bf00bdd7886ffb9008938743163c036c9d1bc5f76d297",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1574737579687940128/1574737787901444198/1574737579830673408-image.png?ex=6b06bc59&is=6b056ad9&hm=958b7058dbb52d968ec0d1f0d5ff22a63ecb48db947befee113f848cc20205d8&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1574737924447146054",
+      "name": "MG008_cutie_wootie_pairy_mergie.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1574737579687940128/1574737924447146054/cutie_wootie_pairy_mergie.litematic?ex=6b06bc7a&is=6b056afa&hm=a3a0c02fc38cbc7bf33e8af9e283657409fe205c4aea092076b6c0bb918aa9fb&",
+      "timestamp": 1795517177387,
+      "author": {
+        "type": "discord-external",
+        "id": "1295694734546698245",
+        "username": "woop34_",
+        "iconURL": "https://cdn.discordapp.com/avatars/1295694734546698245/de64449b0a90d9548f3ff7d61092fbcb.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "e055f135d68225cf8524c20e662a6e877d4137eb2f545c96809c59870e59e579",
+      "path": "attachments/MG008_cutie_wootie_pairy_mergie.litematic",
+      "size": 2399,
+      "litematic": {
+        "size": "5x8x13",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Combines two boxes of the same item type into one bigger box.",
+    "features": [
+      "Can handle full boxes.",
+      "Uses 3 hoppers per slice.",
+      "Has a footprint of 8x5.",
+      "Requires no containers to be filled during construction."
+    ],
+    "instructions": [
+      "Use an external pair comparer in order to speed up merging",
+      "Don't input boxes at too close intervals (a normal whitelisting temp is plenty slow enough)",
+      "Needs a fill level sorter to sort out the output."
+    ],
+    "notes": "Expanding it to more than 4 slices requires a stream using magma blocks. Watch Jayroi's video on mergers to understand how it works.",
+    "compatibility": "1.19+ due to water stream changes"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1574738895499829341",
+    "forumId": "1325016556026990613",
+    "continuingMessageIds": [
+      "1574738911878586479"
+    ],
+    "threadURL": "https://discord.com/channels/1325008017015701504/1574738895499829341",
+    "uploadMessageId": "1574738892605628576"
+  },
+  "archivedAt": 1795517408313,
+  "updatedAt": 1795517408313,
+  "num_comments": 0
+}
