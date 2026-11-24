@@ -58,10 +58,10 @@
   ],
   "attachments": [
     {
-      "id": "1574737924447146054",
-      "name": "MG008_cutie_wootie_pairy_mergie.litematic",
-      "url": "https://cdn.discordapp.com/attachments/1574737579687940128/1574737924447146054/cutie_wootie_pairy_mergie.litematic?ex=6b06bc7a&is=6b056afa&hm=a3a0c02fc38cbc7bf33e8af9e283657409fe205c4aea092076b6c0bb918aa9fb&",
-      "timestamp": 1795517177387,
+      "id": "1574843562766504109",
+      "name": "MG008_Containerless_Mini_Merger.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1574737579687940128/1574843562766504109/Containerless_Mini_Merger.litematic?ex=6b071edc&is=6b05cd5c&hm=60c9e798fc940346a9f88dd1c9b848dbfecef49b611a808f04749c5844798f55&",
+      "timestamp": 1795542363671,
       "author": {
         "type": "discord-external",
         "id": "1295694734546698245",
@@ -69,14 +69,37 @@
         "iconURL": "https://cdn.discordapp.com/avatars/1295694734546698245/de64449b0a90d9548f3ff7d61092fbcb.webp"
       },
       "source": "DirectUpload",
-      "description": "",
+      "description": "Fixed 1 container having boxes from a previous test and added signs to tell you which box goes where",
       "contentType": "unknown",
       "canDownload": true,
-      "hash": "e055f135d68225cf8524c20e662a6e877d4137eb2f545c96809c59870e59e579",
-      "path": "attachments/MG008_cutie_wootie_pairy_mergie.litematic",
-      "size": 2399,
+      "hash": "bbb440c7f2cdfcd8003c5edc4dda37ae09a2479d4378d5a0c1141ce871cc87ab",
+      "path": "attachments/MG008_Containerless_Mini_Merger.litematic",
+      "size": 2404,
       "litematic": {
-        "size": "5x8x13",
+        "size": "6x8x14",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1574843825522872531",
+      "name": "MG008_Remote_Pair_Comparer.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1574737579687940128/1574843825522872531/Remote_Pair_Comparer.litematic?ex=6b071f1b&is=6b05cd9b&hm=75084e478358d580187428b87b8fadf705f79ddfab5ae4724affa827ca7bc372&",
+      "timestamp": 1795542426363,
+      "author": {
+        "type": "discord-external",
+        "id": "1295694734546698245",
+        "username": "woop34_",
+        "iconURL": "https://cdn.discordapp.com/avatars/1295694734546698245/de64449b0a90d9548f3ff7d61092fbcb.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Pair comparer that can be placed anywhere and connected to the merger by using the item lifetime. Bigger box is always first.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "a1f616e5f05d8610a8ab7d7f14c1e16c960c95c8d65c36a7c8cc22ebc9ee2ff7",
+      "path": "attachments/MG008_Remote_Pair_Comparer.litematic",
+      "size": 1567,
+      "litematic": {
+        "size": "6x6x9",
         "version": "1.21.11"
       }
     }
@@ -107,9 +130,9 @@
       "1574738911878586479"
     ],
     "threadURL": "https://discord.com/channels/1325008017015701504/1574738895499829341",
-    "uploadMessageId": "1574738892605628576"
+    "uploadMessageId": "1574844261747130368"
   },
   "archivedAt": 1795517408313,
-  "updatedAt": 1795517408313,
+  "updatedAt": 1795542530321,
   "num_comments": 0
 }

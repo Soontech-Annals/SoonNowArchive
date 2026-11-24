@@ -23,4 +23,7 @@ Expanding it to more than 4 slices requires a stream using magma blocks. Watch J
 1.19+ due to water stream changes
 
 ## Resources
-- [MG008_cutie_wootie_pairy_mergie.litematic](attachments/MG008_cutie_wootie_pairy_mergie.litematic): MC 1.21.11, Size 5x8x13 blocks
+- [MG008_Containerless_Mini_Merger.litematic](attachments/MG008_Containerless_Mini_Merger.litematic): MC 1.21.11, Size 6x8x14 blocks
+  - Fixed 1 container having boxes from a previous test and added signs to tell you which box goes where
+- [MG008_Remote_Pair_Comparer.litematic](attachments/MG008_Remote_Pair_Comparer.litematic): MC 1.21.11, Size 6x6x9 blocks
+  - Pair comparer that can be placed anywhere and connected to the merger by using the item lifetime. Bigger box is always first.
